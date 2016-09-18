@@ -1,4 +1,6 @@
-DROP SCHEMA drae;
+
+
+DROP SCHEMA IF EXISTS drae;
 
 CREATE SCHEMA IF NOT EXISTS drae;
 
@@ -17,6 +19,7 @@ CREATE TABLE etimologia (
 	);
     
 CREATE TABLE femenina (
+		id	int	NOT NULL,
 		palabra TEXT NOT NULL COLLATE utf8_bin
 	);
     
@@ -29,6 +32,7 @@ CREATE TABLE masculina (
 		palabra TEXT NOT NULL COLLATE utf8_bin
 	);
 CREATE TABLE palabra (
+		id	int	NOT NULL,
 		palabra TEXT NOT NULL COLLATE utf8_bin,
         texto TEXT NOT NULL COLLATE utf8_bin
 	);
