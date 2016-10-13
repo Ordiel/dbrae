@@ -34,7 +34,7 @@ CREATE TABLE masculina (
 CREATE TABLE palabra (
 		id	int	NOT NULL,
 		palabra TEXT NOT NULL COLLATE utf8_bin,
-        texto TEXT NOT NULL COLLATE utf8_bin
+		texto TEXT NOT NULL COLLATE utf8_bin
 	);
     
 CREATE TABLE palabra_multigenero (
