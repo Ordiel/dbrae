@@ -1,1501 +1,1509 @@
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('abejero', 'abejera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ablanedo', 'ablanero','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ablanedo', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('abonador', 'abonadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('acanto-', '-acanto','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('acanto-', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('acedia', 'acedía','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('acedia', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('aceitunero', 'aceitunera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('achichincle', 'achichinque','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('achichincle', 'achichintle','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('achichincle', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('achichincle', '<span >, ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('achiotero', 'achiotera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('acogido', 'acogida','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('acostado', 'acostada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('acústico', 'acústica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ademprio', 'ademprío','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ademprio', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('adnato', 'adnata','ta');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('aeróbic', 'aerobic','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('aeróbic', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('aerodinámico', 'aerodinámica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('aeromancia', 'aeromancía','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('aeromancia', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('aeronáutico', 'aeronáutica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('aerostato', 'aeróstato','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('aerostato', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('afeitador', 'afeitadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('afilador', 'afiladora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('áfilo', 'afilo','la');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('áfilo', '<span > o ','la');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('afirmativo', 'afirmativa','va');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('aforístico', 'aforística','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('afrodisíaco', 'afrodisiaco','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('afrodisíaco', '<span > o ','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('agar-agar', 'agaragar','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('agar-agar', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('agavillador', 'agavilladora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('agógico', 'agógica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('agracero', 'agracera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('agrafia', 'agrafía','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('agrafia', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('aguadero', 'aguadera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('aguaucle', 'aguautle','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('aguaucle', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('aguazul', 'aguazur','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('aguazul', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('aguzadero', 'aguzadera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('aguzador', 'aguzadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ahogador', 'ahogadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ahorrativo', 'ahorrativa','va');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ahuevado', 'ahuevada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ahumado', 'ahumada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('alabastrino', 'alabastrina','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('alabastrita', 'alabastrites','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('alabastrita', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('alacaluf', 'alacalufe','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('alacaluf', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('alauda', 'alaude','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('alauda', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('alavés', 'alavesa','sa');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('alazán', 'alazano','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('alazán', '<span > o ','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('albarizo', 'albariza','za');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('alcachofal', 'alcachofar','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('alcachofal', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('alcachofero', 'alcachofera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('alcací', 'alcacil','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('alcací', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('alcoholero', 'alcoholera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('aldeorrio', 'aldeorro','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('aldeorrio', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('alectomancia', 'alectomancía','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('alectomancia', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('alemán', 'alemana','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('alfoliero', 'alfolinero','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('alfoliero', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('alfonsino', 'alfonsina','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('algodonoso', 'algodonosa','sa');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('aljarfa', 'aljarfe','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('aljarfa', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('almarraja', 'almarraza','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('almarraja', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('almendrado', 'almendrada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('almizcleño', 'almizcleña','ña');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('almizclero', 'almizclera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('almocárabe', 'almocarbe','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('almocárabe', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('almogavaría', 'almogavería','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('almogavaría', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('almoháter', 'almohatre','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('almoháter', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('almojarifadgo', 'almojarifalgo','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('almojarifadgo', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('almojáter', 'almojatre','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('almojáter', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('almoraduj', 'almoradux','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('almoraduj', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('almotacenadgo', 'almotacenalgo','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('almotacenadgo', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('almotazaf', 'almotazán','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('almotazaf', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('almozala', 'almozalla','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('almozala', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('almudí', 'almudín','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('almudí', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('almuzala', 'almuzalla','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('almuzala', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('áloe', 'aloe','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('áloe', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('alpende', 'alpendre','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('alpende', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('alpistela', 'alpistera','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('alpistela', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('alquicel', 'alquicer','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('alquicel', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('altivez', 'altiveza','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('altivez', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('alvéolo', 'alveolo','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('alvéolo', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('alzacuello', 'alzacuellos','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('alzacuello', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('alzador', 'alzadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('amalecita', 'amalequita','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('amalecita', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('amancay', 'amancaya','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('amancay', 'amancayo','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('amancay', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('amancay', '<span >, ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('amanecido', 'amanecida','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('amansador', 'amansadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('amasador', 'amasadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ambarino', 'ambarina','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ambidextro', 'ambidiestro','tra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ambidextro', '<span > o ','tra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ambuesta', 'ambueza','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ambuesta', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ametrallador', 'ametralladora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('amoniaco', 'amoníaco','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('amoniaco', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ampliador', 'ampliadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('anacardino', 'anacardina','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('anafalla', 'anafaya','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('anafalla', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('anafrodisíaco', 'anafrodisiaco','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('anafrodisíaco', '<span > o ','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('anahuaca', 'anahuacense','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('anahuaca', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('andadero', 'andadera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('andoba', 'andóbal','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('andoba', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('anémona', 'anemona','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('anémona', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('anglístico', 'anglística','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('anhídrido', 'anhidrido','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('anhídrido', '<span > o ','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ansimesmo', 'ansimismo','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ansimesmo', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('antiafrodisíaco', 'antiafrodisiaco','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('antiafrodisíaco', '<span > o ','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('antuviado', 'antuviada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('apaste', 'apastle','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('apaste', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('apipisca', 'apipizca','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('apipisca', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('aplanador', 'aplanadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('apologético', 'apologética','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('apolónida', 'apolonida','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('apolónida', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('apopléjico', 'apoplético','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('apopléjico', '<span > o ','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('apretadero', 'apretadera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('archivístico', 'archivística','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('arenisco', 'arenisca','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('areola', 'aréola','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('areola', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('argentado', 'argentada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('argüendero', 'argüendera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('arismético', 'arismética','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('aritmético', 'aritmética','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('armoniaco', 'armoníaco','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('armoniaco', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('arrancador', 'arrancadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('arreado', 'arreada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('arrocero', 'arrocera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ascético', 'ascética','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('aserrador', 'aserradora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('asoleado', 'asoleada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('áspid', 'áspide','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('aspirador', 'aspiradora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('asunceno', 'asunceño','ña');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('asunceno', '<span > o ','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('atríaca', 'atriaca','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('atríaca', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('atunero', 'atunera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('austriaco', 'austríaco','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('austriaco', '<span > o ','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('autocrítico', 'autocrítica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('avellanero', 'avellanera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('axiomático', 'axiomática','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('azotado', 'azotada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('azucarero', 'azucarera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('azufrero', 'azufrera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('azulón', 'azulona','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bacinica', 'bacinilla','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bacinica', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bagual', 'baguala','la');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bailarín', 'bailarina','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bajero', 'bajera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bajines', 'bajini','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bajines', 'bajinis','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bajines', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bajines', '<span >, ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bálano', 'balano','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bálano', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('balaustrado', 'balaustrada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('balaustre', 'balaústre','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('balaustre', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('baldaquín', 'baldaquino','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('baldaquín', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ballenero', 'ballenera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bambú', 'bambuc','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bambú', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bañero', 'bañera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('baro-', '-baro','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('baro-', '<span > o ','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('barquillero', 'barquillera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('barredero', 'barredera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('barreño', 'barreña','ña');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bastonero', 'bastonera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('batidor', 'batidora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bávaro', 'bávara','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bayonés', 'bayonesa','sa');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bearnés', 'bearnesa','sa');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bebedero', 'bebedera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bebido', 'bebida','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('becqueriano', 'becqueriana','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bellotero', 'bellotera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bencinero', 'bencinera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('benemérito', 'benemérita','ta');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bérbero', 'bérberos','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bérbero', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bereber', 'beréber','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bereber', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('besamel', 'besamela','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('besamel', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('betume', 'betumen','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('betume', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bibliomancia', 'bibliomancía','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bibliomancia', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bienvenido', 'bienvenida','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('billetero', 'billetera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bimano', 'bímano','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bimano', '<span > o ','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bio-', '-bio','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('biofísico', 'biofísica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('biomecánico', 'biomecánica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bio-', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('biruje', 'biruji','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('biruje', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bisayo', 'bisaya','ya');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bisector', 'bisectriz','triz');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bla-bla-bla', 'blablablá','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bla-bla-bla', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('blanquillo', 'blanquilla','lla');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bocaza', 'bocazas','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bocaza', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('boleado', 'boleada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('boloñés', 'boloñesa','sa');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bombeta', 'bombetas','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bombeta', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bonitero', 'bonitera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('boratero', 'boratera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('borbotar', 'borbotear','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('borbotar', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('borcelano', 'borcelana','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bordelés', 'bordelesa','sa');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bosniaco', 'bosníaco','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bosniaco', '<span > o ','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bosquimán', 'bosquimano','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bosquimán', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('botasilla', 'botasillas','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('botasilla', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('breñal', 'breñar','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('breñal', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('briago', 'briaga','ga');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bribri', 'bribrí','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bribri', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('briofito', 'briófito','ta');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('briofito', '<span > o ','ta');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bronquiolo', 'bronquíolo','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bronquiolo', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bucare', 'búcare','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bucare', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bue', 'bué','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bue', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('buganvilia', 'buganvilla','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('buganvilia', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('buitrero', 'buitrera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bumbulín', 'bumbulón','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bumbulín', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('buñuelero', 'buñuelera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('buscabulla', 'buscabullas','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('buscabulla', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bustrófedon', 'bustrofedon','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bustrófedon', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bute', 'buten','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bute', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cabecero', 'cabecera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cabido', 'cabida','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cabrerizo', 'cabreriza','za');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cabruno', 'cabruna','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cacahuacentli', 'cacahuacintle','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cacahuacentli', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cacán', 'cacana','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cacán', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cachimbeado', 'cachimbeada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('caganido', 'caganidos','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('caganido', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cagatinta', 'cagatintas','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cagatinta', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('caído', 'caída','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('calabacero', 'calabacera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('calador', 'caladora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('calcedonio', 'calcedonia','nia');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('calculador', 'calculadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('caldudo', 'calduda','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('calizo', 'caliza','za');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('camarina', 'camariña','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('camarina', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('camaronero', 'camaronera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cámpago', 'campago','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cámpago', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('canastero', 'canastera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cancín', 'cancina','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('candongo', 'candonga','ga');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('canelado', 'canelada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cangrejero', 'cangrejera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('canillero', 'canillera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cantiga', 'cántiga','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cantiga', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cantonero', 'cantonera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cantor', 'cantora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('capirotado', 'capirotada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('capnomancia', 'capnomancía','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('capnomancia', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('capotero', 'capotera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('caracha', 'carache','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('caracha', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('carau', 'caraú','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('carau', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cardiaca', 'cardíaca','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cardiaca', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cardiaco', 'cardíaco','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cardiaco', '<span > o ','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cardio-', '-cardio','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cardio-', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('careto', 'careta','ta');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('carrasposo', 'carrasposa','sa');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cartel', 'cártel','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cartelero', 'cartelera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cartel', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cartomancia', 'cartomancía','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cartomancia', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('castellano-leonés', 'castellanoleonés','sa');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('castellano-leonés', '<span > o ','sa');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('castellano-manchego', 'castellanomanchego','ga');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('castellano-manchego', '<span > o ','ga');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('castrapuercas', 'castrapuercos','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('castrapuercas', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('casuístico', 'casuística','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('catabre', 'catabro','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('catabre', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('catapum', 'catapún','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('catapum', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('catenario', 'catenaria','ria');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('caterético', 'caterética','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('catóptrico', 'catóptrica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('catoptromancia', 'catoptromancía','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('catoptromancia', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('catorceno', 'catorcena','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cauchero', 'cauchera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('caudimano', 'caudímano','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('caudimano', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('causídico', 'causídica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cayagual', 'cayahual','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cayagual', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cazador', 'cazadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cefálico', 'cefálica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('celíaco', 'celíaca','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('celíaco', 'celiaco','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('celíaco', '<span > o ','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('celtíbero', 'celtíbera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('celtíbero', 'celtibero','--');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cencellada', 'cenceñada','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cencellada', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cenit', 'cénit','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cenit', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('centimano', 'centímano','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('centimano', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('centrifugador', 'centrifugadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cerámico', 'cerámica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cerasta', 'cerastas','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cerasta', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ceraunomancia', 'ceraunomancía','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ceraunomancia', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cerillero', 'cerillera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ceromancia', 'ceromancía','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ceromancia', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cerradero', 'cerradera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('certificatorio', 'certificatoria','ria');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('chachaguato', 'chachaguata','ta');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('chambergo', 'chamberga','ga');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('chamicero', 'chamicera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('chapeador', 'chapeadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('chibolo', 'chibola','la');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('chichicaste', 'chichicastle','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('chichicaste', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('chiquigüite', 'chiquihuite','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('chiquigüite', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('chiringo', 'chiringa','ga');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('chirusa', 'chiruza','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('chirusa', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('chivado', 'chivada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('chivero', 'chivera','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('chofer', 'chófer','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('chofer', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('chorreado', 'chorreada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('chungo', 'chunga','ga');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('chupa-chup', 'chupa-chups','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('chupa-chup', 'chupachús','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('chupa-chup', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('chupa-chup', '<span >, ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('chupamedia', 'chupamedias','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('chupamedia', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ciático', 'ciática','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ciclostil', 'ciclostilo','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ciclostil', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cinegético', 'cinegética','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cinemático', 'cinemática','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cinerario', 'cineraria','ria');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cinético', 'cinética','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cinqueno', 'cinquena','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cito-', '-cito','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cito-', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('clarificador', 'clarificadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cleptomaníaco', 'cleptomaniaco','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cleptomaníaco', '<span > o ','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cocoroco', 'cocoroca','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cóctel', 'coctel','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cóctel', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cogedero', 'cogedera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cogido', 'cogida','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cojinoba', 'cojinova','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cojinoba', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('combinatorio', 'combinatoria','ria');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('comelón', 'comelona','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('comilón', 'comilona','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('computador', 'computadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('conejero', 'conejera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('conejuno', 'conejuna','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cónico', 'cónica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('consumido', 'consumida','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('contradictorio', 'contradictoria','ria');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('convidado', 'convidada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('convocatorio', 'convocatoria','ria');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('copetón', 'copetona','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('copetudo', 'copetuda','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('copiador', 'copiadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('coralino', 'coralina','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('corchero', 'corchera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('corderino', 'corderina','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cordiaco', 'cordíaco','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cordiaco', '<span > o ','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('coronario', 'coronaria','ria');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('corralero', 'corralera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('corredero', 'corredera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('corroncho', 'corroncha','cha');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cortafuego', 'cortafuegos','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cortafuego', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cosechador', 'cosechadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cosmético', 'cosmética','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cosoria', 'cosoriola','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cosoria', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('costero', 'costera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cracoviano', 'cracoviana','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('crematístico', 'crematística','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cuadrumano', 'cuadrúmano','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cuadrumano', '<span > o ','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cubrecabeza', 'cubrecabezas','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cubrecabeza', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cucarachero', 'cucarachera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cuculmeque', 'cuculmeca','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cudrío', 'cudría','a');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('cuentístico', 'cuentística','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('culero', 'culera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('culinario', 'culinaria','ria');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('curativo', 'curativa','va');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('currutaco', 'currutaca','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('dactilo-', '-dáctilo','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('dactilo-', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('damasceno', 'damascena','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('declaratorio', 'declaratoria','ria');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('dedicatorio', 'dedicatoria','ria');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('defensivo', 'defensiva','va');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('defeso', 'defesa','sa');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('deixis', 'deíxis','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('deixis', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('delantero', 'delantera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('demoníaco', 'demoniaco','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('demoníaco', '<span > o ','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('demonomancia', 'demonomancía','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('demonomancia', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('dentellado', 'dentellada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('depurador', 'depuradora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('derechero', 'derechera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('derivado', 'derivada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('dermo-', '-dermo','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('dermo-', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('desalinizador', 'desalinizadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('descangallar', 'descangayar','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('descangallar', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('desfibrador', 'desfibradora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('desgarreate', 'desgarriate','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('desgarreate', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('desgranador', 'desgranadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('deshuesador', 'deshuesadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('desmentido', 'desmentida','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('desmotador', 'desmotadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('despernado', 'despernada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('despiporre', 'despiporren','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('despiporre', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('despistado', 'despistada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('destrozón', 'destrozona','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('detrito', 'detritus','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('detrito', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('dietético', 'dietética','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('difusor', 'difusora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('dihueñe', 'dihueñi','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('dihueñe', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('dilatorio', 'dilatoria','ria');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('dinámico', 'dinámica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('dinamo', 'dínamo','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('dinamo', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('dionisíaco', 'dionisiaco','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('dionisíaco', '<span > o ','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('dióptrico', 'dióptrica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('diplomático', 'diplomática','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('dipsomaníaco', 'dipsomaniaco','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('dipsomaníaco', '<span > o ','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('directivo', 'directiva','va');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('disgrafia', 'disgrafía','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('disgrafia', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('distribuidor', 'distribuidora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('docimástico', 'docimástica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('domínica', 'dominica','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('domínica', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('dormidero', 'dormidera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('dormilón', 'dormilona','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('eborario', 'eboraria','ria');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ecdótico', 'ecdótica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('egilope', 'egílope','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('egilope', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('egipciaco', 'egipcíaco','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('egipciaco', '<span > o ','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('electroacústico', 'electroacústica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('electrodinámico', 'electrodinámica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('electrolisis', 'electrólisis','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('electrolisis', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('electrolito', 'electrólito','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('electrolito', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('electromecánico', 'electromecánica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('electrónico', 'electrónica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('electroquímico', 'electroquímica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('electrostático', 'electrostática','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('elefancíaco', 'elefanciaco','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('elefancíaco', '<span > o ','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('elefancia', 'elefancía','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('elefancia', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('elegíaco', 'elegiaco','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('elegíaco', '<span > o ','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('elevador', 'elevadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('eliminatorio', 'eliminatoria','ria');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('élite', 'elite','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('élite', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('elixir', 'elíxir','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('elixir', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('embotellador', 'embotelladora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('emisor', 'emisora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('empacador', 'empacadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('empavesado', 'empavesada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('encerador', 'enceradora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('encimero', 'encimera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('encolador', 'encoladora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('encorchador', 'encorchadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('energético', 'energética','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('engañamundo', 'engañamundos','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('engañamundo', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ensabanado', 'ensabanada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ensayístico', 'ensayística','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ensenado', 'ensenada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ensillado', 'ensillada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('erótico', 'erótica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('escalado', 'escalada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('escaldado', 'escaldada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('escampado', 'escampada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('escapado', 'escapada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('escarchado', 'escarchada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('esclerótico', 'esclerótica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('escobero', 'escobera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('escombrero', 'escombrera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('escuincle', 'escuintle','tla');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('escuincle', '<span > o ','cla');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('esfácelo', 'esfacelo','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('esfácelo', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('espadado', 'espadada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('espagírico', 'espagírica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('españolado', 'españolada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('esparraguero', 'esparraguera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('espatulomancia', 'espatulomancía','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('espatulomancia', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('espetaperro', 'espetaperros','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('espetaperro', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('espigador', 'espigadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('esporófito', 'esporofito','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('esporófito', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('esquilador', 'esquiladora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('esquinero', 'esquinera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ester', 'éster','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ester', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('estilístico', 'estilística','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('estilográfico', 'estilográfica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('estimativo', 'estimativa','va');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('estocástico', 'estocástica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('estrujador', 'estrujadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('estudiantino', 'estudiantina','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('evasivo', 'evasiva','va');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ex cáthedra', 'ex cátedra','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ex cáthedra', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('excavador', 'excavadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('exegesis', 'exégesis','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('exegesis', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('exegeta', 'exégeta','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('exegeta', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('exoftalmia', 'exoftalmía','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('exoftalmia', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('exósmosis', 'exosmosis','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('exósmosis', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('extractor', 'extractora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('extrusor', 'extrusora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('fabulístico', 'fabulística','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('fago-', '‒́fago','ga');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('fago-', '<span > o ','ga');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('fagot', 'fagote','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('fagot', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('fajado', 'fajada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('falcado', 'falcada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('fangal', 'fangar','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('fangal', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('farandola', 'farándola','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('farandola', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('farmacocinético', 'farmacocinética','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('farruco', 'farruca','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('fastidiado', 'fastidiada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('fatamorgana', 'fata morgana','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('fatamorgana', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('feladiz', 'felariz','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('feladiz', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('figulino', 'figulina','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('filarmónico', 'filarmónica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('filmador', 'filmadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('filo-', '‒́filo','la');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('filo-', '<span > o ','la');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('finoúgrio', 'fino-ugrio','gria');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('finoúgrio', '<span > o ','gria');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('fisicoquímico', 'fisicoquímica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('fisiognómico', 'fisiognómica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('fito-', '-fito','ta');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('fito-', '<span > o ','ta');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('folíolo', 'foliolo','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('folíolo', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('fonemático', 'fonemática','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('fonético', 'fonética','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('fono-', '‒́fono','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('fonomímico', 'fonomímica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('fono-', '<span > o ','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('forrajero', 'forrajera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('fosco', 'fosca','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('fosforero', 'fosforera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('fotocopiador', 'fotocopiadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('fotograbador', 'fotograbadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('fotolisis', 'fotólisis','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('fotolisis', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('fotomecánico', 'fotomecánica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('fotoquímico', 'fotoquímica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('foxtrot', 'fox-trot','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('foxtrot', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('franjar', 'franjear','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('franjar', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('fregón', 'fregona','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('freidor', 'freidora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('frejón', 'fréjul','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('frejón', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('fresero', 'fresera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('friolero', 'friolera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('frontalero', 'frontalera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('funerario', 'funeraria','ria');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('fútbol', 'futbol','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('fútbol', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('galaicoportugués', 'galaico-portugués','sa');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('galaicoportugués', '<span > o ','sa');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('galgo', 'galga','ga');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('galileo', 'galilea','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('gallegoportugués', 'gallego-portugués','sa');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('gallegoportugués', '<span > o ','sa');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('galvanoplástico', 'galvanoplástica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('gambuj', 'gambujo','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('gambuj', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('gametófito', 'gametofito','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('gametófito', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('gamo-', '‒́gamo','ma');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('gamo-', '<span > o ','ma');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('garguero', 'gargüero','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('garguero', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('garrapiñado', 'garrapiñada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('garrotero', 'garrotera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('gaseoso', 'gaseosa','sa');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('genesíaco', 'genesiaco','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('genesíaco', '<span > o ','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('genético', 'genética','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('genetlíaca', 'genetliaca','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('genetlíaca', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('genetlíaco', 'genetliaca','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('genetlíaco', 'genetlíaca','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('genetlíaco', 'genetliaco','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('genetlíaco', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('geobotánico', 'geobotánica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('geofísico', 'geofísica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('geomancia', 'geomancía','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('geomancia', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('geoquímico', 'geoquímica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('geotécnico', 'geotécnica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('gerente', 'gerenta','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('giganteo', 'gigantea','a');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('gillete', 'gillette','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('gillete', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('gimnástico', 'gimnástica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('giratorio', 'giratoria','ria');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('giróstato', 'girostato','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('giróstato', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('gladíolo', 'gladiolo','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('gladíolo', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('gnomónico', 'gnomónica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('gorbiz', 'gorbizo','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('gorbiz', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('grabador', 'grabadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('gradíolo', 'gradiolo','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('gradíolo', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('grafila', 'gráfila','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('grafila', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('granadino', 'granadina','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('granillero', 'granillera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('granizado', 'granizada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('granujado', 'granujada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('grátil', 'gratil','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('grátil', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('greguescos', 'gregüescos','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('greguescos', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('guadamací', 'guadamacil','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('guadamací', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('guadañador', 'guadañadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('guajiro', 'guajira','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('guanero', 'guanera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('guantanamero', 'guantanamera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('guardabosque', 'guardabosques','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('guardabosque', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('guardapolvo', 'guardapolvos','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('guardapolvo', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('guayabero', 'guayabera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('guion', 'guión','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('guion', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('gurbio', 'gurbia','bia');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('gurrumino', 'gurrumina','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('habanero', 'habanera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('hadado', 'hadada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('haikai', 'hai-kai','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('haikai', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('haiku', 'haikú','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('haiku', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('hallado', 'hallada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('hamadría', 'hamadriada','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('hamadría', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('héctico', 'héctica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('hedentino', 'hedentina','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('helespontíaco', 'helespontiaco','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('helespontíaco', '<span > o ','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('helíaco', 'heliaco','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('helíaco', '<span > o ','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('helióstato', 'heliostato','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('helióstato', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('hemiplejia', 'hemiplejía','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('hemiplejia', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('hemorroísa', 'hemorroisa','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('hemorroísa', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('heráldico', 'heráldica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('herbolario', 'herbolaria','ria');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('herido', 'herida','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('hermenéutico', 'hermenéutica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('heteromancia', 'heteromancía','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('heteromancia', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('hético', 'hética','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('heurístico', 'heurística','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('hidráulico', 'hidráulica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('hidrodinámico', 'hidrodinámica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('hidrólisis', 'hidrolisis','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('hidrólisis', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('hidromancia', 'hidromancía','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('hidromancia', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('hidromel', 'hidromiel','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('hidromel', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('higüela', 'higuela','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('higüela', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('hilador', 'hiladora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('hipérbato', 'hipérbaton','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('hipérbato', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('hipercrítico', 'hipercrítica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('hípico', 'hípica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('hipocondríaco', 'hipocondriaco','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('hipocondríaco', '<span > o ','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('hipomaníaco', 'hipomaniaco','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('hipomaníaco', '<span > o ','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('hipomoclio', 'hipomoclion','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('hipomoclio', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('holandés', 'holandesa','sa');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('huauzontle', 'huazontle','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('huauzontle', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('huesero', 'huesera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('huesudo', 'huesuda','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('huich', 'huiche','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('huich', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('hulero', 'hulera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('humil', 'húmil','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('humilmente', 'húmilmente','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('humilmente', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('humil', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('humorado', 'humorada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ibero', 'íbero','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ibero', '<span > o ','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('icono', 'ícono','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('icono', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ilercaón', 'ilercavón','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ilercaón', '<span > o ','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ilíaco', 'iliaco','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ilíaco', '<span > o ','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('imperatorio', 'imperatoria','ria');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('impío', 'impía','a');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('impresor', 'impresora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('incógnito', 'incógnita','ta');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('indagatorio', 'indagatoria','ria');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('indumentario', 'indumentaria','ria');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('infraoctavo', 'infraoctava','va');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('iniciativo', 'iniciativa','va');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('inmobiliario', 'inmobiliaria','ria');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('intelectivo', 'intelectiva','va');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('intercolumnio', 'intercolunio','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('intercolumnio', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('in utroque iure', 'in utroque jure','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('in utroque iure', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('inventivo', 'inventiva','va');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('inyectador', 'inyectadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ion', 'ión','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ion', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ipso iure', 'ipso jure','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ipso iure', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('isiaco', 'isíaco','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('isiaco', '<span > o ','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('isóbara', 'isobara','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('isóbara', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('isógono', 'isógona','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('isoquímena', 'isoquimena','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('isoquímena', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('jacarandino', 'jacarandina','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('jacerino', 'jacerina','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('jaculatorio', 'jaculatoria','ria');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('jeremíaco', 'jeremiaco','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('jeremíaco', '<span > o ','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('jericalla', 'jericaya','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('jericalla', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('jeroglífico', 'jeroglífica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('jitomatero', 'jitomatera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('jopé', 'jope','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('jopé', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('judaico', 'judaica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('judiciario', 'judiciaria','ria');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('kárate', 'karate','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('kárate', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('kílim', 'kilim','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('kílim', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('kohl', 'kohol','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('kohl', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ladrillero', 'ladrillera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ladronesco', 'ladronesca','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('laminador', 'laminadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('laminero', 'laminera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('latiguero', 'latiguera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('laudatorio', 'laudatoria','ria');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('laureola', 'lauréola','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('laureola', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('lavador', 'lavadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('lavaloza', 'lavalozas','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('lavaloza', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('lavarropa', 'lavarropas','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('lavarropa', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('lavativo', 'lavativa','va');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('lecanomancia', 'lecanomancía','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('lecanomancia', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('lechigado', 'lechigada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('lechoso', 'lechosa','sa');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('leñero', 'leñera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('leonino', 'leonina','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('letigio', 'letijo','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('letigio', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('lidón', 'lidonero','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('lidón', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('limonado', 'limonada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('limonero', 'limonera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('limosnero', 'limosnera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('lingüístico', 'lingüística','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('lipemaniaco', 'lipemaníaco','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('lipemaniaco', '<span > o ','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('lito-', '-lito','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('lito-', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('lítotes', 'litotes','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('lítotes', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('llegado', 'llegada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('locomotor', 'locomotora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('longui', 'longuis','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('longui', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('lucillo', 'lucilo','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('lucillo', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('lustramueble', 'lustramuebles','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('lustramueble', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('machorro', 'machorra','rra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('macrobiótico', 'macrobiótica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('macrocosmo', 'macrocosmos','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('macrocosmo', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('mágico', 'mágica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('mahonés', 'mahonesa','sa');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('malagueño', 'malagueña','ña');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('malmatado', 'malmatada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('mambí', 'mambís','sa');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('mambí', '<span > o ','sa');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('mampuesto', 'mampuesta','ta');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('manchamantel', 'manchamanteles','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('manchamantel', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('-mancia', '-mancía','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('-mancia', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('mándala', 'mandala','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('mándala', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('mandarín', 'mandarina','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('mandrilador', 'mandriladora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('manganesa', 'manganesia','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('manganesa', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('maníaco', 'maniaco','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('maníaco', '<span > o ','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('mantecado', 'mantecada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('mantenedor', 'mantenedora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('manzanero', 'manzanera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('marcapaso', 'marcapasos','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('marcapaso', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('marcionista', 'marcionita','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('marcionista', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('mariachi', 'mariachis','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('mariachi', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('marinado', 'marinada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('maturrango', 'maturranga','ga');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('mayéutico', 'mayéutica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('mayúsculo', 'mayúscula','la');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('mazorquero', 'mazorquera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('mecateado', 'mecateada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('mecedor', 'mecedora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('mechudo', 'mechuda','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('médula', 'medula','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('médula', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('mejillonero', 'mejillonera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('melado', 'melada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('melero', 'melera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('mentado', 'mentada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('meón', 'meona','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('metálico', 'metálica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('metempsícosis', 'metempsicosis','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('metempsícosis', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('meteoro', 'metéoro','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('meteoro', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('metopa', 'métopa','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('metopa', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('mezclador', 'mezcladora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('mezzoforte', 'mezzo-forte','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('mezzoforte', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('microfilmador', 'microfilmadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('microscopia', 'microscopía','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('microscopia', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('milanés', 'milanesa','sa');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('mildiu', 'mildiú','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('mildiu', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('milésimo', 'milésima','ma');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('mímesis', 'mimesis','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('mímesis', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('mímico', 'mímica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('minúsculo', 'minúscula','la');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('mirabolano', 'mirabolanos','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('mirabolano', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('mirobálano', 'mirobálanos','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('mirobálano', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('misceláneo', 'miscelánea','a');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('mnemónico', 'mnemónica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('mnemotécnico', 'mnemotécnica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('moledero', 'moledera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('moleño', 'moleña','ña');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('monitorio', 'monitoria','ria');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('monomaníaco', 'monomaniaco','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('monomaníaco', '<span > o ','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('montador', 'montadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('mordido', 'mordida','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('morfo-', '-morfo','fa');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('morfo-', '<span > o ','fa');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('motero', 'motera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('motorizado', 'motorizada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('motor', 'motora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('movido', 'movida','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('mucilago', 'mucílago','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('mucilago', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('mue', 'mué','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('mue', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('multiuso', 'multiusos','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('multiuso', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('muon', 'muón','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('muon', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('muslim', 'muslime','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('muslim', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('nacido', 'nacida','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('naíf', 'naif','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('naíf', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('nanche', 'nanchi','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('nanche', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('napolitano', 'napolitana','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('naranjado', 'naranjada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('naranjero', 'naranjera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('narizón', 'narizona','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('narrativo', 'narrativa','va');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('naviero', 'naviera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('necromancia', 'necromancía','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('necromancia', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('negrito', 'negrita','ta');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('nemónico', 'nemónica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('nemotécnico', 'nemotécnica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('neroli', 'nerolí','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('neroli', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('neumático', 'neumática','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('nigromancia', 'nigromancía','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('nigromancia', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('nomónico', 'nomónica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('novelístico', 'novelística','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('nubado', 'nubada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('nubarrado', 'nubarrada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('numismático', 'numismática','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ñurdo', 'ñurda','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ocotero', 'ocotera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('oftalmia', 'oftalmía','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('oftalmia', '<span > u ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ojalador', 'ojaladora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ojeado', 'ojeada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('olimpiaco', 'olimpíaco','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('olimpiaco', '<span > u ','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('olimpiada', 'olimpíada','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('olimpiada', '<span > u ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('omóplato', 'omoplato','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('omóplato', '<span > u ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('onicomancia', 'onicomancía','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('onicomancia', '<span > u ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('oniromancia', 'oniromancía','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('oniromancia', '<span > u ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('onomancia', 'onomancía','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('onomancia', '<span > u ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('onomástico', 'onomástica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('opiato', 'opiata','ta');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('óptico', 'óptica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ordeñador', 'ordeñadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('orfre', 'orfrés','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('orfre', '<span > u ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('orgía', 'orgia','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('orgía', '<span > u ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ornitomancia', 'ornitomancía','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ornitomancia', '<span > u ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('orquídeo', 'orquídea','a');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ostrero', 'ostrera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pabilo', 'pábilo','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pabilo', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pachiche', 'pachichi','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pachiche', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pachola', 'pacholi','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pachola', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pachulí', 'pachuli','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pachulí', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pajado', 'pajada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pajarota', 'pajarotada','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pajarota', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pajuila', 'pajuilla','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pajuila', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('palanquero', 'palanquera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('panificador', 'panificadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('panorámico', 'panorámica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pañuso', 'pañusa','sa');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('papú', 'papúa','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('papú', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('paradisíaco', 'paradisiaco','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('paradisíaco', '<span > o ','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('paralimpiada', 'paralimpíada','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('paralimpiada', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('paramero', 'paramera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('paraplejia', 'paraplejía','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('paraplejia', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pardillo', 'pardilla','lla');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('parolimpiada', 'parolimpíada','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('parolimpiada', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('parrillero', 'parrillera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('parsec', 'pársec','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('parsec', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('parturienta', 'parturiente','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('parturienta', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pastor', 'pastora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pastrano', 'pastrana','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('patrístico', 'patrística','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('patrono', 'patrona','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pavonado', 'pavonada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pche', 'pchs','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pche', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pecíolo', 'peciolo','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pecíolo', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pedorrero', 'pedorrera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pedrizo', 'pedriza','za');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('peinado', 'peinada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('peinador', 'peinadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('peleón', 'peleona','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pelícano', 'pelicano','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pelícano', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pelón', 'pelona','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('peloponesiaco', 'peloponesíaco','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('peloponesiaco', '<span > o ','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pensil', 'pénsil','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pensil', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pentagrama', 'pentágrama','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pentagrama', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('período', 'periodo','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('período', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('persuasivo', 'persuasiva','va');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('peticano', 'peticanon','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('peticano', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('petitorio', 'petitoria','ria');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('petroleoquímico', 'petroleoquímica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('petroquímico', 'petroquímica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('picaresco', 'picaresca','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('picoso', 'picosa','sa');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pilongo', 'pilonga','ga');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pinolero', 'pinolera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pion', 'pión','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pion', 'pión','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pion', '<span > o ','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pion', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('piromancia', 'piromancía','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('piromancia', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pisador', 'pisadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pistero', 'pistera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pitayal', 'pitayar','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pitayal', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pitorá', 'pitora','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pitorá', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('píxel', 'pixel','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('píxel', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('platanero', 'platanera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('playero', 'playera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('plim', 'plin','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('plim', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('plumado', 'plumada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('podo-', '‒́podo','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('podo-', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('polémico', 'polémica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('policíaco', 'policiaco','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('policíaco', '<span > o ','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('policromo', 'polícromo','ma');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('policromo', '<span > o ','ma');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('polígloto', 'poligloto','ta');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('polígloto', '<span > o ','ta');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('polonés', 'polonesa','sa');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('poltrón', 'poltrona','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pompi', 'pompis','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pompi', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('portaequipaje', 'portaequipajes','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('portaequipaje', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('portafolio', 'portafolios','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('portafolio', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('portalámpara', 'portalámparas','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('portalámpara', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('portaobjeto', 'portaobjetos','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('portaobjeto', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('portarretrato', 'portarretratos','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('portarretrato', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('postizo', 'postiza','za');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pragmático', 'pragmática','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('premiso', 'premisa','sa');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('présago', 'presago','ga');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('présago', '<span > o ','ga');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('présbita', 'présbite','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('présbita', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pringado', 'pringada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('prion', 'prión','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('prion', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('probatorio', 'probatoria','ria');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('procero', 'prócero','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('procero', '<span > o ','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('productor', 'productora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('profiláctico', 'profiláctica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('propedéutico', 'propedéutica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('prospectivo', 'prospectiva','va');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('psicofísico', 'psicofísica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('psicolingüístico', 'psicolingüística','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ptero-', '‒́ptero','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ptero-', '<span > o ','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pucará', 'pucara','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pucará', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pudin', 'pudín','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pudin', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pulguiento', 'pulguienta','ta');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pulmoníaco', 'pulmoniaco','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pulmoníaco', '<span > o ','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('purpurino', 'purpurina','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pututo', 'pututu','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('pututo', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('quebrador', 'quebradora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('quebrantador', 'quebrantadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('quejigal', 'quejigar','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('quejigal', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('quincuagésimo', 'quincuagésima','ma');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('quinesioterapia', 'quinesiterapia','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('quinesioterapia', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('quinesioterápico', 'quinesiterápico','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('quinesioterápico', '<span > o ','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('quiromancia', 'quiromancía','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('quiromancia', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('quiropráctico', 'quiropráctica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('quitado', 'quitada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('rabanero', 'rabanera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('raboseado', 'raboseada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('radiodifusor', 'radiodifusora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ragtime', 'rag-time','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ragtime', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('raíl', 'rail','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('raíl', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('rancajado', 'rancajada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ranglán', 'ranglan','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ranglán', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('rascabuchar', 'rascabuchear','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('rascabuchar', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('rasgado', 'rasgada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ratonero', 'ratonera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('recocido', 'recocida','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('rectificador', 'rectificadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('refaccionario', 'refaccionaria','ria');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('réferi', 'referí','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('réferi', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('refrigerador', 'refrigeradora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('regidoría', 'regiduría','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('regidoría', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('remachador', 'remachadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('remisorio', 'remisoria','ria');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('reostato', 'reóstato','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('reostato', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('repanchigarse', 'repanchingarse','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('repanchigarse', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('repantigarse', 'repantingarse','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('repantigarse', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('reparado', 'reparada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('reposero', 'reposera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('reptil', 'réptil','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('reptil', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('resbaladero', 'resbaladera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('resolano', 'resolana','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('resoli', 'resolí','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('resoli', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('responsivo', 'responsiva','va');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('retentivo', 'retentiva','va');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('reuma', 'reúma','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('reuma', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('revistero', 'revistera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('revolero', 'revolera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('revolvedor', 'revolvedora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('rezador', 'rezadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('rezandero', 'rezandera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('rielero', 'rielera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('rizófito', 'rizofito','ta');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('rizófito', '<span > o ','ta');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('róbalo', 'robalo','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('róbalo', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('rodillero', 'rodillera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('rodrejo', 'rodreja','ja');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('rogativo', 'rogativa','va');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('rompedero', 'rompedera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('roncador', 'roncadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('rondeño', 'rondeña','ña');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('rosariero', 'rosariera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('rosoli', 'rosolí','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('rosoli', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('rotativo', 'rotativa','va');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('rotulador', 'rotuladora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('roturador', 'roturadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ruan', 'ruán','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('ruan', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('rubeola', 'rubéola','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('rubeola', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('rufianesco', 'rufianesca','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('sabanero', 'sabanera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('sabatino', 'sabatina','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('saboyano', 'saboyana','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('sacarino', 'sacarina','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('sacrismoche', 'sacrismocho','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('sacrismoche', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('saetero', 'saetera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('sahariano', 'sahariana','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('salamanquino', 'salamanquina','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('salvajino', 'salvajina','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('salvapantalla', 'salvapantallas','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('salvapantalla', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('sarracín', 'sarracina','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('satinador', 'satinadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('secador', 'secadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('sedeño', 'sedeña','ña');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('segadero', 'segadera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('selen-', 'seleno-','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('selen-', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('semántico', 'semántica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('sembrador', 'sembradora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('semiperíodo', 'semiperiodo','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('semiperíodo', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('sensitivo', 'sensitiva','va');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('séptimo', 'séptima','ma');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('septuagésimo', 'septuagésima','ma');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('serrador', 'serradora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('sicomoro', 'sicómoro','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('sicomoro', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('simoniaco', 'simoníaco','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('simoniaco', '<span > o ','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('siriaco', 'siríaco','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('siriaco', '<span > o ','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('sociolingüístico', 'sociolingüística','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('sofístico', 'sofística','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('soldadesco', 'soldadesca','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('solo', 'sólo','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('solo', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('sopero', 'sopera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('sorrapar', 'sorrapear','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('sorrapar', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('sottovoce', 'sotto voce','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('sottovoce', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('sufridero', 'sufridera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('sulfatador', 'sulfatadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('suplicatorio', 'suplicatoria','ria');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('tabarro', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('tabarro', 'tábarro','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('tabulador', 'tabuladora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('taladrador', 'taladradora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('tallado', 'tallada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('tangado', 'tangada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('tángana', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('tángana', 'tangana','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('tangerino', 'tangerina','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('tapacubo', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('tapacubo', 'tapacubos','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('taparrabo', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('taparrabo', 'taparrabos','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('taponador', 'taponadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('tasajero', 'tasajera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('taxón', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('taxón', 'taxon','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('tectónico', 'tectónica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('tecuín', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('tecuín', 'tecuino','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('tejedor', 'tejedora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('telequinesia', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('telequinesia', 'telequinesis','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('temático', 'temática','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('tentativo', 'tentativa','va');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('teorético', 'teorética','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('terapéutico', 'terapéutica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('teredo', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('teredo', 'teredón','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('teresiano', 'teresiana','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('termodinámico', 'termodinámica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('terrizo', 'terriza','za');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('testerillo', 'testerilla','lla');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('tetraplejia', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('tetraplejia', 'tetraplejía','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('tifoideo', 'tifoidea','a');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('tilichero', 'tilichera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('timonero', 'timonera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('tiritón', 'tiritona','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('tísico', 'tísica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('tiznero', 'tiznera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('tobillero', 'tobillera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('tomatero', 'tomatera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('topador', 'topadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('tormentario', 'tormentaria','ria');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('tortícolis', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('tortícolis', 'torticolis','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('traído', 'traída','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('tramontano', 'tramontana','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('trasero', 'trasera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('trasmontano', 'trasmontana','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('trasnochado', 'trasnochada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('trasplantador', 'trasplantadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('travesío', 'travesía','a');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('travesti', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('travesti', 'travestí','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('travieso', 'traviesa','sa');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('tríada', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('tríada', 'tríade','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('triaquero', 'triaquera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('tribada', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('tribada', 'tríbada','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('triglifo', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('triglifo', 'tríglifo','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('triguero', 'triguera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('trillador', 'trilladora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('triturador', 'trituradora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('trochemoche', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('trochemoche', 'troche y moche','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('troica', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('troica', 'troika','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('tronado', 'tronada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('true', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('true', 'trué','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('truhan', '<span > o ','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('truhan', 'truhán','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('tumbón', 'tumbona','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('umbrío', 'umbría','a');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('uñado', 'uñada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('un', 'una','una');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('urbanístico', 'urbanística','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('uromancia', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('uromancia', 'uromancía','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('valgo', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('valgo', 'valgus','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('valón', 'valona','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('vaquerizo', 'vaqueriza','za');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('varice', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('varice', 'várice','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('varsoviano', 'varsoviana','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('veintiuno', 'veintiuna','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('velador', 'veladora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('velís', 'veliz','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('velonero', 'velonera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('veranero', 'veranera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('verdeceladón', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('verdeceladón', 'verdeceledón','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('vermú', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('vermú', 'vermut','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('veterinario', 'veterinaria','ria');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('villanesco', 'villanesca','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('virado', 'virada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('visitador', 'visitadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('vitrocerámico', 'vitrocerámica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('voladero', 'voladera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('volador', 'voladora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('volandero', 'volandera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('vómico', 'vómica','ca');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('vuelacerca', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('vuelacerca', 'vuelacercas','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('windsurfing', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('windsurfing', 'wind surfing','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('windsurf', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('windsurf', 'wind surf','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('xeroftalmia', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('xeroftalmia', 'xeroftalmía','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('yérsey', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('yérsey', 'yersi','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('yóquey', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('yóquey', 'yoqui','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('yusero', 'yusera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('zafado', 'zafada','da');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('zafirino', 'zafirina','na');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('zaguero', 'zaguera','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('zatico', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('zatico', 'zatillo','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('zodiaco', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('zodiaco', 'zodíaco','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('zoo-', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('zoo-', '-zoo','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('zumacal', '<span > o ','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('zumacal', 'zumacar','<!!special!!>');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('zumbador', 'zumbadora','ra');
-INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('zurito', 'zurita','ta');
+USE drae;
+
+INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('abejero', 'abejera','ra'),
+	('ablanedo', 'ablanero','<!!special!!>'),
+	('ablanedo', '<span > o ','<!!special!!>'),
+	('abonador', 'abonadora','ra'),
+	('acanto-', '-acanto','<!!special!!>'),
+	('acanto-', '<span > o ','<!!special!!>'),
+	('acedia', 'acedía','<!!special!!>'),
+	('acedia', '<span > o ','<!!special!!>'),
+	('aceitunero', 'aceitunera','ra'),
+	('achichincle', 'achichinque','<!!special!!>'),
+	('achichincle', 'achichintle','<!!special!!>'),
+	('achichincle', '<span > o ','<!!special!!>'),
+	('achichincle', '<span >, ','<!!special!!>'),
+	('achiotero', 'achiotera','ra'),
+	('acogido', 'acogida','da'),
+	('acostado', 'acostada','da'),
+	('acústico', 'acústica','ca'),
+	('ademprio', 'ademprío','<!!special!!>'),
+	('ademprio', '<span > o ','<!!special!!>'),
+	('adnato', 'adnata','ta'),
+	('aeróbic', 'aerobic','<!!special!!>'),
+	('aeróbic', '<span > o ','<!!special!!>'),
+	('aerodinámico', 'aerodinámica','ca'),
+	('aeromancia', 'aeromancía','<!!special!!>'),
+	('aeromancia', '<span > o ','<!!special!!>'),
+	('aeronáutico', 'aeronáutica','ca'),
+	('aerostato', 'aeróstato','<!!special!!>'),
+	('aerostato', '<span > o ','<!!special!!>'),
+	('afeitador', 'afeitadora','ra'),
+	('afilador', 'afiladora','ra'),
+	('áfilo', 'afilo','la'),
+	('áfilo', '<span > o ','la'),
+	('afirmativo', 'afirmativa','va'),
+	('aforístico', 'aforística','ca'),
+	('afrodisíaco', 'afrodisiaco','ca'),
+	('afrodisíaco', '<span > o ','ca'),
+	('agar-agar', 'agaragar','<!!special!!>'),
+	('agar-agar', '<span > o ','<!!special!!>'),
+	('agavillador', 'agavilladora','ra'),
+	('agógico', 'agógica','ca'),
+	('agracero', 'agracera','ra'),
+	('agrafia', 'agrafía','<!!special!!>'),
+	('agrafia', '<span > o ','<!!special!!>'),
+	('aguadero', 'aguadera','ra'),
+	('aguaucle', 'aguautle','<!!special!!>'),
+	('aguaucle', '<span > o ','<!!special!!>'),
+	('aguazul', 'aguazur','<!!special!!>'),
+	('aguazul', '<span > o ','<!!special!!>'),
+	('aguzadero', 'aguzadera','ra'),
+	('aguzador', 'aguzadora','ra'),
+	('ahogador', 'ahogadora','ra'),
+	('ahorrativo', 'ahorrativa','va'),
+	('ahuevado', 'ahuevada','da'),
+	('ahumado', 'ahumada','da'),
+	('alabastrino', 'alabastrina','na'),
+	('alabastrita', 'alabastrites','<!!special!!>'),
+	('alabastrita', '<span > o ','<!!special!!>'),
+	('alacaluf', 'alacalufe','<!!special!!>'),
+	('alacaluf', '<span > o ','<!!special!!>'),
+	('alauda', 'alaude','<!!special!!>'),
+	('alauda', '<span > o ','<!!special!!>'),
+	('alavés', 'alavesa','sa'),
+	('alazán', 'alazano','na'),
+	('alazán', '<span > o ','na'),
+	('albarizo', 'albariza','za'),
+	('alcachofal', 'alcachofar','<!!special!!>'),
+	('alcachofal', '<span > o ','<!!special!!>'),
+	('alcachofero', 'alcachofera','ra'),
+	('alcací', 'alcacil','<!!special!!>'),
+	('alcací', '<span > o ','<!!special!!>'),
+	('alcoholero', 'alcoholera','ra'),
+	('aldeorrio', 'aldeorro','<!!special!!>'),
+	('aldeorrio', '<span > o ','<!!special!!>'),
+	('alectomancia', 'alectomancía','<!!special!!>'),
+	('alectomancia', '<span > o ','<!!special!!>'),
+	('alemán', 'alemana','na'),
+	('alfoliero', 'alfolinero','<!!special!!>'),
+	('alfoliero', '<span > o ','<!!special!!>'),
+	('alfonsino', 'alfonsina','na'),
+	('algodonoso', 'algodonosa','sa'),
+	('aljarfa', 'aljarfe','<!!special!!>'),
+	('aljarfa', '<span > o ','<!!special!!>'),
+	('almarraja', 'almarraza','<!!special!!>'),
+	('almarraja', '<span > o ','<!!special!!>'),
+	('almendrado', 'almendrada','da'),
+	('almizcleño', 'almizcleña','ña'),
+	('almizclero', 'almizclera','ra'),
+	('almocárabe', 'almocarbe','<!!special!!>'),
+	('almocárabe', '<span > o ','<!!special!!>'),
+	('almogavaría', 'almogavería','<!!special!!>'),
+	('almogavaría', '<span > o ','<!!special!!>'),
+	('almoháter', 'almohatre','<!!special!!>'),
+	('almoháter', '<span > o ','<!!special!!>'),
+	('almojarifadgo', 'almojarifalgo','<!!special!!>'),
+	('almojarifadgo', '<span > o ','<!!special!!>'),
+	('almojáter', 'almojatre','<!!special!!>'),
+	('almojáter', '<span > o ','<!!special!!>'),
+	('almoraduj', 'almoradux','<!!special!!>'),
+	('almoraduj', '<span > o ','<!!special!!>'),
+	('almotacenadgo', 'almotacenalgo','<!!special!!>'),
+	('almotacenadgo', '<span > o ','<!!special!!>'),
+	('almotazaf', 'almotazán','<!!special!!>'),
+	('almotazaf', '<span > o ','<!!special!!>'),
+	('almozala', 'almozalla','<!!special!!>'),
+	('almozala', '<span > o ','<!!special!!>'),
+	('almudí', 'almudín','<!!special!!>'),
+	('almudí', '<span > o ','<!!special!!>'),
+	('almuzala', 'almuzalla','<!!special!!>'),
+	('almuzala', '<span > o ','<!!special!!>'),
+	('áloe', 'aloe','<!!special!!>'),
+	('áloe', '<span > o ','<!!special!!>'),
+	('alpende', 'alpendre','<!!special!!>'),
+	('alpende', '<span > o ','<!!special!!>'),
+	('alpistela', 'alpistera','<!!special!!>'),
+	('alpistela', '<span > o ','<!!special!!>'),
+	('alquicel', 'alquicer','<!!special!!>'),
+	('alquicel', '<span > o ','<!!special!!>'),
+	('altivez', 'altiveza','<!!special!!>'),
+	('altivez', '<span > o ','<!!special!!>'),
+	('alvéolo', 'alveolo','<!!special!!>'),
+	('alvéolo', '<span > o ','<!!special!!>'),
+	('alzacuello', 'alzacuellos','<!!special!!>'),
+	('alzacuello', '<span > o ','<!!special!!>'),
+	('alzador', 'alzadora','ra'),
+	('amalecita', 'amalequita','<!!special!!>'),
+	('amalecita', '<span > o ','<!!special!!>'),
+	('amancay', 'amancaya','<!!special!!>'),
+	('amancay', 'amancayo','<!!special!!>'),
+	('amancay', '<span > o ','<!!special!!>'),
+	('amancay', '<span >, ','<!!special!!>'),
+	('amanecido', 'amanecida','da'),
+	('amansador', 'amansadora','ra'),
+	('amasador', 'amasadora','ra'),
+	('ambarino', 'ambarina','na'),
+	('ambidextro', 'ambidiestro','tra'),
+	('ambidextro', '<span > o ','tra'),
+	('ambuesta', 'ambueza','<!!special!!>'),
+	('ambuesta', '<span > o ','<!!special!!>'),
+	('ametrallador', 'ametralladora','ra'),
+	('amoniaco', 'amoníaco','<!!special!!>'),
+	('amoniaco', '<span > o ','<!!special!!>'),
+	('ampliador', 'ampliadora','ra'),
+	('anacardino', 'anacardina','na'),
+	('anafalla', 'anafaya','<!!special!!>'),
+	('anafalla', '<span > o ','<!!special!!>'),
+	('anafrodisíaco', 'anafrodisiaco','ca'),
+	('anafrodisíaco', '<span > o ','ca'),
+	('anahuaca', 'anahuacense','<!!special!!>'),
+	('anahuaca', '<span > o ','<!!special!!>'),
+	('andadero', 'andadera','ra'),
+	('andoba', 'andóbal','<!!special!!>'),
+	('andoba', '<span > o ','<!!special!!>'),
+	('anémona', 'anemona','<!!special!!>'),
+	('anémona', '<span > o ','<!!special!!>'),
+	('anglístico', 'anglística','ca'),
+	('anhídrido', 'anhidrido','da'),
+	('anhídrido', '<span > o ','da'),
+	('ansimesmo', 'ansimismo','<!!special!!>'),
+	('ansimesmo', '<span > o ','<!!special!!>'),
+	('antiafrodisíaco', 'antiafrodisiaco','ca'),
+	('antiafrodisíaco', '<span > o ','ca'),
+	('antuviado', 'antuviada','da'),
+	('apaste', 'apastle','<!!special!!>'),
+	('apaste', '<span > o ','<!!special!!>'),
+	('apipisca', 'apipizca','<!!special!!>'),
+	('apipisca', '<span > o ','<!!special!!>'),
+	('aplanador', 'aplanadora','ra'),
+	('apologético', 'apologética','ca'),
+	('apolónida', 'apolonida','<!!special!!>'),
+	('apolónida', '<span > o ','<!!special!!>'),
+	('apopléjico', 'apoplético','ca'),
+	('apopléjico', '<span > o ','ca'),
+	('apretadero', 'apretadera','ra'),
+	('archivístico', 'archivística','ca'),
+	('arenisco', 'arenisca','ca'),
+	('areola', 'aréola','<!!special!!>'),
+	('areola', '<span > o ','<!!special!!>'),
+	('argentado', 'argentada','da'),
+	('argüendero', 'argüendera','ra'),
+	('arismético', 'arismética','ca'),
+	('aritmético', 'aritmética','ca'),
+	('armoniaco', 'armoníaco','<!!special!!>'),
+	('armoniaco', '<span > o ','<!!special!!>'),
+	('arrancador', 'arrancadora','ra'),
+	('arreado', 'arreada','da'),
+	('arrocero', 'arrocera','ra'),
+	('ascético', 'ascética','ca'),
+	('aserrador', 'aserradora','ra'),
+	('asoleado', 'asoleada','da'),
+	('áspid', 'áspide','<!!special!!>'),
+	('aspirador', 'aspiradora','ra'),
+	('asunceno', 'asunceño','ña'),
+	('asunceno', '<span > o ','na'),
+	('atríaca', 'atriaca','<!!special!!>'),
+	('atríaca', '<span > o ','<!!special!!>'),
+	('atunero', 'atunera','ra'),
+	('austriaco', 'austríaco','ca'),
+	('austriaco', '<span > o ','ca'),
+	('autocrítico', 'autocrítica','ca'),
+	('avellanero', 'avellanera','ra'),
+	('axiomático', 'axiomática','ca'),
+	('azotado', 'azotada','da'),
+	('azucarero', 'azucarera','ra'),
+	('azufrero', 'azufrera','ra'),
+	('azulón', 'azulona','na'),
+	('bacinica', 'bacinilla','<!!special!!>'),
+	('bacinica', '<span > o ','<!!special!!>'),
+	('bagual', 'baguala','la'),
+	('bailarín', 'bailarina','na'),
+	('bajero', 'bajera','ra'),
+	('bajines', 'bajini','<!!special!!>'),
+	('bajines', 'bajinis','<!!special!!>'),
+	('bajines', '<span > o ','<!!special!!>'),
+	('bajines', '<span >, ','<!!special!!>'),
+	('bálano', 'balano','<!!special!!>'),
+	('bálano', '<span > o ','<!!special!!>'),
+	('balaustrado', 'balaustrada','da'),
+	('balaustre', 'balaústre','<!!special!!>'),
+	('balaustre', '<span > o ','<!!special!!>'),
+	('baldaquín', 'baldaquino','<!!special!!>'),
+	('baldaquín', '<span > o ','<!!special!!>'),
+	('ballenero', 'ballenera','ra'),
+	('bambú', 'bambuc','<!!special!!>'),
+	('bambú', '<span > o ','<!!special!!>'),
+	('bañero', 'bañera','ra'),
+	('baro-', '-baro','ra'),
+	('baro-', '<span > o ','ra'),
+	('barquillero', 'barquillera','ra'),
+	('barredero', 'barredera','ra'),
+	('barreño', 'barreña','ña'),
+	('bastonero', 'bastonera','ra'),
+	('batidor', 'batidora','ra'),
+	('bávaro', 'bávara','ra'),
+	('bayonés', 'bayonesa','sa'),
+	('bearnés', 'bearnesa','sa'),
+	('bebedero', 'bebedera','ra'),
+	('bebido', 'bebida','da'),
+	('becqueriano', 'becqueriana','na'),
+	('bellotero', 'bellotera','ra'),
+	('bencinero', 'bencinera','ra'),
+	('benemérito', 'benemérita','ta'),
+	('bérbero', 'bérberos','<!!special!!>'),
+	('bérbero', '<span > o ','<!!special!!>'),
+	('bereber', 'beréber','<!!special!!>'),
+	('bereber', '<span > o ','<!!special!!>'),
+	('besamel', 'besamela','<!!special!!>'),
+	('besamel', '<span > o ','<!!special!!>'),
+	('betume', 'betumen','<!!special!!>'),
+	('betume', '<span > o ','<!!special!!>'),
+	('bibliomancia', 'bibliomancía','<!!special!!>');
+
+INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('bibliomancia', '<span > o ','<!!special!!>'),
+	('bienvenido', 'bienvenida','da'),
+	('billetero', 'billetera','ra'),
+	('bimano', 'bímano','na'),
+	('bimano', '<span > o ','na'),
+	('bio-', '-bio','<!!special!!>'),
+	('biofísico', 'biofísica','ca'),
+	('biomecánico', 'biomecánica','ca'),
+	('bio-', '<span > o ','<!!special!!>'),
+	('biruje', 'biruji','<!!special!!>'),
+	('biruje', '<span > o ','<!!special!!>'),
+	('bisayo', 'bisaya','ya'),
+	('bisector', 'bisectriz','triz'),
+	('bla-bla-bla', 'blablablá','<!!special!!>'),
+	('bla-bla-bla', '<span > o ','<!!special!!>'),
+	('blanquillo', 'blanquilla','lla'),
+	('bocaza', 'bocazas','<!!special!!>'),
+	('bocaza', '<span > o ','<!!special!!>'),
+	('boleado', 'boleada','da'),
+	('boloñés', 'boloñesa','sa'),
+	('bombeta', 'bombetas','<!!special!!>'),
+	('bombeta', '<span > o ','<!!special!!>'),
+	('bonitero', 'bonitera','ra'),
+	('boratero', 'boratera','ra'),
+	('borbotar', 'borbotear','<!!special!!>'),
+	('borbotar', '<span > o ','<!!special!!>'),
+	('borcelano', 'borcelana','na'),
+	('bordelés', 'bordelesa','sa'),
+	('bosniaco', 'bosníaco','ca'),
+	('bosniaco', '<span > o ','ca'),
+	('bosquimán', 'bosquimano','<!!special!!>'),
+	('bosquimán', '<span > o ','<!!special!!>'),
+	('botasilla', 'botasillas','<!!special!!>'),
+	('botasilla', '<span > o ','<!!special!!>'),
+	('breñal', 'breñar','<!!special!!>'),
+	('breñal', '<span > o ','<!!special!!>'),
+	('briago', 'briaga','ga'),
+	('bribri', 'bribrí','<!!special!!>'),
+	('bribri', '<span > o ','<!!special!!>'),
+	('briofito', 'briófito','ta'),
+	('briofito', '<span > o ','ta'),
+	('bronquiolo', 'bronquíolo','<!!special!!>'),
+	('bronquiolo', '<span > o ','<!!special!!>'),
+	('bucare', 'búcare','<!!special!!>'),
+	('bucare', '<span > o ','<!!special!!>'),
+	('bue', 'bué','<!!special!!>'),
+	('bue', '<span > o ','<!!special!!>'),
+	('buganvilia', 'buganvilla','<!!special!!>'),
+	('buganvilia', '<span > o ','<!!special!!>'),
+	('buitrero', 'buitrera','ra'),
+	('bumbulín', 'bumbulón','<!!special!!>'),
+	('bumbulín', '<span > o ','<!!special!!>'),
+	('buñuelero', 'buñuelera','ra'),
+	('buscabulla', 'buscabullas','<!!special!!>'),
+	('buscabulla', '<span > o ','<!!special!!>'),
+	('bustrófedon', 'bustrofedon','<!!special!!>'),
+	('bustrófedon', '<span > o ','<!!special!!>'),
+	('bute', 'buten','<!!special!!>'),
+	('bute', '<span > o ','<!!special!!>'),
+	('cabecero', 'cabecera','ra'),
+	('cabido', 'cabida','da'),
+	('cabrerizo', 'cabreriza','za'),
+	('cabruno', 'cabruna','na'),
+	('cacahuacentli', 'cacahuacintle','<!!special!!>'),
+	('cacahuacentli', '<span > o ','<!!special!!>'),
+	('cacán', 'cacana','<!!special!!>'),
+	('cacán', '<span > o ','<!!special!!>'),
+	('cachimbeado', 'cachimbeada','da'),
+	('caganido', 'caganidos','<!!special!!>'),
+	('caganido', '<span > o ','<!!special!!>'),
+	('cagatinta', 'cagatintas','<!!special!!>'),
+	('cagatinta', '<span > o ','<!!special!!>'),
+	('caído', 'caída','da'),
+	('calabacero', 'calabacera','ra'),
+	('calador', 'caladora','ra'),
+	('calcedonio', 'calcedonia','nia'),
+	('calculador', 'calculadora','ra'),
+	('caldudo', 'calduda','da'),
+	('calizo', 'caliza','za'),
+	('camarina', 'camariña','<!!special!!>'),
+	('camarina', '<span > o ','<!!special!!>'),
+	('camaronero', 'camaronera','ra'),
+	('cámpago', 'campago','<!!special!!>'),
+	('cámpago', '<span > o ','<!!special!!>'),
+	('canastero', 'canastera','ra'),
+	('cancín', 'cancina','na'),
+	('candongo', 'candonga','ga'),
+	('canelado', 'canelada','da'),
+	('cangrejero', 'cangrejera','ra'),
+	('canillero', 'canillera','ra'),
+	('cantiga', 'cántiga','<!!special!!>'),
+	('cantiga', '<span > o ','<!!special!!>'),
+	('cantonero', 'cantonera','ra'),
+	('cantor', 'cantora','ra'),
+	('capirotado', 'capirotada','da'),
+	('capnomancia', 'capnomancía','<!!special!!>'),
+	('capnomancia', '<span > o ','<!!special!!>'),
+	('capotero', 'capotera','ra'),
+	('caracha', 'carache','<!!special!!>'),
+	('caracha', '<span > o ','<!!special!!>'),
+	('carau', 'caraú','<!!special!!>'),
+	('carau', '<span > o ','<!!special!!>'),
+	('cardiaca', 'cardíaca','<!!special!!>'),
+	('cardiaca', '<span > o ','<!!special!!>'),
+	('cardiaco', 'cardíaco','ca'),
+	('cardiaco', '<span > o ','ca'),
+	('cardio-', '-cardio','<!!special!!>'),
+	('cardio-', '<span > o ','<!!special!!>'),
+	('careto', 'careta','ta'),
+	('carrasposo', 'carrasposa','sa'),
+	('cartel', 'cártel','<!!special!!>'),
+	('cartelero', 'cartelera','ra'),
+	('cartel', '<span > o ','<!!special!!>'),
+	('cartomancia', 'cartomancía','<!!special!!>'),
+	('cartomancia', '<span > o ','<!!special!!>'),
+	('castellano-leonés', 'castellanoleonés','sa'),
+	('castellano-leonés', '<span > o ','sa'),
+	('castellano-manchego', 'castellanomanchego','ga'),
+	('castellano-manchego', '<span > o ','ga'),
+	('castrapuercas', 'castrapuercos','<!!special!!>'),
+	('castrapuercas', '<span > o ','<!!special!!>'),
+	('casuístico', 'casuística','ca'),
+	('catabre', 'catabro','<!!special!!>'),
+	('catabre', '<span > o ','<!!special!!>'),
+	('catapum', 'catapún','<!!special!!>'),
+	('catapum', '<span > o ','<!!special!!>'),
+	('catenario', 'catenaria','ria'),
+	('caterético', 'caterética','ca'),
+	('catóptrico', 'catóptrica','ca'),
+	('catoptromancia', 'catoptromancía','<!!special!!>'),
+	('catoptromancia', '<span > o ','<!!special!!>'),
+	('catorceno', 'catorcena','na'),
+	('cauchero', 'cauchera','ra'),
+	('caudimano', 'caudímano','<!!special!!>'),
+	('caudimano', '<span > o ','<!!special!!>'),
+	('causídico', 'causídica','ca'),
+	('cayagual', 'cayahual','<!!special!!>'),
+	('cayagual', '<span > o ','<!!special!!>'),
+	('cazador', 'cazadora','ra'),
+	('cefálico', 'cefálica','ca'),
+	('celíaco', 'celíaca','ca'),
+	('celíaco', 'celiaco','ca'),
+	('celíaco', '<span > o ','ca'),
+	('celtíbero', 'celtíbera','ra'),
+	('celtíbero', 'celtibero','--'),
+	('cencellada', 'cenceñada','<!!special!!>'),
+	('cencellada', '<span > o ','<!!special!!>'),
+	('cenit', 'cénit','<!!special!!>'),
+	('cenit', '<span > o ','<!!special!!>'),
+	('centimano', 'centímano','<!!special!!>'),
+	('centimano', '<span > o ','<!!special!!>'),
+	('centrifugador', 'centrifugadora','ra'),
+	('cerámico', 'cerámica','ca'),
+	('cerasta', 'cerastas','<!!special!!>'),
+	('cerasta', '<span > o ','<!!special!!>'),
+	('ceraunomancia', 'ceraunomancía','<!!special!!>'),
+	('ceraunomancia', '<span > o ','<!!special!!>'),
+	('cerillero', 'cerillera','ra'),
+	('ceromancia', 'ceromancía','<!!special!!>'),
+	('ceromancia', '<span > o ','<!!special!!>'),
+	('cerradero', 'cerradera','ra'),
+	('certificatorio', 'certificatoria','ria'),
+	('chachaguato', 'chachaguata','ta'),
+	('chambergo', 'chamberga','ga'),
+	('chamicero', 'chamicera','ra'),
+	('chapeador', 'chapeadora','ra'),
+	('chibolo', 'chibola','la'),
+	('chichicaste', 'chichicastle','<!!special!!>'),
+	('chichicaste', '<span > o ','<!!special!!>'),
+	('chiquigüite', 'chiquihuite','<!!special!!>'),
+	('chiquigüite', '<span > o ','<!!special!!>'),
+	('chiringo', 'chiringa','ga'),
+	('chirusa', 'chiruza','<!!special!!>'),
+	('chirusa', '<span > o ','<!!special!!>'),
+	('chivado', 'chivada','da'),
+	('chivero', 'chivera','<!!special!!>'),
+	('chofer', 'chófer','<!!special!!>'),
+	('chofer', '<span > o ','<!!special!!>'),
+	('chorreado', 'chorreada','da'),
+	('chungo', 'chunga','ga'),
+	('chupa-chup', 'chupa-chups','<!!special!!>'),
+	('chupa-chup', 'chupachús','<!!special!!>'),
+	('chupa-chup', '<span > o ','<!!special!!>'),
+	('chupa-chup', '<span >, ','<!!special!!>'),
+	('chupamedia', 'chupamedias','<!!special!!>'),
+	('chupamedia', '<span > o ','<!!special!!>'),
+	('ciático', 'ciática','ca'),
+	('ciclostil', 'ciclostilo','<!!special!!>'),
+	('ciclostil', '<span > o ','<!!special!!>'),
+	('cinegético', 'cinegética','ca'),
+	('cinemático', 'cinemática','ca'),
+	('cinerario', 'cineraria','ria'),
+	('cinético', 'cinética','ca'),
+	('cinqueno', 'cinquena','na'),
+	('cito-', '-cito','<!!special!!>'),
+	('cito-', '<span > o ','<!!special!!>'),
+	('clarificador', 'clarificadora','ra'),
+	('cleptomaníaco', 'cleptomaniaco','ca'),
+	('cleptomaníaco', '<span > o ','ca'),
+	('cocoroco', 'cocoroca','ca'),
+	('cóctel', 'coctel','<!!special!!>'),
+	('cóctel', '<span > o ','<!!special!!>'),
+	('cogedero', 'cogedera','ra'),
+	('cogido', 'cogida','da'),
+	('cojinoba', 'cojinova','<!!special!!>'),
+	('cojinoba', '<span > o ','<!!special!!>'),
+	('combinatorio', 'combinatoria','ria'),
+	('comelón', 'comelona','na'),
+	('comilón', 'comilona','na'),
+	('computador', 'computadora','ra'),
+	('conejero', 'conejera','ra'),
+	('conejuno', 'conejuna','na'),
+	('cónico', 'cónica','ca'),
+	('consumido', 'consumida','da'),
+	('contradictorio', 'contradictoria','ria'),
+	('convidado', 'convidada','da'),
+	('convocatorio', 'convocatoria','ria'),
+	('copetón', 'copetona','na'),
+	('copetudo', 'copetuda','da'),
+	('copiador', 'copiadora','ra'),
+	('coralino', 'coralina','na'),
+	('corchero', 'corchera','ra'),
+	('corderino', 'corderina','na'),
+	('cordiaco', 'cordíaco','ca'),
+	('cordiaco', '<span > o ','ca'),
+	('coronario', 'coronaria','ria'),
+	('corralero', 'corralera','ra'),
+	('corredero', 'corredera','ra'),
+	('corroncho', 'corroncha','cha'),
+	('cortafuego', 'cortafuegos','<!!special!!>'),
+	('cortafuego', '<span > o ','<!!special!!>'),
+	('cosechador', 'cosechadora','ra'),
+	('cosmético', 'cosmética','ca'),
+	('cosoria', 'cosoriola','<!!special!!>'),
+	('cosoria', '<span > o ','<!!special!!>'),
+	('costero', 'costera','ra'),
+	('cracoviano', 'cracoviana','na'),
+	('crematístico', 'crematística','ca'),
+	('cuadrumano', 'cuadrúmano','na'),
+	('cuadrumano', '<span > o ','na'),
+	('cubrecabeza', 'cubrecabezas','<!!special!!>'),
+	('cubrecabeza', '<span > o ','<!!special!!>'),
+	('cucarachero', 'cucarachera','ra'),
+	('cuculmeque', 'cuculmeca','ca'),
+	('cudrío', 'cudría','a'),
+	('cuentístico', 'cuentística','ca'),
+	('culero', 'culera','ra'),
+	('culinario', 'culinaria','ria'),
+	('curativo', 'curativa','va');
+
+INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('currutaco', 'currutaca','ca'),
+	('dactilo-', '-dáctilo','<!!special!!>'),
+	('dactilo-', '<span > o ','<!!special!!>'),
+	('damasceno', 'damascena','na'),
+	('declaratorio', 'declaratoria','ria'),
+	('dedicatorio', 'dedicatoria','ria'),
+	('defensivo', 'defensiva','va'),
+	('defeso', 'defesa','sa'),
+	('deixis', 'deíxis','<!!special!!>'),
+	('deixis', '<span > o ','<!!special!!>'),
+	('delantero', 'delantera','ra'),
+	('demoníaco', 'demoniaco','ca'),
+	('demoníaco', '<span > o ','ca'),
+	('demonomancia', 'demonomancía','<!!special!!>'),
+	('demonomancia', '<span > o ','<!!special!!>'),
+	('dentellado', 'dentellada','da'),
+	('depurador', 'depuradora','ra'),
+	('derechero', 'derechera','ra'),
+	('derivado', 'derivada','da'),
+	('dermo-', '-dermo','<!!special!!>'),
+	('dermo-', '<span > o ','<!!special!!>'),
+	('desalinizador', 'desalinizadora','ra'),
+	('descangallar', 'descangayar','<!!special!!>'),
+	('descangallar', '<span > o ','<!!special!!>'),
+	('desfibrador', 'desfibradora','ra'),
+	('desgarreate', 'desgarriate','<!!special!!>'),
+	('desgarreate', '<span > o ','<!!special!!>'),
+	('desgranador', 'desgranadora','ra'),
+	('deshuesador', 'deshuesadora','ra'),
+	('desmentido', 'desmentida','da'),
+	('desmotador', 'desmotadora','ra'),
+	('despernado', 'despernada','da'),
+	('despiporre', 'despiporren','<!!special!!>'),
+	('despiporre', '<span > o ','<!!special!!>'),
+	('despistado', 'despistada','da'),
+	('destrozón', 'destrozona','na'),
+	('detrito', 'detritus','<!!special!!>'),
+	('detrito', '<span > o ','<!!special!!>'),
+	('dietético', 'dietética','ca'),
+	('difusor', 'difusora','ra'),
+	('dihueñe', 'dihueñi','<!!special!!>'),
+	('dihueñe', '<span > o ','<!!special!!>'),
+	('dilatorio', 'dilatoria','ria'),
+	('dinámico', 'dinámica','ca'),
+	('dinamo', 'dínamo','<!!special!!>'),
+	('dinamo', '<span > o ','<!!special!!>'),
+	('dionisíaco', 'dionisiaco','ca'),
+	('dionisíaco', '<span > o ','ca'),
+	('dióptrico', 'dióptrica','ca'),
+	('diplomático', 'diplomática','ca'),
+	('dipsomaníaco', 'dipsomaniaco','ca'),
+	('dipsomaníaco', '<span > o ','ca'),
+	('directivo', 'directiva','va'),
+	('disgrafia', 'disgrafía','<!!special!!>'),
+	('disgrafia', '<span > o ','<!!special!!>'),
+	('distribuidor', 'distribuidora','ra'),
+	('docimástico', 'docimástica','ca'),
+	('domínica', 'dominica','<!!special!!>'),
+	('domínica', '<span > o ','<!!special!!>'),
+	('dormidero', 'dormidera','ra'),
+	('dormilón', 'dormilona','na'),
+	('eborario', 'eboraria','ria'),
+	('ecdótico', 'ecdótica','ca'),
+	('egilope', 'egílope','<!!special!!>'),
+	('egilope', '<span > o ','<!!special!!>'),
+	('egipciaco', 'egipcíaco','ca'),
+	('egipciaco', '<span > o ','ca'),
+	('electroacústico', 'electroacústica','ca'),
+	('electrodinámico', 'electrodinámica','ca'),
+	('electrolisis', 'electrólisis','<!!special!!>'),
+	('electrolisis', '<span > o ','<!!special!!>'),
+	('electrolito', 'electrólito','<!!special!!>'),
+	('electrolito', '<span > o ','<!!special!!>'),
+	('electromecánico', 'electromecánica','ca'),
+	('electrónico', 'electrónica','ca'),
+	('electroquímico', 'electroquímica','ca'),
+	('electrostático', 'electrostática','ca'),
+	('elefancíaco', 'elefanciaco','ca'),
+	('elefancíaco', '<span > o ','ca'),
+	('elefancia', 'elefancía','<!!special!!>'),
+	('elefancia', '<span > o ','<!!special!!>'),
+	('elegíaco', 'elegiaco','ca'),
+	('elegíaco', '<span > o ','ca'),
+	('elevador', 'elevadora','ra'),
+	('eliminatorio', 'eliminatoria','ria'),
+	('élite', 'elite','<!!special!!>'),
+	('élite', '<span > o ','<!!special!!>'),
+	('elixir', 'elíxir','<!!special!!>'),
+	('elixir', '<span > o ','<!!special!!>'),
+	('embotellador', 'embotelladora','ra'),
+	('emisor', 'emisora','ra'),
+	('empacador', 'empacadora','ra'),
+	('empavesado', 'empavesada','da'),
+	('encerador', 'enceradora','ra'),
+	('encimero', 'encimera','ra'),
+	('encolador', 'encoladora','ra'),
+	('encorchador', 'encorchadora','ra'),
+	('energético', 'energética','ca'),
+	('engañamundo', 'engañamundos','<!!special!!>'),
+	('engañamundo', '<span > o ','<!!special!!>'),
+	('ensabanado', 'ensabanada','da'),
+	('ensayístico', 'ensayística','ca'),
+	('ensenado', 'ensenada','da'),
+	('ensillado', 'ensillada','da'),
+	('erótico', 'erótica','ca'),
+	('escalado', 'escalada','da'),
+	('escaldado', 'escaldada','da'),
+	('escampado', 'escampada','da'),
+	('escapado', 'escapada','da'),
+	('escarchado', 'escarchada','da'),
+	('esclerótico', 'esclerótica','ca'),
+	('escobero', 'escobera','ra'),
+	('escombrero', 'escombrera','ra'),
+	('escuincle', 'escuintle','tla'),
+	('escuincle', '<span > o ','cla'),
+	('esfácelo', 'esfacelo','<!!special!!>'),
+	('esfácelo', '<span > o ','<!!special!!>'),
+	('espadado', 'espadada','da'),
+	('espagírico', 'espagírica','ca'),
+	('españolado', 'españolada','da'),
+	('esparraguero', 'esparraguera','ra'),
+	('espatulomancia', 'espatulomancía','<!!special!!>'),
+	('espatulomancia', '<span > o ','<!!special!!>'),
+	('espetaperro', 'espetaperros','<!!special!!>'),
+	('espetaperro', '<span > o ','<!!special!!>'),
+	('espigador', 'espigadora','ra'),
+	('esporófito', 'esporofito','<!!special!!>'),
+	('esporófito', '<span > o ','<!!special!!>'),
+	('esquilador', 'esquiladora','ra'),
+	('esquinero', 'esquinera','ra'),
+	('ester', 'éster','<!!special!!>'),
+	('ester', '<span > o ','<!!special!!>'),
+	('estilístico', 'estilística','ca'),
+	('estilográfico', 'estilográfica','ca'),
+	('estimativo', 'estimativa','va'),
+	('estocástico', 'estocástica','ca'),
+	('estrujador', 'estrujadora','ra'),
+	('estudiantino', 'estudiantina','na'),
+	('evasivo', 'evasiva','va'),
+	('ex cáthedra', 'ex cátedra','<!!special!!>'),
+	('ex cáthedra', '<span > o ','<!!special!!>'),
+	('excavador', 'excavadora','ra'),
+	('exegesis', 'exégesis','<!!special!!>'),
+	('exegesis', '<span > o ','<!!special!!>'),
+	('exegeta', 'exégeta','<!!special!!>'),
+	('exegeta', '<span > o ','<!!special!!>'),
+	('exoftalmia', 'exoftalmía','<!!special!!>'),
+	('exoftalmia', '<span > o ','<!!special!!>'),
+	('exósmosis', 'exosmosis','<!!special!!>'),
+	('exósmosis', '<span > o ','<!!special!!>'),
+	('extractor', 'extractora','ra'),
+	('extrusor', 'extrusora','ra'),
+	('fabulístico', 'fabulística','ca'),
+	('fago-', '‒́fago','ga'),
+	('fago-', '<span > o ','ga'),
+	('fagot', 'fagote','<!!special!!>'),
+	('fagot', '<span > o ','<!!special!!>'),
+	('fajado', 'fajada','da'),
+	('falcado', 'falcada','da'),
+	('fangal', 'fangar','<!!special!!>'),
+	('fangal', '<span > o ','<!!special!!>'),
+	('farandola', 'farándola','<!!special!!>'),
+	('farandola', '<span > o ','<!!special!!>'),
+	('farmacocinético', 'farmacocinética','ca'),
+	('farruco', 'farruca','ca'),
+	('fastidiado', 'fastidiada','da'),
+	('fatamorgana', 'fata morgana','<!!special!!>'),
+	('fatamorgana', '<span > o ','<!!special!!>'),
+	('feladiz', 'felariz','<!!special!!>'),
+	('feladiz', '<span > o ','<!!special!!>'),
+	('figulino', 'figulina','na'),
+	('filarmónico', 'filarmónica','ca'),
+	('filmador', 'filmadora','ra'),
+	('filo-', '‒́filo','la'),
+	('filo-', '<span > o ','la'),
+	('finoúgrio', 'fino-ugrio','gria'),
+	('finoúgrio', '<span > o ','gria'),
+	('fisicoquímico', 'fisicoquímica','ca'),
+	('fisiognómico', 'fisiognómica','ca'),
+	('fito-', '-fito','ta'),
+	('fito-', '<span > o ','ta'),
+	('folíolo', 'foliolo','<!!special!!>'),
+	('folíolo', '<span > o ','<!!special!!>'),
+	('fonemático', 'fonemática','ca'),
+	('fonético', 'fonética','ca'),
+	('fono-', '‒́fono','na'),
+	('fonomímico', 'fonomímica','ca'),
+	('fono-', '<span > o ','na'),
+	('forrajero', 'forrajera','ra'),
+	('fosco', 'fosca','ca'),
+	('fosforero', 'fosforera','ra'),
+	('fotocopiador', 'fotocopiadora','ra'),
+	('fotograbador', 'fotograbadora','ra'),
+	('fotolisis', 'fotólisis','<!!special!!>'),
+	('fotolisis', '<span > o ','<!!special!!>'),
+	('fotomecánico', 'fotomecánica','ca'),
+	('fotoquímico', 'fotoquímica','ca'),
+	('foxtrot', 'fox-trot','<!!special!!>'),
+	('foxtrot', '<span > o ','<!!special!!>'),
+	('franjar', 'franjear','<!!special!!>'),
+	('franjar', '<span > o ','<!!special!!>'),
+	('fregón', 'fregona','na'),
+	('freidor', 'freidora','ra'),
+	('frejón', 'fréjul','<!!special!!>'),
+	('frejón', '<span > o ','<!!special!!>'),
+	('fresero', 'fresera','ra'),
+	('friolero', 'friolera','ra'),
+	('frontalero', 'frontalera','ra'),
+	('funerario', 'funeraria','ria'),
+	('fútbol', 'futbol','<!!special!!>'),
+	('fútbol', '<span > o ','<!!special!!>'),
+	('galaicoportugués', 'galaico-portugués','sa'),
+	('galaicoportugués', '<span > o ','sa'),
+	('galgo', 'galga','ga'),
+	('galileo', 'galilea','<!!special!!>'),
+	('gallegoportugués', 'gallego-portugués','sa'),
+	('gallegoportugués', '<span > o ','sa'),
+	('galvanoplástico', 'galvanoplástica','ca'),
+	('gambuj', 'gambujo','<!!special!!>'),
+	('gambuj', '<span > o ','<!!special!!>'),
+	('gametófito', 'gametofito','<!!special!!>'),
+	('gametófito', '<span > o ','<!!special!!>'),
+	('gamo-', '‒́gamo','ma'),
+	('gamo-', '<span > o ','ma'),
+	('garguero', 'gargüero','<!!special!!>'),
+	('garguero', '<span > o ','<!!special!!>'),
+	('garrapiñado', 'garrapiñada','da'),
+	('garrotero', 'garrotera','ra'),
+	('gaseoso', 'gaseosa','sa'),
+	('genesíaco', 'genesiaco','ca'),
+	('genesíaco', '<span > o ','ca'),
+	('genético', 'genética','ca'),
+	('genetlíaca', 'genetliaca','<!!special!!>'),
+	('genetlíaca', '<span > o ','<!!special!!>'),
+	('genetlíaco', 'genetliaca','<!!special!!>'),
+	('genetlíaco', 'genetlíaca','<!!special!!>'),
+	('genetlíaco', 'genetliaco','<!!special!!>'),
+	('genetlíaco', '<span > o ','<!!special!!>'),
+	('geobotánico', 'geobotánica','ca'),
+	('geofísico', 'geofísica','ca'),
+	('geomancia', 'geomancía','<!!special!!>'),
+	('geomancia', '<span > o ','<!!special!!>'),
+	('geoquímico', 'geoquímica','ca'),
+	('geotécnico', 'geotécnica','ca'),
+	('gerente', 'gerenta','<!!special!!>'),
+	('giganteo', 'gigantea','a'),
+	('gillete', 'gillette','<!!special!!>'),
+	('gillete', '<span > o ','<!!special!!>'),
+	('gimnástico', 'gimnástica','ca');
+
+INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('giratorio', 'giratoria','ria'),
+	('giróstato', 'girostato','<!!special!!>'),
+	('giróstato', '<span > o ','<!!special!!>'),
+	('gladíolo', 'gladiolo','<!!special!!>'),
+	('gladíolo', '<span > o ','<!!special!!>'),
+	('gnomónico', 'gnomónica','ca'),
+	('gorbiz', 'gorbizo','<!!special!!>'),
+	('gorbiz', '<span > o ','<!!special!!>'),
+	('grabador', 'grabadora','ra'),
+	('gradíolo', 'gradiolo','<!!special!!>'),
+	('gradíolo', '<span > o ','<!!special!!>'),
+	('grafila', 'gráfila','<!!special!!>'),
+	('grafila', '<span > o ','<!!special!!>'),
+	('granadino', 'granadina','na'),
+	('granillero', 'granillera','ra'),
+	('granizado', 'granizada','da'),
+	('granujado', 'granujada','da'),
+	('grátil', 'gratil','<!!special!!>'),
+	('grátil', '<span > o ','<!!special!!>'),
+	('greguescos', 'gregüescos','<!!special!!>'),
+	('greguescos', '<span > o ','<!!special!!>'),
+	('guadamací', 'guadamacil','<!!special!!>'),
+	('guadamací', '<span > o ','<!!special!!>'),
+	('guadañador', 'guadañadora','ra'),
+	('guajiro', 'guajira','ra'),
+	('guanero', 'guanera','ra'),
+	('guantanamero', 'guantanamera','ra'),
+	('guardabosque', 'guardabosques','<!!special!!>'),
+	('guardabosque', '<span > o ','<!!special!!>'),
+	('guardapolvo', 'guardapolvos','<!!special!!>'),
+	('guardapolvo', '<span > o ','<!!special!!>'),
+	('guayabero', 'guayabera','ra'),
+	('guion', 'guión','<!!special!!>'),
+	('guion', '<span > o ','<!!special!!>'),
+	('gurbio', 'gurbia','bia'),
+	('gurrumino', 'gurrumina','na'),
+	('habanero', 'habanera','ra'),
+	('hadado', 'hadada','da'),
+	('haikai', 'hai-kai','<!!special!!>'),
+	('haikai', '<span > o ','<!!special!!>'),
+	('haiku', 'haikú','<!!special!!>'),
+	('haiku', '<span > o ','<!!special!!>'),
+	('hallado', 'hallada','da'),
+	('hamadría', 'hamadriada','<!!special!!>'),
+	('hamadría', '<span > o ','<!!special!!>'),
+	('héctico', 'héctica','ca'),
+	('hedentino', 'hedentina','na'),
+	('helespontíaco', 'helespontiaco','ca'),
+	('helespontíaco', '<span > o ','ca'),
+	('helíaco', 'heliaco','ca'),
+	('helíaco', '<span > o ','ca'),
+	('helióstato', 'heliostato','<!!special!!>'),
+	('helióstato', '<span > o ','<!!special!!>'),
+	('hemiplejia', 'hemiplejía','<!!special!!>'),
+	('hemiplejia', '<span > o ','<!!special!!>'),
+	('hemorroísa', 'hemorroisa','<!!special!!>'),
+	('hemorroísa', '<span > o ','<!!special!!>'),
+	('heráldico', 'heráldica','ca'),
+	('herbolario', 'herbolaria','ria'),
+	('herido', 'herida','da'),
+	('hermenéutico', 'hermenéutica','ca'),
+	('heteromancia', 'heteromancía','<!!special!!>'),
+	('heteromancia', '<span > o ','<!!special!!>'),
+	('hético', 'hética','ca'),
+	('heurístico', 'heurística','ca'),
+	('hidráulico', 'hidráulica','ca'),
+	('hidrodinámico', 'hidrodinámica','ca'),
+	('hidrólisis', 'hidrolisis','<!!special!!>'),
+	('hidrólisis', '<span > o ','<!!special!!>'),
+	('hidromancia', 'hidromancía','<!!special!!>'),
+	('hidromancia', '<span > o ','<!!special!!>'),
+	('hidromel', 'hidromiel','<!!special!!>'),
+	('hidromel', '<span > o ','<!!special!!>'),
+	('higüela', 'higuela','<!!special!!>'),
+	('higüela', '<span > o ','<!!special!!>'),
+	('hilador', 'hiladora','ra'),
+	('hipérbato', 'hipérbaton','<!!special!!>'),
+	('hipérbato', '<span > o ','<!!special!!>'),
+	('hipercrítico', 'hipercrítica','ca'),
+	('hípico', 'hípica','ca'),
+	('hipocondríaco', 'hipocondriaco','ca'),
+	('hipocondríaco', '<span > o ','ca'),
+	('hipomaníaco', 'hipomaniaco','ca'),
+	('hipomaníaco', '<span > o ','ca'),
+	('hipomoclio', 'hipomoclion','<!!special!!>'),
+	('hipomoclio', '<span > o ','<!!special!!>'),
+	('holandés', 'holandesa','sa'),
+	('huauzontle', 'huazontle','<!!special!!>'),
+	('huauzontle', '<span > o ','<!!special!!>'),
+	('huesero', 'huesera','ra'),
+	('huesudo', 'huesuda','da'),
+	('huich', 'huiche','<!!special!!>'),
+	('huich', '<span > o ','<!!special!!>'),
+	('hulero', 'hulera','ra'),
+	('humil', 'húmil','<!!special!!>'),
+	('humilmente', 'húmilmente','<!!special!!>'),
+	('humilmente', '<span > o ','<!!special!!>'),
+	('humil', '<span > o ','<!!special!!>'),
+	('humorado', 'humorada','da'),
+	('ibero', 'íbero','ra'),
+	('ibero', '<span > o ','ra'),
+	('icono', 'ícono','<!!special!!>'),
+	('icono', '<span > o ','<!!special!!>'),
+	('ilercaón', 'ilercavón','na'),
+	('ilercaón', '<span > o ','na'),
+	('ilíaco', 'iliaco','ca'),
+	('ilíaco', '<span > o ','ca'),
+	('imperatorio', 'imperatoria','ria'),
+	('impío', 'impía','a'),
+	('impresor', 'impresora','ra'),
+	('incógnito', 'incógnita','ta'),
+	('indagatorio', 'indagatoria','ria'),
+	('indumentario', 'indumentaria','ria'),
+	('infraoctavo', 'infraoctava','va'),
+	('iniciativo', 'iniciativa','va'),
+	('inmobiliario', 'inmobiliaria','ria'),
+	('intelectivo', 'intelectiva','va'),
+	('intercolumnio', 'intercolunio','<!!special!!>'),
+	('intercolumnio', '<span > o ','<!!special!!>'),
+	('in utroque iure', 'in utroque jure','<!!special!!>'),
+	('in utroque iure', '<span > o ','<!!special!!>'),
+	('inventivo', 'inventiva','va'),
+	('inyectador', 'inyectadora','ra'),
+	('ion', 'ión','<!!special!!>'),
+	('ion', '<span > o ','<!!special!!>'),
+	('ipso iure', 'ipso jure','<!!special!!>'),
+	('ipso iure', '<span > o ','<!!special!!>'),
+	('isiaco', 'isíaco','ca'),
+	('isiaco', '<span > o ','ca'),
+	('isóbara', 'isobara','<!!special!!>'),
+	('isóbara', '<span > o ','<!!special!!>'),
+	('isógono', 'isógona','na'),
+	('isoquímena', 'isoquimena','<!!special!!>'),
+	('isoquímena', '<span > o ','<!!special!!>'),
+	('jacarandino', 'jacarandina','na'),
+	('jacerino', 'jacerina','na'),
+	('jaculatorio', 'jaculatoria','ria'),
+	('jeremíaco', 'jeremiaco','ca'),
+	('jeremíaco', '<span > o ','ca'),
+	('jericalla', 'jericaya','<!!special!!>'),
+	('jericalla', '<span > o ','<!!special!!>'),
+	('jeroglífico', 'jeroglífica','ca'),
+	('jitomatero', 'jitomatera','ra'),
+	('jopé', 'jope','<!!special!!>'),
+	('jopé', '<span > o ','<!!special!!>'),
+	('judaico', 'judaica','ca'),
+	('judiciario', 'judiciaria','ria'),
+	('kárate', 'karate','<!!special!!>'),
+	('kárate', '<span > o ','<!!special!!>'),
+	('kílim', 'kilim','<!!special!!>'),
+	('kílim', '<span > o ','<!!special!!>'),
+	('kohl', 'kohol','<!!special!!>'),
+	('kohl', '<span > o ','<!!special!!>'),
+	('ladrillero', 'ladrillera','ra'),
+	('ladronesco', 'ladronesca','ca'),
+	('laminador', 'laminadora','ra'),
+	('laminero', 'laminera','ra'),
+	('latiguero', 'latiguera','ra'),
+	('laudatorio', 'laudatoria','ria'),
+	('laureola', 'lauréola','<!!special!!>'),
+	('laureola', '<span > o ','<!!special!!>'),
+	('lavador', 'lavadora','ra'),
+	('lavaloza', 'lavalozas','<!!special!!>'),
+	('lavaloza', '<span > o ','<!!special!!>'),
+	('lavarropa', 'lavarropas','<!!special!!>'),
+	('lavarropa', '<span > o ','<!!special!!>'),
+	('lavativo', 'lavativa','va'),
+	('lecanomancia', 'lecanomancía','<!!special!!>'),
+	('lecanomancia', '<span > o ','<!!special!!>'),
+	('lechigado', 'lechigada','da'),
+	('lechoso', 'lechosa','sa'),
+	('leñero', 'leñera','ra'),
+	('leonino', 'leonina','na'),
+	('letigio', 'letijo','<!!special!!>'),
+	('letigio', '<span > o ','<!!special!!>'),
+	('lidón', 'lidonero','<!!special!!>'),
+	('lidón', '<span > o ','<!!special!!>'),
+	('limonado', 'limonada','da'),
+	('limonero', 'limonera','ra'),
+	('limosnero', 'limosnera','ra'),
+	('lingüístico', 'lingüística','ca'),
+	('lipemaniaco', 'lipemaníaco','ca'),
+	('lipemaniaco', '<span > o ','ca'),
+	('lito-', '-lito','<!!special!!>'),
+	('lito-', '<span > o ','<!!special!!>'),
+	('lítotes', 'litotes','<!!special!!>'),
+	('lítotes', '<span > o ','<!!special!!>'),
+	('llegado', 'llegada','da'),
+	('locomotor', 'locomotora','ra'),
+	('longui', 'longuis','<!!special!!>'),
+	('longui', '<span > o ','<!!special!!>'),
+	('lucillo', 'lucilo','<!!special!!>'),
+	('lucillo', '<span > o ','<!!special!!>'),
+	('lustramueble', 'lustramuebles','<!!special!!>'),
+	('lustramueble', '<span > o ','<!!special!!>'),
+	('machorro', 'machorra','rra'),
+	('macrobiótico', 'macrobiótica','ca'),
+	('macrocosmo', 'macrocosmos','<!!special!!>'),
+	('macrocosmo', '<span > o ','<!!special!!>'),
+	('mágico', 'mágica','ca'),
+	('mahonés', 'mahonesa','sa'),
+	('malagueño', 'malagueña','ña'),
+	('malmatado', 'malmatada','da'),
+	('mambí', 'mambís','sa'),
+	('mambí', '<span > o ','sa'),
+	('mampuesto', 'mampuesta','ta'),
+	('manchamantel', 'manchamanteles','<!!special!!>'),
+	('manchamantel', '<span > o ','<!!special!!>'),
+	('-mancia', '-mancía','<!!special!!>'),
+	('-mancia', '<span > o ','<!!special!!>'),
+	('mándala', 'mandala','<!!special!!>'),
+	('mándala', '<span > o ','<!!special!!>'),
+	('mandarín', 'mandarina','na'),
+	('mandrilador', 'mandriladora','ra'),
+	('manganesa', 'manganesia','<!!special!!>'),
+	('manganesa', '<span > o ','<!!special!!>'),
+	('maníaco', 'maniaco','ca'),
+	('maníaco', '<span > o ','ca'),
+	('mantecado', 'mantecada','da'),
+	('mantenedor', 'mantenedora','ra'),
+	('manzanero', 'manzanera','ra'),
+	('marcapaso', 'marcapasos','<!!special!!>'),
+	('marcapaso', '<span > o ','<!!special!!>'),
+	('marcionista', 'marcionita','<!!special!!>'),
+	('marcionista', '<span > o ','<!!special!!>'),
+	('mariachi', 'mariachis','<!!special!!>'),
+	('mariachi', '<span > o ','<!!special!!>'),
+	('marinado', 'marinada','da'),
+	('maturrango', 'maturranga','ga'),
+	('mayéutico', 'mayéutica','ca'),
+	('mayúsculo', 'mayúscula','la'),
+	('mazorquero', 'mazorquera','ra'),
+	('mecateado', 'mecateada','da'),
+	('mecedor', 'mecedora','ra'),
+	('mechudo', 'mechuda','da'),
+	('médula', 'medula','<!!special!!>'),
+	('médula', '<span > o ','<!!special!!>'),
+	('mejillonero', 'mejillonera','ra'),
+	('melado', 'melada','da'),
+	('melero', 'melera','ra'),
+	('mentado', 'mentada','da'),
+	('meón', 'meona','na'),
+	('metálico', 'metálica','ca'),
+	('metempsícosis', 'metempsicosis','<!!special!!>'),
+	('metempsícosis', '<span > o ','<!!special!!>'),
+	('meteoro', 'metéoro','<!!special!!>'),
+	('meteoro', '<span > o ','<!!special!!>'),
+	('metopa', 'métopa','<!!special!!>'),
+	('metopa', '<span > o ','<!!special!!>');
+
+INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('mezclador', 'mezcladora','ra'),
+	('mezzoforte', 'mezzo-forte','<!!special!!>'),
+	('mezzoforte', '<span > o ','<!!special!!>'),
+	('microfilmador', 'microfilmadora','ra'),
+	('microscopia', 'microscopía','<!!special!!>'),
+	('microscopia', '<span > o ','<!!special!!>'),
+	('milanés', 'milanesa','sa'),
+	('mildiu', 'mildiú','<!!special!!>'),
+	('mildiu', '<span > o ','<!!special!!>'),
+	('milésimo', 'milésima','ma'),
+	('mímesis', 'mimesis','<!!special!!>'),
+	('mímesis', '<span > o ','<!!special!!>'),
+	('mímico', 'mímica','ca'),
+	('minúsculo', 'minúscula','la'),
+	('mirabolano', 'mirabolanos','<!!special!!>'),
+	('mirabolano', '<span > o ','<!!special!!>'),
+	('mirobálano', 'mirobálanos','<!!special!!>'),
+	('mirobálano', '<span > o ','<!!special!!>'),
+	('misceláneo', 'miscelánea','a'),
+	('mnemónico', 'mnemónica','ca'),
+	('mnemotécnico', 'mnemotécnica','ca'),
+	('moledero', 'moledera','ra'),
+	('moleño', 'moleña','ña'),
+	('monitorio', 'monitoria','ria'),
+	('monomaníaco', 'monomaniaco','ca'),
+	('monomaníaco', '<span > o ','ca'),
+	('montador', 'montadora','ra'),
+	('mordido', 'mordida','da'),
+	('morfo-', '-morfo','fa'),
+	('morfo-', '<span > o ','fa'),
+	('motero', 'motera','ra'),
+	('motorizado', 'motorizada','da'),
+	('motor', 'motora','ra'),
+	('movido', 'movida','da'),
+	('mucilago', 'mucílago','<!!special!!>'),
+	('mucilago', '<span > o ','<!!special!!>'),
+	('mue', 'mué','<!!special!!>'),
+	('mue', '<span > o ','<!!special!!>'),
+	('multiuso', 'multiusos','<!!special!!>'),
+	('multiuso', '<span > o ','<!!special!!>'),
+	('muon', 'muón','<!!special!!>'),
+	('muon', '<span > o ','<!!special!!>'),
+	('muslim', 'muslime','<!!special!!>'),
+	('muslim', '<span > o ','<!!special!!>'),
+	('nacido', 'nacida','da'),
+	('naíf', 'naif','<!!special!!>'),
+	('naíf', '<span > o ','<!!special!!>'),
+	('nanche', 'nanchi','<!!special!!>'),
+	('nanche', '<span > o ','<!!special!!>'),
+	('napolitano', 'napolitana','na'),
+	('naranjado', 'naranjada','da'),
+	('naranjero', 'naranjera','ra'),
+	('narizón', 'narizona','na'),
+	('narrativo', 'narrativa','va'),
+	('naviero', 'naviera','ra'),
+	('necromancia', 'necromancía','<!!special!!>'),
+	('necromancia', '<span > o ','<!!special!!>'),
+	('negrito', 'negrita','ta'),
+	('nemónico', 'nemónica','ca'),
+	('nemotécnico', 'nemotécnica','ca'),
+	('neroli', 'nerolí','<!!special!!>'),
+	('neroli', '<span > o ','<!!special!!>'),
+	('neumático', 'neumática','ca'),
+	('nigromancia', 'nigromancía','<!!special!!>'),
+	('nigromancia', '<span > o ','<!!special!!>'),
+	('nomónico', 'nomónica','ca'),
+	('novelístico', 'novelística','ca'),
+	('nubado', 'nubada','da'),
+	('nubarrado', 'nubarrada','da'),
+	('numismático', 'numismática','ca'),
+	('ñurdo', 'ñurda','da'),
+	('ocotero', 'ocotera','ra'),
+	('oftalmia', 'oftalmía','<!!special!!>'),
+	('oftalmia', '<span > u ','<!!special!!>'),
+	('ojalador', 'ojaladora','ra'),
+	('ojeado', 'ojeada','da'),
+	('olimpiaco', 'olimpíaco','ca'),
+	('olimpiaco', '<span > u ','ca'),
+	('olimpiada', 'olimpíada','<!!special!!>'),
+	('olimpiada', '<span > u ','<!!special!!>'),
+	('omóplato', 'omoplato','<!!special!!>'),
+	('omóplato', '<span > u ','<!!special!!>'),
+	('onicomancia', 'onicomancía','<!!special!!>'),
+	('onicomancia', '<span > u ','<!!special!!>'),
+	('oniromancia', 'oniromancía','<!!special!!>'),
+	('oniromancia', '<span > u ','<!!special!!>'),
+	('onomancia', 'onomancía','<!!special!!>'),
+	('onomancia', '<span > u ','<!!special!!>'),
+	('onomástico', 'onomástica','ca'),
+	('opiato', 'opiata','ta'),
+	('óptico', 'óptica','ca'),
+	('ordeñador', 'ordeñadora','ra'),
+	('orfre', 'orfrés','<!!special!!>'),
+	('orfre', '<span > u ','<!!special!!>'),
+	('orgía', 'orgia','<!!special!!>'),
+	('orgía', '<span > u ','<!!special!!>'),
+	('ornitomancia', 'ornitomancía','<!!special!!>'),
+	('ornitomancia', '<span > u ','<!!special!!>'),
+	('orquídeo', 'orquídea','a'),
+	('ostrero', 'ostrera','ra'),
+	('pabilo', 'pábilo','<!!special!!>'),
+	('pabilo', '<span > o ','<!!special!!>'),
+	('pachiche', 'pachichi','<!!special!!>'),
+	('pachiche', '<span > o ','<!!special!!>'),
+	('pachola', 'pacholi','<!!special!!>'),
+	('pachola', '<span > o ','<!!special!!>'),
+	('pachulí', 'pachuli','<!!special!!>'),
+	('pachulí', '<span > o ','<!!special!!>'),
+	('pajado', 'pajada','da'),
+	('pajarota', 'pajarotada','<!!special!!>'),
+	('pajarota', '<span > o ','<!!special!!>'),
+	('pajuila', 'pajuilla','<!!special!!>'),
+	('pajuila', '<span > o ','<!!special!!>'),
+	('palanquero', 'palanquera','ra'),
+	('panificador', 'panificadora','ra'),
+	('panorámico', 'panorámica','ca'),
+	('pañuso', 'pañusa','sa'),
+	('papú', 'papúa','<!!special!!>'),
+	('papú', '<span > o ','<!!special!!>'),
+	('paradisíaco', 'paradisiaco','ca'),
+	('paradisíaco', '<span > o ','ca'),
+	('paralimpiada', 'paralimpíada','<!!special!!>'),
+	('paralimpiada', '<span > o ','<!!special!!>'),
+	('paramero', 'paramera','ra'),
+	('paraplejia', 'paraplejía','<!!special!!>'),
+	('paraplejia', '<span > o ','<!!special!!>'),
+	('pardillo', 'pardilla','lla'),
+	('parolimpiada', 'parolimpíada','<!!special!!>'),
+	('parolimpiada', '<span > o ','<!!special!!>'),
+	('parrillero', 'parrillera','ra'),
+	('parsec', 'pársec','<!!special!!>'),
+	('parsec', '<span > o ','<!!special!!>'),
+	('parturienta', 'parturiente','<!!special!!>'),
+	('parturienta', '<span > o ','<!!special!!>'),
+	('pastor', 'pastora','ra'),
+	('pastrano', 'pastrana','na'),
+	('patrístico', 'patrística','ca'),
+	('patrono', 'patrona','na'),
+	('pavonado', 'pavonada','da'),
+	('pche', 'pchs','<!!special!!>'),
+	('pche', '<span > o ','<!!special!!>'),
+	('pecíolo', 'peciolo','<!!special!!>'),
+	('pecíolo', '<span > o ','<!!special!!>'),
+	('pedorrero', 'pedorrera','ra'),
+	('pedrizo', 'pedriza','za'),
+	('peinado', 'peinada','da'),
+	('peinador', 'peinadora','ra'),
+	('peleón', 'peleona','na'),
+	('pelícano', 'pelicano','<!!special!!>'),
+	('pelícano', '<span > o ','<!!special!!>'),
+	('pelón', 'pelona','na'),
+	('peloponesiaco', 'peloponesíaco','ca'),
+	('peloponesiaco', '<span > o ','ca'),
+	('pensil', 'pénsil','<!!special!!>'),
+	('pensil', '<span > o ','<!!special!!>'),
+	('pentagrama', 'pentágrama','<!!special!!>'),
+	('pentagrama', '<span > o ','<!!special!!>'),
+	('período', 'periodo','<!!special!!>'),
+	('período', '<span > o ','<!!special!!>'),
+	('persuasivo', 'persuasiva','va'),
+	('peticano', 'peticanon','<!!special!!>'),
+	('peticano', '<span > o ','<!!special!!>'),
+	('petitorio', 'petitoria','ria'),
+	('petroleoquímico', 'petroleoquímica','ca'),
+	('petroquímico', 'petroquímica','ca'),
+	('picaresco', 'picaresca','ca'),
+	('picoso', 'picosa','sa'),
+	('pilongo', 'pilonga','ga'),
+	('pinolero', 'pinolera','ra'),
+	('pion', 'pión','na'),
+	('pion', 'pión','<!!special!!>'),
+	('pion', '<span > o ','na'),
+	('pion', '<span > o ','<!!special!!>'),
+	('piromancia', 'piromancía','<!!special!!>'),
+	('piromancia', '<span > o ','<!!special!!>'),
+	('pisador', 'pisadora','ra'),
+	('pistero', 'pistera','ra'),
+	('pitayal', 'pitayar','<!!special!!>'),
+	('pitayal', '<span > o ','<!!special!!>'),
+	('pitorá', 'pitora','<!!special!!>'),
+	('pitorá', '<span > o ','<!!special!!>'),
+	('píxel', 'pixel','<!!special!!>'),
+	('píxel', '<span > o ','<!!special!!>'),
+	('platanero', 'platanera','ra'),
+	('playero', 'playera','ra'),
+	('plim', 'plin','<!!special!!>'),
+	('plim', '<span > o ','<!!special!!>'),
+	('plumado', 'plumada','da'),
+	('podo-', '‒́podo','<!!special!!>'),
+	('podo-', '<span > o ','<!!special!!>'),
+	('polémico', 'polémica','ca'),
+	('policíaco', 'policiaco','ca'),
+	('policíaco', '<span > o ','ca'),
+	('policromo', 'polícromo','ma'),
+	('policromo', '<span > o ','ma'),
+	('polígloto', 'poligloto','ta'),
+	('polígloto', '<span > o ','ta'),
+	('polonés', 'polonesa','sa'),
+	('poltrón', 'poltrona','na'),
+	('pompi', 'pompis','<!!special!!>'),
+	('pompi', '<span > o ','<!!special!!>'),
+	('portaequipaje', 'portaequipajes','<!!special!!>'),
+	('portaequipaje', '<span > o ','<!!special!!>'),
+	('portafolio', 'portafolios','<!!special!!>'),
+	('portafolio', '<span > o ','<!!special!!>'),
+	('portalámpara', 'portalámparas','<!!special!!>'),
+	('portalámpara', '<span > o ','<!!special!!>'),
+	('portaobjeto', 'portaobjetos','<!!special!!>'),
+	('portaobjeto', '<span > o ','<!!special!!>'),
+	('portarretrato', 'portarretratos','<!!special!!>'),
+	('portarretrato', '<span > o ','<!!special!!>'),
+	('postizo', 'postiza','za'),
+	('pragmático', 'pragmática','ca'),
+	('premiso', 'premisa','sa'),
+	('présago', 'presago','ga'),
+	('présago', '<span > o ','ga'),
+	('présbita', 'présbite','<!!special!!>'),
+	('présbita', '<span > o ','<!!special!!>'),
+	('pringado', 'pringada','da'),
+	('prion', 'prión','<!!special!!>'),
+	('prion', '<span > o ','<!!special!!>'),
+	('probatorio', 'probatoria','ria'),
+	('procero', 'prócero','ra'),
+	('procero', '<span > o ','ra'),
+	('productor', 'productora','ra'),
+	('profiláctico', 'profiláctica','ca'),
+	('propedéutico', 'propedéutica','ca'),
+	('prospectivo', 'prospectiva','va'),
+	('psicofísico', 'psicofísica','ca'),
+	('psicolingüístico', 'psicolingüística','ca'),
+	('ptero-', '‒́ptero','ra'),
+	('ptero-', '<span > o ','ra'),
+	('pucará', 'pucara','<!!special!!>'),
+	('pucará', '<span > o ','<!!special!!>'),
+	('pudin', 'pudín','<!!special!!>'),
+	('pudin', '<span > o ','<!!special!!>'),
+	('pulguiento', 'pulguienta','ta'),
+	('pulmoníaco', 'pulmoniaco','ca'),
+	('pulmoníaco', '<span > o ','ca'),
+	('purpurino', 'purpurina','na'),
+	('pututo', 'pututu','<!!special!!>'),
+	('pututo', '<span > o ','<!!special!!>'),
+	('quebrador', 'quebradora','ra'),
+	('quebrantador', 'quebrantadora','ra'),
+	('quejigal', 'quejigar','<!!special!!>'),
+	('quejigal', '<span > o ','<!!special!!>'),
+	('quincuagésimo', 'quincuagésima','ma'),
+	('quinesioterapia', 'quinesiterapia','<!!special!!>'),
+	('quinesioterapia', '<span > o ','<!!special!!>');
+
+INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('quinesioterápico', 'quinesiterápico','ca'),
+	('quinesioterápico', '<span > o ','ca'),
+	('quiromancia', 'quiromancía','<!!special!!>'),
+	('quiromancia', '<span > o ','<!!special!!>'),
+	('quiropráctico', 'quiropráctica','ca'),
+	('quitado', 'quitada','da'),
+	('rabanero', 'rabanera','ra'),
+	('raboseado', 'raboseada','da'),
+	('radiodifusor', 'radiodifusora','ra'),
+	('ragtime', 'rag-time','<!!special!!>'),
+	('ragtime', '<span > o ','<!!special!!>'),
+	('raíl', 'rail','<!!special!!>'),
+	('raíl', '<span > o ','<!!special!!>'),
+	('rancajado', 'rancajada','da'),
+	('ranglán', 'ranglan','<!!special!!>'),
+	('ranglán', '<span > o ','<!!special!!>'),
+	('rascabuchar', 'rascabuchear','<!!special!!>'),
+	('rascabuchar', '<span > o ','<!!special!!>'),
+	('rasgado', 'rasgada','da'),
+	('ratonero', 'ratonera','ra'),
+	('recocido', 'recocida','da'),
+	('rectificador', 'rectificadora','ra'),
+	('refaccionario', 'refaccionaria','ria'),
+	('réferi', 'referí','<!!special!!>'),
+	('réferi', '<span > o ','<!!special!!>'),
+	('refrigerador', 'refrigeradora','ra'),
+	('regidoría', 'regiduría','<!!special!!>'),
+	('regidoría', '<span > o ','<!!special!!>'),
+	('remachador', 'remachadora','ra'),
+	('remisorio', 'remisoria','ria'),
+	('reostato', 'reóstato','<!!special!!>'),
+	('reostato', '<span > o ','<!!special!!>'),
+	('repanchigarse', 'repanchingarse','<!!special!!>'),
+	('repanchigarse', '<span > o ','<!!special!!>'),
+	('repantigarse', 'repantingarse','<!!special!!>'),
+	('repantigarse', '<span > o ','<!!special!!>'),
+	('reparado', 'reparada','da'),
+	('reposero', 'reposera','ra'),
+	('reptil', 'réptil','<!!special!!>'),
+	('reptil', '<span > o ','<!!special!!>'),
+	('resbaladero', 'resbaladera','ra'),
+	('resolano', 'resolana','na'),
+	('resoli', 'resolí','<!!special!!>'),
+	('resoli', '<span > o ','<!!special!!>'),
+	('responsivo', 'responsiva','va'),
+	('retentivo', 'retentiva','va'),
+	('reuma', 'reúma','<!!special!!>'),
+	('reuma', '<span > o ','<!!special!!>'),
+	('revistero', 'revistera','ra'),
+	('revolero', 'revolera','ra'),
+	('revolvedor', 'revolvedora','ra'),
+	('rezador', 'rezadora','ra'),
+	('rezandero', 'rezandera','ra'),
+	('rielero', 'rielera','ra'),
+	('rizófito', 'rizofito','ta'),
+	('rizófito', '<span > o ','ta'),
+	('róbalo', 'robalo','<!!special!!>'),
+	('róbalo', '<span > o ','<!!special!!>'),
+	('rodillero', 'rodillera','ra'),
+	('rodrejo', 'rodreja','ja'),
+	('rogativo', 'rogativa','va'),
+	('rompedero', 'rompedera','ra'),
+	('roncador', 'roncadora','ra'),
+	('rondeño', 'rondeña','ña'),
+	('rosariero', 'rosariera','ra'),
+	('rosoli', 'rosolí','<!!special!!>'),
+	('rosoli', '<span > o ','<!!special!!>'),
+	('rotativo', 'rotativa','va'),
+	('rotulador', 'rotuladora','ra'),
+	('roturador', 'roturadora','ra'),
+	('ruan', 'ruán','<!!special!!>'),
+	('ruan', '<span > o ','<!!special!!>'),
+	('rubeola', 'rubéola','<!!special!!>'),
+	('rubeola', '<span > o ','<!!special!!>'),
+	('rufianesco', 'rufianesca','ca'),
+	('sabanero', 'sabanera','ra'),
+	('sabatino', 'sabatina','na'),
+	('saboyano', 'saboyana','na'),
+	('sacarino', 'sacarina','na'),
+	('sacrismoche', 'sacrismocho','<!!special!!>'),
+	('sacrismoche', '<span > o ','<!!special!!>'),
+	('saetero', 'saetera','ra'),
+	('sahariano', 'sahariana','na'),
+	('salamanquino', 'salamanquina','na'),
+	('salvajino', 'salvajina','na'),
+	('salvapantalla', 'salvapantallas','<!!special!!>'),
+	('salvapantalla', '<span > o ','<!!special!!>'),
+	('sarracín', 'sarracina','na'),
+	('satinador', 'satinadora','ra'),
+	('secador', 'secadora','ra'),
+	('sedeño', 'sedeña','ña'),
+	('segadero', 'segadera','ra'),
+	('selen-', 'seleno-','<!!special!!>'),
+	('selen-', '<span > o ','<!!special!!>'),
+	('semántico', 'semántica','ca'),
+	('sembrador', 'sembradora','ra'),
+	('semiperíodo', 'semiperiodo','<!!special!!>'),
+	('semiperíodo', '<span > o ','<!!special!!>'),
+	('sensitivo', 'sensitiva','va'),
+	('séptimo', 'séptima','ma'),
+	('septuagésimo', 'septuagésima','ma'),
+	('serrador', 'serradora','ra'),
+	('sicomoro', 'sicómoro','<!!special!!>'),
+	('sicomoro', '<span > o ','<!!special!!>'),
+	('simoniaco', 'simoníaco','ca'),
+	('simoniaco', '<span > o ','ca'),
+	('siriaco', 'siríaco','ca'),
+	('siriaco', '<span > o ','ca'),
+	('sociolingüístico', 'sociolingüística','ca'),
+	('sofístico', 'sofística','ca'),
+	('soldadesco', 'soldadesca','ca'),
+	('solo', 'sólo','<!!special!!>'),
+	('solo', '<span > o ','<!!special!!>'),
+	('sopero', 'sopera','ra'),
+	('sorrapar', 'sorrapear','<!!special!!>'),
+	('sorrapar', '<span > o ','<!!special!!>'),
+	('sottovoce', 'sotto voce','<!!special!!>'),
+	('sottovoce', '<span > o ','<!!special!!>'),
+	('sufridero', 'sufridera','ra'),
+	('sulfatador', 'sulfatadora','ra'),
+	('suplicatorio', 'suplicatoria','ria'),
+	('tabarro', '<span > o ','<!!special!!>'),
+	('tabarro', 'tábarro','<!!special!!>'),
+	('tabulador', 'tabuladora','ra'),
+	('taladrador', 'taladradora','ra'),
+	('tallado', 'tallada','da'),
+	('tangado', 'tangada','da'),
+	('tángana', '<span > o ','<!!special!!>'),
+	('tángana', 'tangana','<!!special!!>'),
+	('tangerino', 'tangerina','na'),
+	('tapacubo', '<span > o ','<!!special!!>'),
+	('tapacubo', 'tapacubos','<!!special!!>'),
+	('taparrabo', '<span > o ','<!!special!!>'),
+	('taparrabo', 'taparrabos','<!!special!!>'),
+	('taponador', 'taponadora','ra'),
+	('tasajero', 'tasajera','ra'),
+	('taxón', '<span > o ','<!!special!!>'),
+	('taxón', 'taxon','<!!special!!>'),
+	('tectónico', 'tectónica','ca'),
+	('tecuín', '<span > o ','<!!special!!>'),
+	('tecuín', 'tecuino','<!!special!!>'),
+	('tejedor', 'tejedora','ra'),
+	('telequinesia', '<span > o ','<!!special!!>'),
+	('telequinesia', 'telequinesis','<!!special!!>'),
+	('temático', 'temática','ca'),
+	('tentativo', 'tentativa','va'),
+	('teorético', 'teorética','ca'),
+	('terapéutico', 'terapéutica','ca'),
+	('teredo', '<span > o ','<!!special!!>'),
+	('teredo', 'teredón','<!!special!!>'),
+	('teresiano', 'teresiana','na'),
+	('termodinámico', 'termodinámica','ca'),
+	('terrizo', 'terriza','za'),
+	('testerillo', 'testerilla','lla'),
+	('tetraplejia', '<span > o ','<!!special!!>'),
+	('tetraplejia', 'tetraplejía','<!!special!!>'),
+	('tifoideo', 'tifoidea','a'),
+	('tilichero', 'tilichera','ra'),
+	('timonero', 'timonera','ra'),
+	('tiritón', 'tiritona','na'),
+	('tísico', 'tísica','ca'),
+	('tiznero', 'tiznera','ra'),
+	('tobillero', 'tobillera','ra'),
+	('tomatero', 'tomatera','ra'),
+	('topador', 'topadora','ra'),
+	('tormentario', 'tormentaria','ria'),
+	('tortícolis', '<span > o ','<!!special!!>'),
+	('tortícolis', 'torticolis','<!!special!!>'),
+	('traído', 'traída','da'),
+	('tramontano', 'tramontana','na'),
+	('trasero', 'trasera','ra'),
+	('trasmontano', 'trasmontana','na'),
+	('trasnochado', 'trasnochada','da'),
+	('trasplantador', 'trasplantadora','ra'),
+	('travesío', 'travesía','a'),
+	('travesti', '<span > o ','<!!special!!>'),
+	('travesti', 'travestí','<!!special!!>'),
+	('travieso', 'traviesa','sa'),
+	('tríada', '<span > o ','<!!special!!>'),
+	('tríada', 'tríade','<!!special!!>'),
+	('triaquero', 'triaquera','ra'),
+	('tribada', '<span > o ','<!!special!!>'),
+	('tribada', 'tríbada','<!!special!!>'),
+	('triglifo', '<span > o ','<!!special!!>'),
+	('triglifo', 'tríglifo','<!!special!!>'),
+	('triguero', 'triguera','ra'),
+	('trillador', 'trilladora','ra'),
+	('triturador', 'trituradora','ra'),
+	('trochemoche', '<span > o ','<!!special!!>'),
+	('trochemoche', 'troche y moche','<!!special!!>'),
+	('troica', '<span > o ','<!!special!!>'),
+	('troica', 'troika','<!!special!!>'),
+	('tronado', 'tronada','da'),
+	('true', '<span > o ','<!!special!!>'),
+	('true', 'trué','<!!special!!>'),
+	('truhan', '<span > o ','na'),
+	('truhan', 'truhán','na'),
+	('tumbón', 'tumbona','na'),
+	('umbrío', 'umbría','a'),
+	('uñado', 'uñada','da'),
+	('un', 'una','una'),
+	('urbanístico', 'urbanística','ca'),
+	('uromancia', '<span > o ','<!!special!!>'),
+	('uromancia', 'uromancía','<!!special!!>'),
+	('valgo', '<span > o ','<!!special!!>'),
+	('valgo', 'valgus','<!!special!!>'),
+	('valón', 'valona','na'),
+	('vaquerizo', 'vaqueriza','za'),
+	('varice', '<span > o ','<!!special!!>'),
+	('varice', 'várice','<!!special!!>'),
+	('varsoviano', 'varsoviana','na'),
+	('veintiuno', 'veintiuna','na'),
+	('velador', 'veladora','ra'),
+	('velís', 'veliz','<!!special!!>'),
+	('velonero', 'velonera','ra'),
+	('veranero', 'veranera','ra'),
+	('verdeceladón', '<span > o ','<!!special!!>'),
+	('verdeceladón', 'verdeceledón','<!!special!!>'),
+	('vermú', '<span > o ','<!!special!!>'),
+	('vermú', 'vermut','<!!special!!>'),
+	('veterinario', 'veterinaria','ria'),
+	('villanesco', 'villanesca','ca'),
+	('virado', 'virada','da'),
+	('visitador', 'visitadora','ra'),
+	('vitrocerámico', 'vitrocerámica','ca'),
+	('voladero', 'voladera','ra'),
+	('volador', 'voladora','ra'),
+	('volandero', 'volandera','ra'),
+	('vómico', 'vómica','ca'),
+	('vuelacerca', '<span > o ','<!!special!!>'),
+	('vuelacerca', 'vuelacercas','<!!special!!>'),
+	('windsurfing', '<span > o ','<!!special!!>'),
+	('windsurfing', 'wind surfing','<!!special!!>'),
+	('windsurf', '<span > o ','<!!special!!>'),
+	('windsurf', 'wind surf','<!!special!!>'),
+	('xeroftalmia', '<span > o ','<!!special!!>'),
+	('xeroftalmia', 'xeroftalmía','<!!special!!>'),
+	('yérsey', '<span > o ','<!!special!!>'),
+	('yérsey', 'yersi','<!!special!!>'),
+	('yóquey', '<span > o ','<!!special!!>'),
+	('yóquey', 'yoqui','<!!special!!>'),
+	('yusero', 'yusera','ra'),
+	('zafado', 'zafada','da'),
+	('zafirino', 'zafirina','na'),
+	('zaguero', 'zaguera','ra'),
+	('zatico', '<span > o ','<!!special!!>'),
+	('zatico', 'zatillo','<!!special!!>'),
+	('zodiaco', '<span > o ','<!!special!!>'),
+	('zodiaco', 'zodíaco','<!!special!!>');
+
+INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('zoo-', '<span > o ','<!!special!!>'),
+	('zoo-', '-zoo','<!!special!!>'),
+	('zumacal', '<span > o ','<!!special!!>'),
+	('zumacal', 'zumacar','<!!special!!>'),
+	('zumbador', 'zumbadora','ra'),
+	('zurito', 'zurita','ta');
