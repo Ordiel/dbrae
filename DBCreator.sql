@@ -27,12 +27,11 @@ CREATE TABLE genesis (
 	);
     
 CREATE TABLE masculina (
-		palabra TEXT NOT NULL COLLATE utf8_bin
-	);
+  id int(11) NOT NULL
+);
+
 CREATE TABLE palabra (
-		id	int	NOT NULL,
-		palabra TEXT NOT NULL COLLATE utf8_bin,
-		texto TEXT NOT NULL COLLATE utf8_bin
+		palabra TEXT NOT NULL COLLATE utf8_bin
 	);
     
 CREATE TABLE palabra_multigenero (
