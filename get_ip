@@ -1,0 +1,1 @@
+echo "$(tput setaf 4)Connect to: $(ip add | grep global | grep -o '\([0-9]\{1,3\}\.\)\{3\}[0-9]\{1,3\}'):3306$(tput sgr0)"
