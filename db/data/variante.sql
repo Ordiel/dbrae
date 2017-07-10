@@ -1,5 +1,7 @@
 USE drae;
 
+SET NAMES 'utf8';
+
 INSERT INTO variante VALUE('*acifolium,','*acifŭlum,'),
 	('acrostique','acrostiche'),
 	('-acŭlus','-atĭcus'),

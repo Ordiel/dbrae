@@ -1,5 +1,7 @@
 USE drae;
 
+SET NAMES 'utf8';
+
 INSERT INTO palabra VALUES 
 		("a-"),
 		("a"),

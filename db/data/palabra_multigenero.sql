@@ -1,5 +1,7 @@
 USE drae;
 
+SET NAMES 'utf8';
+
 INSERT INTO palabra_multigenero (palabra, variante, diferencia) VALUES ('abejero', 'abejera','ra'),
 	('ablanedo', 'ablanero','<!!special!!>'),
 	('ablanedo', '<span > o ','<!!special!!>'),

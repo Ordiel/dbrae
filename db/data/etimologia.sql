@@ -1,5 +1,7 @@
 USE drae;
 
+SET NAMES 'utf8';
+
 INSERT INTO etimologia VALUES('a-','ad-',TRUE),
 	('a-','a-',TRUE),
 	('aba','apăge',TRUE),

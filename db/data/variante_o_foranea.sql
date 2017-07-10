@@ -1,5 +1,7 @@
 USE drae;
 
+SET NAMES 'utf8';
+
 INSERT INTO signf_o_var_pal_foranea VALUES('abá guariní',', hombre de guerra'),
 	('*[a]b alḥíss',', cosa que suena'),
 	('aban [as]sarráǧ',', hijo del guarnicionero, nombre del antepasado de esta familia granadina de procedencia árabe'),
