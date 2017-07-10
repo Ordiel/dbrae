@@ -1,0 +1,14 @@
+echo "Starting mysql"
+service mysql start
+echo "Initializing Schema"
+mysql -uroot < /drae/db/setup/schema.sql
+echo "Setting up remote access user"
+mysql -uroot < /drae/db/setup/user.sql
+for i in /drae/db/data/*.sql; do
+    [ -f "$i" ] || break
+    echo "Ingesting $i..."  
+    mysql -uroot < $i
+    echo "Ingested $i..."
+done
+echo "Determining conection details"
+./drae/bin/get_ip

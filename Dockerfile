@@ -4,26 +4,18 @@
 #  database.
 
 # HOWTO
-#  * Build this image*
-#      1) Get the read only key for the drae
-#         repository and put it on your ~/.ssh
-#         folder.
-#      docker build -t ordiel/drae:0.0.1 . (Or any desired version)
+#  * Build this image; Replace "X.X.X" by the desired version
+#      docker build -t ordiel/drae:X.X.X . 
 
-FROM mysql
-MAINTAINER Ordiel "ordiel1910@gmail.com"
+    FROM mysql
+    MAINTAINER Ordiel "ordiel1910@gmail.com"
 
-# Build phase
+### Build phase
+    RUN mkdir drae
+    ADD db /drae/db
+    ADD bin /drae/bin
+    RUN chmod +x /drae/bin/*
+    EXPOSE 3306
 
-RUN apt-get update
-RUN apt-get install git -y
-
-RUN useradd drae
-WORKDIR ~/
-
-ADD ./DBCreator.sql /home/drae/DBCreator.sql
-ADD ./get_ip /home/drae/get_ip
-RUN chmod +x /home/drae/get_ip
-
-# Init phase
-ENTRYPOINT service mysql start && /home/drae/get_ip && tail -f /dev/null
+### INIT Phase
+    ENTRYPOINT /drae/bin/startup && tail -f /dev/null
