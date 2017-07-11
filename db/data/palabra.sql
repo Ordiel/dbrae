@@ -1,41 +1,9 @@
--- MySQL dump 10.13  Distrib 5.7.18, for Linux (x86_64)
---
--- Host: 172.17.0.2    Database: drae
--- ------------------------------------------------------
--- Server version	5.7.18
-
-/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
-/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
-/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
-/*!40101 SET NAMES utf8 */;
-/*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;
-/*!40103 SET TIME_ZONE='+00:00' */;
-/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
-/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
-/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
-/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
-
---
--- Table structure for table `palabra`
---
-
-DROP TABLE IF EXISTS `palabra`;
-/*!40101 SET @saved_cs_client     = @@character_set_client */;
-/*!40101 SET character_set_client = utf8 */;
-CREATE TABLE `palabra` (
-  `id` int(11) NOT NULL AUTO_INCREMENT,
-  `palabra` text,
-  PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=86645 DEFAULT CHARSET=utf8;
-/*!40101 SET character_set_client = @saved_cs_client */;
-
---
--- Dumping data for table `palabra`
---
+USE drae;
 
 LOCK TABLES `palabra` WRITE;
-/*!40000 ALTER TABLE `palabra` DISABLE KEYS */;
-INSERT INTO `palabra` VALUES (1,'a-'),
+
+INSERT INTO `palabra` VALUES
+	(1,'a-'),
 	(2,'a'),
 	(3,'aarónico'),
 	(4,'aaronita'),
@@ -280,7 +248,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(243,'ab irato'),
 	(244,'abisagrar'),
 	(245,'abisal'),
-	(246,'abiselar'),
+	(246,'abiselar');
+
+INSERT INTO `palabra` VALUES
 	(247,'abisinio'),
 	(248,'abismado'),
 	(249,'abismal'),
@@ -529,7 +499,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(492,'abrótano'),
 	(493,'abrotoñar'),
 	(494,'abrumador'),
-	(495,'abrumar'),
+	(495,'abrumar');
+
+INSERT INTO `palabra` VALUES
 	(496,'abrumarse'),
 	(497,'abrunal'),
 	(498,'abruñal'),
@@ -778,7 +750,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(741,'acantocitosis'),
 	(742,'acantonamiento'),
 	(743,'acantonar'),
-	(744,'acantopterigio'),
+	(744,'acantopterigio');
+
+INSERT INTO `palabra` VALUES
 	(745,'acañutado'),
 	(746,'acapaneca'),
 	(747,'acaparador'),
@@ -1027,7 +1001,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(990,'acertador'),
 	(991,'acertajón'),
 	(992,'acertamiento'),
-	(993,'acertante'),
+	(993,'acertante');
+
+INSERT INTO `palabra` VALUES
 	(994,'acertar'),
 	(995,'acertero'),
 	(996,'acertijo'),
@@ -1276,7 +1252,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(1239,'aclimatable'),
 	(1240,'aclimatación'),
 	(1241,'aclimatar'),
-	(1242,'aclla'),
+	(1242,'aclla');
+
+INSERT INTO `palabra` VALUES
 	(1243,'aclocar'),
 	(1244,'aclorhidria'),
 	(1245,'aclorhídrico'),
@@ -1525,7 +1503,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(1488,'acreditado'),
 	(1489,'acreditar'),
 	(1490,'acreditativo'),
-	(1491,'acreedor'),
+	(1491,'acreedor');
+
+INSERT INTO `palabra` VALUES
 	(1492,'acreencia'),
 	(1493,'acreer'),
 	(1494,'acremente'),
@@ -1774,7 +1754,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(1737,'adaptadamente'),
 	(1738,'adaptador'),
 	(1739,'adaptar'),
-	(1740,'adaptativo'),
+	(1740,'adaptativo');
+
+INSERT INTO `palabra` VALUES
 	(1741,'adáraga'),
 	(1742,'adaraja'),
 	(1743,'adárame'),
@@ -2023,7 +2005,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(1986,'adoptación'),
 	(1987,'adoptador'),
 	(1988,'adoptando'),
-	(1989,'adoptante'),
+	(1989,'adoptante');
+
+INSERT INTO `palabra` VALUES
 	(1990,'adoptar'),
 	(1991,'adoptivo'),
 	(1992,'adoquier'),
@@ -2272,7 +2256,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(2235,'aerovía'),
 	(2236,'aeta'),
 	(2237,'afabilidad'),
-	(2238,'afable'),
+	(2238,'afable');
+
+INSERT INTO `palabra` VALUES
 	(2239,'afablemente'),
 	(2240,'afabulación'),
 	(2241,'áfaca'),
@@ -2521,7 +2507,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(2484,'afrocubano'),
 	(2485,'afrodisíaco'),
 	(2486,'afrodita'),
-	(2487,'afronegrismo'),
+	(2487,'afronegrismo');
+
+INSERT INTO `palabra` VALUES
 	(2488,'afronegro'),
 	(2489,'afronitro'),
 	(2490,'afronorteamericano'),
@@ -2770,7 +2758,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(2733,'agrado'),
 	(2734,'agrafia'),
 	(2735,'ágrafo'),
-	(2736,'agramadera'),
+	(2736,'agramadera');
+
+INSERT INTO `palabra` VALUES
 	(2737,'agramado'),
 	(2738,'agramador'),
 	(2739,'agramar'),
@@ -3019,7 +3009,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(2982,'agüerar'),
 	(2983,'agüero'),
 	(2984,'aguerrido'),
-	(2985,'aguija'),
+	(2985,'aguija');
+
+INSERT INTO `palabra` VALUES
 	(2986,'aguijada'),
 	(2987,'aguijadera'),
 	(2988,'aguijador'),
@@ -3268,7 +3260,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(3231,'aislamiento'),
 	(3232,'aislante'),
 	(3233,'aislar'),
-	(3234,'aité'),
+	(3234,'aité');
+
+INSERT INTO `palabra` VALUES
 	(3235,'aitinal'),
 	(3236,'aizcolari'),
 	(3237,'aizoáceo'),
@@ -3517,7 +3511,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(3480,'alangiáceo'),
 	(3481,'alangieo'),
 	(3482,'alano'),
-	(3483,'alantoideo'),
+	(3483,'alantoideo');
+
+INSERT INTO `palabra` VALUES
 	(3484,'alantoides'),
 	(3485,'alantoína'),
 	(3486,'alanzar'),
@@ -3766,7 +3762,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(3729,'albricias'),
 	(3730,'albudeca'),
 	(3731,'albuérbola'),
-	(3732,'albufera'),
+	(3732,'albufera');
+
+INSERT INTO `palabra` VALUES
 	(3733,'albugíneo'),
 	(3734,'albugo'),
 	(3735,'albuhera'),
@@ -4015,7 +4013,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(3978,'aldeanismo'),
 	(3979,'aldeano'),
 	(3980,'aldehídico'),
-	(3981,'aldehído'),
+	(3981,'aldehído');
+
+INSERT INTO `palabra` VALUES
 	(3982,'aldeón'),
 	(3983,'aldeorrio'),
 	(3984,'alderredor'),
@@ -4264,7 +4264,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(4227,'alfombra'),
 	(4228,'alfombrado'),
 	(4229,'alfombrar'),
-	(4230,'alfombrero'),
+	(4230,'alfombrero');
+
+INSERT INTO `palabra` VALUES
 	(4231,'alfombrilla'),
 	(4232,'alfombrista'),
 	(4233,'alfóncigo'),
@@ -4513,7 +4515,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(4476,'alimentoso'),
 	(4477,'álimo'),
 	(4478,'alimoche'),
-	(4479,'alimonarse'),
+	(4479,'alimonarse');
+
+INSERT INTO `palabra` VALUES
 	(4480,'alimpiador'),
 	(4481,'alimpiamiento'),
 	(4482,'alimpiar'),
@@ -4762,7 +4766,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(4725,'almijar'),
 	(4726,'almijara'),
 	(4727,'almijarero'),
-	(4728,'almijarra'),
+	(4728,'almijarra');
+
+INSERT INTO `palabra` VALUES
 	(4729,'almilla'),
 	(4730,'almimbar'),
 	(4731,'alminar'),
@@ -5011,7 +5017,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(4974,'alquitara'),
 	(4975,'alquitarar'),
 	(4976,'alquitifa'),
-	(4977,'alquitira'),
+	(4977,'alquitira');
+
+INSERT INTO `palabra` VALUES
 	(4978,'alquitrabe'),
 	(4979,'alquitrán'),
 	(4980,'alquitranado'),
@@ -5260,7 +5268,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(5223,'amalgamación'),
 	(5224,'amalgamador'),
 	(5225,'amalgamamiento'),
-	(5226,'amalgamar'),
+	(5226,'amalgamar');
+
+INSERT INTO `palabra` VALUES
 	(5227,'amalladar'),
 	(5228,'amallarse'),
 	(5229,'ámalo'),
@@ -5509,7 +5519,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(5472,'amenazante'),
 	(5473,'amenazar'),
 	(5474,'amencia'),
-	(5475,'amenguadamente'),
+	(5475,'amenguadamente');
+
+INSERT INTO `palabra` VALUES
 	(5476,'amenguadero'),
 	(5477,'amenguamiento'),
 	(5478,'amenguar'),
@@ -5758,7 +5770,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(5721,'amotetarse'),
 	(5722,'amotinado'),
 	(5723,'amotinador'),
-	(5724,'amotinamiento'),
+	(5724,'amotinamiento');
+
+INSERT INTO `palabra` VALUES
 	(5725,'amotinar'),
 	(5726,'amover'),
 	(5727,'amovible'),
@@ -6007,7 +6021,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(5970,'anatado'),
 	(5971,'anatema'),
 	(5972,'anatematismo'),
-	(5973,'anatematizador'),
+	(5973,'anatematizador');
+
+INSERT INTO `palabra` VALUES
 	(5974,'anatematizar'),
 	(5975,'anatemizar'),
 	(5976,'anatiforme'),
@@ -6256,7 +6272,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(6219,'anfímacro'),
 	(6220,'anfineuro'),
 	(6221,'anfión'),
-	(6222,'anfípodo'),
+	(6222,'anfípodo');
+
+INSERT INTO `palabra` VALUES
 	(6223,'anfipróstilo'),
 	(6224,'anfisbena'),
 	(6225,'anfiscio'),
@@ -6505,7 +6523,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(6468,'añojo'),
 	(6469,'anolar'),
 	(6470,'anomalía'),
-	(6471,'anomalidad'),
+	(6471,'anomalidad');
+
+INSERT INTO `palabra` VALUES
 	(6472,'anomalístico'),
 	(6473,'anómalo'),
 	(6474,'anomia'),
@@ -6754,7 +6774,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(6717,'anticipamiento'),
 	(6718,'anticipante'),
 	(6719,'anticipar'),
-	(6720,'anticipativamente'),
+	(6720,'anticipativamente');
+
+INSERT INTO `palabra` VALUES
 	(6721,'anticipativo'),
 	(6722,'anticipatorio'),
 	(6723,'anticipo'),
@@ -7003,7 +7025,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(6966,'antitusígeno'),
 	(6967,'antitusivo'),
 	(6968,'antivariólico'),
-	(6969,'antivenéreo'),
+	(6969,'antivenéreo');
+
+INSERT INTO `palabra` VALUES
 	(6970,'antiviperino'),
 	(6971,'antiviral'),
 	(6972,'antivírico'),
@@ -7252,7 +7276,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(7215,'aparatar'),
 	(7216,'aparatero'),
 	(7217,'aparato'),
-	(7218,'aparatosamente'),
+	(7218,'aparatosamente');
+
+INSERT INTO `palabra` VALUES
 	(7219,'aparatosidad'),
 	(7220,'aparatoso'),
 	(7221,'aparcacoches'),
@@ -7501,7 +7527,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(7464,'apiri'),
 	(7465,'apirularse'),
 	(7466,'apisonado'),
-	(7467,'apisonadora'),
+	(7467,'apisonadora');
+
+INSERT INTO `palabra` VALUES
 	(7468,'apisonamiento'),
 	(7469,'apisonar'),
 	(7470,'apitar'),
@@ -7750,7 +7778,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(7713,'apreciar'),
 	(7714,'apreciativo'),
 	(7715,'aprecio'),
-	(7716,'aprehender'),
+	(7716,'aprehender');
+
+INSERT INTO `palabra` VALUES
 	(7717,'aprehensión'),
 	(7718,'aprehensivo'),
 	(7719,'aprehensor'),
@@ -7999,7 +8029,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(7962,'arahuaco'),
 	(7963,'-arajo'),
 	(7964,'aralia'),
-	(7965,'araliáceo'),
+	(7965,'araliáceo');
+
+INSERT INTO `palabra` VALUES
 	(7966,'arambel'),
 	(7967,'arambol'),
 	(7968,'arambre'),
@@ -8248,7 +8280,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(8211,'arenáceo'),
 	(8212,'arenación'),
 	(8213,'arenal'),
-	(8214,'arenar'),
+	(8214,'arenar');
+
+INSERT INTO `palabra` VALUES
 	(8215,'arencar'),
 	(8216,'arencón'),
 	(8217,'arenero'),
@@ -8497,7 +8531,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(8460,'armoniosamente'),
 	(8461,'armonioso'),
 	(8462,'armonista'),
-	(8463,'armónium'),
+	(8463,'armónium');
+
+INSERT INTO `palabra` VALUES
 	(8464,'armonizable'),
 	(8465,'armonización'),
 	(8466,'armonizador'),
@@ -8746,7 +8782,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(8709,'arrejuntarse'),
 	(8710,'arrelde'),
 	(8711,'arrellanarse'),
-	(8712,'arremangado'),
+	(8712,'arremangado');
+
+INSERT INTO `palabra` VALUES
 	(8713,'arremangar'),
 	(8714,'arremango'),
 	(8715,'arremansar'),
@@ -8995,7 +9033,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(8958,'arsénico'),
 	(8959,'arsenito'),
 	(8960,'arseniuro'),
-	(8961,'arsolla'),
+	(8961,'arsolla');
+
+INSERT INTO `palabra` VALUES
 	(8962,'arta'),
 	(8963,'ártabro'),
 	(8964,'artado'),
@@ -9244,7 +9284,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(9207,'aselador'),
 	(9208,'aselar'),
 	(9209,'asemblar'),
-	(9210,'asemejar'),
+	(9210,'asemejar');
+
+INSERT INTO `palabra` VALUES
 	(9211,'asemillar'),
 	(9212,'asencio'),
 	(9213,'asendereado'),
@@ -9493,7 +9535,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(9456,'aspectual'),
 	(9457,'asperarteria'),
 	(9458,'asperear'),
-	(9459,'asperete'),
+	(9459,'asperete');
+
+INSERT INTO `palabra` VALUES
 	(9460,'aspereza'),
 	(9461,'aspergear'),
 	(9462,'asperger'),
@@ -9742,7 +9786,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(9705,'atarantar'),
 	(9706,'ataraxia'),
 	(9707,'atarazana'),
-	(9708,'atarazar'),
+	(9708,'atarazar');
+
+INSERT INTO `palabra` VALUES
 	(9709,'atardecer'),
 	(9710,'atardecida'),
 	(9711,'atarea'),
@@ -9991,7 +10037,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(9954,'atondar'),
 	(9955,'atonía'),
 	(9956,'atónico'),
-	(9957,'atónito'),
+	(9957,'atónito');
+
+INSERT INTO `palabra` VALUES
 	(9958,'átono'),
 	(9959,'atontado'),
 	(9960,'atontamiento'),
@@ -10240,7 +10288,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(10203,'aura'),
 	(10204,'auranciáceo'),
 	(10205,'aurelianense'),
-	(10206,'áureo'),
+	(10206,'áureo');
+
+INSERT INTO `palabra` VALUES
 	(10207,'aureola'),
 	(10208,'aureolar'),
 	(10209,'aureomicina'),
@@ -10489,7 +10539,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(10452,'avandicho'),
 	(10453,'avanecerse'),
 	(10454,'avantal'),
-	(10455,'avante'),
+	(10455,'avante');
+
+INSERT INTO `palabra` VALUES
 	(10456,'avantrén'),
 	(10457,'avanzada'),
 	(10458,'avanzadilla'),
@@ -10738,7 +10790,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(10701,'ayocote'),
 	(10702,'ayopayeño'),
 	(10703,'ayora'),
-	(10704,'ayoreo'),
+	(10704,'ayoreo');
+
+INSERT INTO `palabra` VALUES
 	(10705,'ayote'),
 	(10706,'ayotera'),
 	(10707,'ayúa'),
@@ -10987,7 +11041,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(10950,'baberol'),
 	(10951,'babi'),
 	(10952,'babiano'),
-	(10953,'babieca'),
+	(10953,'babieca');
+
+INSERT INTO `palabra` VALUES
 	(10954,'babilar'),
 	(10955,'babilla'),
 	(10956,'babilón'),
@@ -11236,7 +11292,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(11199,'baladre'),
 	(11200,'baladrear'),
 	(11201,'baladrero'),
-	(11202,'baladro'),
+	(11202,'baladro');
+
+INSERT INTO `palabra` VALUES
 	(11203,'baladrón'),
 	(11204,'baladronada'),
 	(11205,'baladronear'),
@@ -11485,7 +11543,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(11448,'bancar'),
 	(11449,'bancario'),
 	(11450,'bancarización'),
-	(11451,'bancarizar'),
+	(11451,'bancarizar');
+
+INSERT INTO `palabra` VALUES
 	(11452,'bancarrota'),
 	(11453,'bance'),
 	(11454,'banco'),
@@ -11734,7 +11794,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(11697,'barcelonés'),
 	(11698,'bárcena'),
 	(11699,'barceno'),
-	(11700,'barceo'),
+	(11700,'barceo');
+
+INSERT INTO `palabra` VALUES
 	(11701,'barchilla'),
 	(11702,'barchilón'),
 	(11703,'barcia'),
@@ -11983,7 +12045,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(11946,'basna'),
 	(11947,'basquear'),
 	(11948,'básquet'),
-	(11949,'basquetbol'),
+	(11949,'basquetbol');
+
+INSERT INTO `palabra` VALUES
 	(11950,'basquilla'),
 	(11951,'basquiña'),
 	(11952,'basta'),
@@ -12232,7 +12296,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(12195,'bechamel'),
 	(12196,'becoquín'),
 	(12197,'becoquino'),
-	(12198,'becquerel'),
+	(12198,'becquerel');
+
+INSERT INTO `palabra` VALUES
 	(12199,'becqueriana'),
 	(12200,'becqueriano'),
 	(12201,'becuadrado'),
@@ -12481,7 +12547,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(12444,'berraña'),
 	(12445,'berrar'),
 	(12446,'berraza'),
-	(12447,'berrea'),
+	(12447,'berrea');
+
+INSERT INTO `palabra` VALUES
 	(12448,'berrear'),
 	(12449,'berrejo'),
 	(12450,'berrenchín'),
@@ -12730,7 +12798,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(12693,'bigarda'),
 	(12694,'bigardear'),
 	(12695,'bigardía'),
-	(12696,'bigardo'),
+	(12696,'bigardo');
+
+INSERT INTO `palabra` VALUES
 	(12697,'bígaro'),
 	(12698,'bigarrado'),
 	(12699,'bigarro'),
@@ -12979,7 +13049,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(12942,'bisoñez'),
 	(12943,'bisoño'),
 	(12944,'bisonte'),
-	(12945,'bispón'),
+	(12945,'bispón');
+
+INSERT INTO `palabra` VALUES
 	(12946,'bisté'),
 	(12947,'bistec'),
 	(12948,'bístola'),
@@ -13228,7 +13300,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(13191,'bocha'),
 	(13192,'bochar'),
 	(13193,'bochazo'),
-	(13194,'boche'),
+	(13194,'boche');
+
+INSERT INTO `palabra` VALUES
 	(13195,'bochín'),
 	(13196,'bochinche'),
 	(13197,'bochinchero'),
@@ -13477,7 +13551,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(13440,'bonaventuriano'),
 	(13441,'bondad'),
 	(13442,'bondadoso'),
-	(13443,'bondiola'),
+	(13443,'bondiola');
+
+INSERT INTO `palabra` VALUES
 	(13444,'bondoso'),
 	(13445,'boneta'),
 	(13446,'bonetada'),
@@ -13726,7 +13802,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(13689,'bostoniano'),
 	(13690,'bota'),
 	(13691,'botadero'),
-	(13692,'botado'),
+	(13692,'botado');
+
+INSERT INTO `palabra` VALUES
 	(13693,'botador'),
 	(13694,'botadura'),
 	(13695,'botafuego'),
@@ -13975,7 +14053,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(13938,'brecolera'),
 	(13939,'brega'),
 	(13940,'bregadura'),
-	(13941,'bregar'),
+	(13941,'bregar');
+
+INSERT INTO `palabra` VALUES
 	(13942,'breguero'),
 	(13943,'brejeta'),
 	(13944,'bren'),
@@ -14224,7 +14304,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(14187,'bruñir'),
 	(14188,'bruno'),
 	(14189,'bruño'),
-	(14190,'brusca'),
+	(14190,'brusca');
+
+INSERT INTO `palabra` VALUES
 	(14191,'bruscadera'),
 	(14192,'bruscamente'),
 	(14193,'bruscate'),
@@ -14473,7 +14555,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(14436,'burga'),
 	(14437,'burgado'),
 	(14438,'burgalés'),
-	(14439,'burgés'),
+	(14439,'burgés');
+
+INSERT INTO `palabra` VALUES
 	(14440,'burgo'),
 	(14441,'burgomaestre'),
 	(14442,'burgrave'),
@@ -14722,7 +14806,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(14685,'cabezada'),
 	(14686,'cabezaje'),
 	(14687,'cabezal'),
-	(14688,'cabezalería'),
+	(14688,'cabezalería');
+
+INSERT INTO `palabra` VALUES
 	(14689,'cabezalero'),
 	(14690,'cabezazo'),
 	(14691,'cabezcaído'),
@@ -14971,7 +15057,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(14934,'cachondear'),
 	(14935,'cachondeo'),
 	(14936,'cachondez'),
-	(14937,'cachondiez'),
+	(14937,'cachondiez');
+
+INSERT INTO `palabra` VALUES
 	(14938,'cachondo'),
 	(14939,'cachopín'),
 	(14940,'cachopo'),
@@ -15220,7 +15308,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(15183,'calaba'),
 	(15184,'calabacear'),
 	(15185,'calabacera'),
-	(15186,'calabacero'),
+	(15186,'calabacero');
+
+INSERT INTO `palabra` VALUES
 	(15187,'calabacilla'),
 	(15188,'calabacín'),
 	(15189,'calabacinate'),
@@ -15469,7 +15559,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(15432,'calendario'),
 	(15433,'calendarista'),
 	(15434,'calendarización'),
-	(15435,'calendarizar'),
+	(15435,'calendarizar');
+
+INSERT INTO `palabra` VALUES
 	(15436,'caléndula'),
 	(15437,'caleño'),
 	(15438,'calentado'),
@@ -15718,7 +15810,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(15681,'calvete'),
 	(15682,'calvez'),
 	(15683,'calvicie'),
-	(15684,'calvijar'),
+	(15684,'calvijar');
+
+INSERT INTO `palabra` VALUES
 	(15685,'calvinismo'),
 	(15686,'calvinista'),
 	(15687,'calvitar'),
@@ -15967,7 +16061,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(15930,'cámpago'),
 	(15931,'campal'),
 	(15932,'campamental'),
-	(15933,'campamento'),
+	(15933,'campamento');
+
+INSERT INTO `palabra` VALUES
 	(15934,'campamiento'),
 	(15935,'campamocha'),
 	(15936,'campana'),
@@ -16216,7 +16312,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(16179,'cancona'),
 	(16180,'cancos'),
 	(16181,'cancro'),
-	(16182,'cancroide'),
+	(16182,'cancroide');
+
+INSERT INTO `palabra` VALUES
 	(16183,'cancroideo'),
 	(16184,'cancunense'),
 	(16185,'candado'),
@@ -16465,7 +16563,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(16428,'cántabro'),
 	(16429,'cantaclaro'),
 	(16430,'cantadera'),
-	(16431,'cantado'),
+	(16431,'cantado');
+
+INSERT INTO `palabra` VALUES
 	(16432,'cantador'),
 	(16433,'cantal'),
 	(16434,'cantalear'),
@@ -16714,7 +16814,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(16677,'capitanejo'),
 	(16678,'capitanía'),
 	(16679,'capitel'),
-	(16680,'capitidisminución'),
+	(16680,'capitidisminución');
+
+INSERT INTO `palabra` VALUES
 	(16681,'capitidisminuido'),
 	(16682,'capitidisminuir'),
 	(16683,'capítol'),
@@ -16963,7 +17065,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(16926,'carauz'),
 	(16927,'caravana'),
 	(16928,'caravanero'),
-	(16929,'caravasar'),
+	(16929,'caravasar');
+
+INSERT INTO `palabra` VALUES
 	(16930,'caravelino'),
 	(16931,'caray'),
 	(16932,'carayá'),
@@ -17212,7 +17316,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(17175,'caricato'),
 	(17176,'caricatura'),
 	(17177,'caricatural'),
-	(17178,'caricaturar'),
+	(17178,'caricaturar');
+
+INSERT INTO `palabra` VALUES
 	(17179,'caricaturesco'),
 	(17180,'caricaturista'),
 	(17181,'caricaturización'),
@@ -17461,7 +17567,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(17424,'carraquear'),
 	(17425,'carrasca'),
 	(17426,'carrascal'),
-	(17427,'carrasco'),
+	(17427,'carrasco');
+
+INSERT INTO `palabra` VALUES
 	(17428,'carrascoso'),
 	(17429,'carraspada'),
 	(17430,'carraspear'),
@@ -17710,7 +17818,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(17673,'cascalote'),
 	(17674,'cascamajar'),
 	(17675,'cascamiento'),
-	(17676,'cascanueces'),
+	(17676,'cascanueces');
+
+INSERT INTO `palabra` VALUES
 	(17677,'cascapiñones'),
 	(17678,'cascar'),
 	(17679,'cáscara'),
@@ -17959,7 +18069,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(17922,'cataléptico'),
 	(17923,'catalicón'),
 	(17924,'catalicores'),
-	(17925,'catalina'),
+	(17925,'catalina');
+
+INSERT INTO `palabra` VALUES
 	(17926,'catalineta'),
 	(17927,'catálisis'),
 	(17928,'catalítico'),
@@ -18208,7 +18320,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(18171,'cáusticamente'),
 	(18172,'causticar'),
 	(18173,'causticidad'),
-	(18174,'cáustico'),
+	(18174,'cáustico');
+
+INSERT INTO `palabra` VALUES
 	(18175,'cautela'),
 	(18176,'cautelar'),
 	(18177,'cauteloso'),
@@ -18457,7 +18571,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(18420,'cefalotórax'),
 	(18421,'cefea'),
 	(18422,'cefear'),
-	(18423,'céfiro'),
+	(18423,'céfiro');
+
+INSERT INTO `palabra` VALUES
 	(18424,'cefo'),
 	(18425,'cefrado'),
 	(18426,'cegador'),
@@ -18706,7 +18822,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(18669,'cenobitismo'),
 	(18670,'cenojil'),
 	(18671,'cenopegias'),
-	(18672,'cenoso'),
+	(18672,'cenoso');
+
+INSERT INTO `palabra` VALUES
 	(18673,'ceñoso'),
 	(18674,'cenotafio'),
 	(18675,'cenote'),
@@ -18955,7 +19073,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(18918,'ceriflor'),
 	(18919,'cerilla'),
 	(18920,'cerillera'),
-	(18921,'cerillero'),
+	(18921,'cerillero');
+
+INSERT INTO `palabra` VALUES
 	(18922,'cerillo'),
 	(18923,'cerina'),
 	(18924,'cerio'),
@@ -19204,7 +19324,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(19167,'chácena'),
 	(19168,'chacha'),
 	(19169,'chachá'),
-	(19170,'chachachá'),
+	(19170,'chachachá');
+
+INSERT INTO `palabra` VALUES
 	(19171,'chachacoma'),
 	(19172,'chachafruto'),
 	(19173,'chachaguata'),
@@ -19453,7 +19575,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(19416,'chanchita'),
 	(19417,'chancho'),
 	(19418,'chanchullar'),
-	(19419,'chanchullero'),
+	(19419,'chanchullero');
+
+INSERT INTO `palabra` VALUES
 	(19420,'chanchullo'),
 	(19421,'chanciller'),
 	(19422,'chancillería'),
@@ -19702,7 +19826,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(19665,'charrulo'),
 	(19666,'chárter'),
 	(19667,'chartismo'),
-	(19668,'chartreuse'),
+	(19668,'chartreuse');
+
+INSERT INTO `palabra` VALUES
 	(19669,'chasca'),
 	(19670,'chascada'),
 	(19671,'chascar'),
@@ -19951,7 +20077,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(19914,'chigrero'),
 	(19915,'chigua'),
 	(19916,'chigüí'),
-	(19917,'chigüil'),
+	(19917,'chigüil');
+
+INSERT INTO `palabra` VALUES
 	(19918,'chigüín'),
 	(19919,'chigüire'),
 	(19920,'chihuahua'),
@@ -20200,7 +20328,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(20163,'chirimía'),
 	(20164,'chirimiri'),
 	(20165,'chirimoya'),
-	(20166,'chirimoyo'),
+	(20166,'chirimoyo');
+
+INSERT INTO `palabra` VALUES
 	(20167,'chirinada'),
 	(20168,'chiringa'),
 	(20169,'chiringo'),
@@ -20449,7 +20579,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(20412,'chopalera'),
 	(20413,'chopazo'),
 	(20414,'chope'),
-	(20415,'chopeadura'),
+	(20415,'chopeadura');
+
+INSERT INTO `palabra` VALUES
 	(20416,'chopear'),
 	(20417,'chóped'),
 	(20418,'chopera'),
@@ -20698,7 +20830,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(20661,'churrero'),
 	(20662,'churretada'),
 	(20663,'churrete'),
-	(20664,'churretear'),
+	(20664,'churretear');
+
+INSERT INTO `palabra` VALUES
 	(20665,'churretoso'),
 	(20666,'churri'),
 	(20667,'churria'),
@@ -20947,7 +21081,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(20910,'cigua'),
 	(20911,'ciguanaba'),
 	(20912,'ciguapa'),
-	(20913,'ciguapate'),
+	(20913,'ciguapate');
+
+INSERT INTO `palabra` VALUES
 	(20914,'ciguaraya'),
 	(20915,'ciguatarse'),
 	(20916,'ciguatera'),
@@ -21196,7 +21332,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(21159,'circonio'),
 	(21160,'circonita'),
 	(21161,'circuición'),
-	(21162,'circuir'),
+	(21162,'circuir');
+
+INSERT INTO `palabra` VALUES
 	(21163,'circuito'),
 	(21164,'circulación'),
 	(21165,'circulante'),
@@ -21445,7 +21583,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(21408,'clasificado'),
 	(21409,'clasificador'),
 	(21410,'clasificar'),
-	(21411,'clasificatorio'),
+	(21411,'clasificatorio');
+
+INSERT INTO `palabra` VALUES
 	(21412,'clasismo'),
 	(21413,'clasista'),
 	(21414,'clástico'),
@@ -21694,7 +21834,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(21657,'coaxial'),
 	(21658,'coba'),
 	(21659,'cobáltico'),
-	(21660,'cobaltina'),
+	(21660,'cobaltina');
+
+INSERT INTO `palabra` VALUES
 	(21661,'cobalto'),
 	(21662,'cobaltoterapia'),
 	(21663,'cobanero'),
@@ -21943,7 +22085,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(21906,'cofinanciación'),
 	(21907,'cofinanciar'),
 	(21908,'cofrada'),
-	(21909,'cofrade'),
+	(21909,'cofrade');
+
+INSERT INTO `palabra` VALUES
 	(21910,'cofradero'),
 	(21911,'cofradía'),
 	(21912,'cofre'),
@@ -22192,7 +22336,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(22155,'colera'),
 	(22156,'cólera'),
 	(22157,'colérico'),
-	(22158,'coleriforme'),
+	(22158,'coleriforme');
+
+INSERT INTO `palabra` VALUES
 	(22159,'colerina'),
 	(22160,'colerizar'),
 	(22161,'colero'),
@@ -22441,7 +22587,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(22404,'comadreo'),
 	(22405,'comadrería'),
 	(22406,'comadrero'),
-	(22407,'comadrita'),
+	(22407,'comadrita');
+
+INSERT INTO `palabra` VALUES
 	(22408,'comadrón'),
 	(22409,'comal'),
 	(22410,'comalecerse'),
@@ -22690,7 +22838,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(22653,'compasado'),
 	(22654,'compasar'),
 	(22655,'compasear'),
-	(22656,'compaseo'),
+	(22656,'compaseo');
+
+INSERT INTO `palabra` VALUES
 	(22657,'compasible'),
 	(22658,'compasillo'),
 	(22659,'compasión'),
@@ -22939,7 +23089,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(22902,'concatedralidad'),
 	(22903,'concatenación'),
 	(22904,'concatenamiento'),
-	(22905,'concatenar'),
+	(22905,'concatenar');
+
+INSERT INTO `palabra` VALUES
 	(22906,'concausa'),
 	(22907,'cóncava'),
 	(22908,'concavidad'),
@@ -23188,7 +23340,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(23151,'condrología'),
 	(23152,'condroma'),
 	(23153,'conducción'),
-	(23154,'conducencia'),
+	(23154,'conducencia');
+
+INSERT INTO `palabra` VALUES
 	(23155,'conducente'),
 	(23156,'conduchar'),
 	(23157,'conducho'),
@@ -23437,7 +23591,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(23400,'congolés'),
 	(23401,'congolona'),
 	(23402,'congona'),
-	(23403,'congorocho'),
+	(23403,'congorocho');
+
+INSERT INTO `palabra` VALUES
 	(23404,'congosto'),
 	(23405,'congraciador'),
 	(23406,'congraciamiento'),
@@ -23686,7 +23842,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(23649,'consograr'),
 	(23650,'consola'),
 	(23651,'consolable'),
-	(23652,'consolación'),
+	(23652,'consolación');
+
+INSERT INTO `palabra` VALUES
 	(23653,'consolador'),
 	(23654,'consolar'),
 	(23655,'consolativo'),
@@ -23935,7 +24093,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(23898,'contornar'),
 	(23899,'contornear'),
 	(23900,'contorneo'),
-	(23901,'contorno'),
+	(23901,'contorno');
+
+INSERT INTO `palabra` VALUES
 	(23902,'contorsión'),
 	(23903,'contorsionarse'),
 	(23904,'contorsionista'),
@@ -24184,7 +24344,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(24147,'contrasello'),
 	(24148,'contraseña'),
 	(24149,'contraseñar'),
-	(24150,'contraseño'),
+	(24150,'contraseño');
+
+INSERT INTO `palabra` VALUES
 	(24151,'contrasentido'),
 	(24152,'contrastable'),
 	(24153,'contrastante'),
@@ -24433,7 +24595,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(24396,'copayero'),
 	(24397,'copazo'),
 	(24398,'cope'),
-	(24399,'copé'),
+	(24399,'copé');
+
+INSERT INTO `palabra` VALUES
 	(24400,'copeado'),
 	(24401,'copear'),
 	(24402,'copec'),
@@ -24682,7 +24846,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(24645,'cordonero'),
 	(24646,'cordubense'),
 	(24647,'cordula'),
-	(24648,'cordura'),
+	(24648,'cordura');
+
+INSERT INTO `palabra` VALUES
 	(24649,'corea'),
 	(24650,'coreano'),
 	(24651,'corear'),
@@ -24931,7 +25097,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(24894,'correntía'),
 	(24895,'correntiar'),
 	(24896,'correntímetro'),
-	(24897,'correntino'),
+	(24897,'correntino');
+
+INSERT INTO `palabra` VALUES
 	(24898,'correntío'),
 	(24899,'correntón'),
 	(24900,'correntoso'),
@@ -25180,7 +25348,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(25143,'cósmico'),
 	(25144,'cosmódromo'),
 	(25145,'cosmogonía'),
-	(25146,'cosmogónico'),
+	(25146,'cosmogónico');
+
+INSERT INTO `palabra` VALUES
 	(25147,'cosmogonista'),
 	(25148,'cosmografía'),
 	(25149,'cosmográfico'),
@@ -25429,7 +25599,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(25392,'creacionismo'),
 	(25393,'creacionista'),
 	(25394,'creador'),
-	(25395,'creamiento'),
+	(25395,'creamiento');
+
+INSERT INTO `palabra` VALUES
 	(25396,'crear'),
 	(25397,'creatividad'),
 	(25398,'creativo'),
@@ -25678,7 +25850,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(25641,'crítica'),
 	(25642,'criticable'),
 	(25643,'criticador'),
-	(25644,'críticamente'),
+	(25644,'críticamente');
+
+INSERT INTO `palabra` VALUES
 	(25645,'criticar'),
 	(25646,'criticastro'),
 	(25647,'criticidad'),
@@ -25927,7 +26101,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(25890,'cual'),
 	(25891,'cualesquier'),
 	(25892,'cualesquiera'),
-	(25893,'cualidad'),
+	(25893,'cualidad');
+
+INSERT INTO `palabra` VALUES
 	(25894,'cualificación'),
 	(25895,'cualificado'),
 	(25896,'cualificar'),
@@ -26176,7 +26352,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(26139,'cuclillo'),
 	(26140,'cuco'),
 	(26141,'cucú'),
-	(26142,'cucubá'),
+	(26142,'cucubá');
+
+INSERT INTO `palabra` VALUES
 	(26143,'cucubano'),
 	(26144,'cucubo'),
 	(26145,'cucuiza'),
@@ -26425,7 +26603,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(26388,'cultural'),
 	(26389,'culturalismo'),
 	(26390,'culturalista'),
-	(26391,'culturar'),
+	(26391,'culturar');
+
+INSERT INTO `palabra` VALUES
 	(26392,'cultureta'),
 	(26393,'culturismo'),
 	(26394,'culturista'),
@@ -26674,7 +26854,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(26637,'curvado'),
 	(26638,'curvar'),
 	(26639,'curvatón'),
-	(26640,'curvatura'),
+	(26640,'curvatura');
+
+INSERT INTO `palabra` VALUES
 	(26641,'curvería'),
 	(26642,'curvidad'),
 	(26643,'curvilíneo'),
@@ -26923,7 +27105,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(26886,'dauleño'),
 	(26887,'davalar'),
 	(26888,'davideño'),
-	(26889,'davídico'),
+	(26889,'davídico');
+
+INSERT INTO `palabra` VALUES
 	(26890,'daza'),
 	(26891,'dazibao'),
 	(26892,'DDT'),
@@ -27172,7 +27356,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(27135,'decusación'),
 	(27136,'decusado'),
 	(27137,'decuso'),
-	(27138,'dedada'),
+	(27138,'dedada');
+
+INSERT INTO `palabra` VALUES
 	(27139,'dedal'),
 	(27140,'dedalera'),
 	(27141,'dédalo'),
@@ -27421,7 +27607,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(27384,'deliberante'),
 	(27385,'deliberar'),
 	(27386,'deliberativo'),
-	(27387,'delibrar'),
+	(27387,'delibrar');
+
+INSERT INTO `palabra` VALUES
 	(27388,'delicadamente'),
 	(27389,'delicadez'),
 	(27390,'delicadeza'),
@@ -27670,7 +27858,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(27633,'dentrotraer'),
 	(27634,'dentudo'),
 	(27635,'denudación'),
-	(27636,'denudar'),
+	(27636,'denudar');
+
+INSERT INTO `palabra` VALUES
 	(27637,'denuedo'),
 	(27638,'denuesto'),
 	(27639,'denuncia'),
@@ -27919,7 +28109,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(27882,'desabrido'),
 	(27883,'desabrigado'),
 	(27884,'desabrigar'),
-	(27885,'desabrigo'),
+	(27885,'desabrigo');
+
+INSERT INTO `palabra` VALUES
 	(27886,'desabrimiento'),
 	(27887,'desabrir'),
 	(27888,'desabrochar'),
@@ -28168,7 +28360,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(28131,'desanudadura'),
 	(28132,'desanudar'),
 	(28133,'desañudar'),
-	(28134,'desaojadera'),
+	(28134,'desaojadera');
+
+INSERT INTO `palabra` VALUES
 	(28135,'desaojar'),
 	(28136,'desapacibilidad'),
 	(28137,'desapacible'),
@@ -28417,7 +28611,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(28380,'desbarrada'),
 	(28381,'desbarrancadero'),
 	(28382,'desbarrancar'),
-	(28383,'desbarrar'),
+	(28383,'desbarrar');
+
+INSERT INTO `palabra` VALUES
 	(28384,'desbarre'),
 	(28385,'desbarretar'),
 	(28386,'desbarrigado'),
@@ -28666,7 +28862,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(28629,'descerezadora'),
 	(28630,'descerezar'),
 	(28631,'descerrajado'),
-	(28632,'descerrajadura'),
+	(28632,'descerrajadura');
+
+INSERT INTO `palabra` VALUES
 	(28633,'descerrajar'),
 	(28634,'descerrar'),
 	(28635,'descerrumarse'),
@@ -28915,7 +29113,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(28878,'descreído'),
 	(28879,'descreimiento'),
 	(28880,'descremado'),
-	(28881,'descremadora'),
+	(28881,'descremadora');
+
+INSERT INTO `palabra` VALUES
 	(28882,'descremar'),
 	(28883,'descrestar'),
 	(28884,'descriarse'),
@@ -29164,7 +29364,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(29127,'desencapar'),
 	(29128,'desencapillar'),
 	(29129,'desencapotadura'),
-	(29130,'desencapotar'),
+	(29130,'desencapotar');
+
+INSERT INTO `palabra` VALUES
 	(29131,'desencaprichar'),
 	(29132,'desencarcelar'),
 	(29133,'desencarecer'),
@@ -29413,7 +29615,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(29376,'desfavorable'),
 	(29377,'desfavorablemente'),
 	(29378,'desfavorecer'),
-	(29379,'desfavorecido'),
+	(29379,'desfavorecido');
+
+INSERT INTO `palabra` VALUES
 	(29380,'desfazado'),
 	(29381,'desfear'),
 	(29382,'desfecho'),
@@ -29662,7 +29866,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(29625,'desiderátum'),
 	(29626,'desidia'),
 	(29627,'desidioso'),
-	(29628,'desierto'),
+	(29628,'desierto');
+
+INSERT INTO `palabra` VALUES
 	(29629,'designación'),
 	(29630,'designado'),
 	(29631,'designar'),
@@ -29911,7 +30117,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(29874,'desminado'),
 	(29875,'desminar'),
 	(29876,'desmineralización'),
-	(29877,'desmineralizar'),
+	(29877,'desmineralizar');
+
+INSERT INTO `palabra` VALUES
 	(29878,'desmiramiento'),
 	(29879,'desmirlado'),
 	(29880,'desmirriado'),
@@ -30160,7 +30368,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(30123,'desparramador'),
 	(30124,'desparramamiento'),
 	(30125,'desparramar'),
-	(30126,'desparrame'),
+	(30126,'desparrame');
+
+INSERT INTO `palabra` VALUES
 	(30127,'desparramo'),
 	(30128,'desparrancado'),
 	(30129,'desparrancarse'),
@@ -30409,7 +30619,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(30372,'desposte'),
 	(30373,'despostillar'),
 	(30374,'déspota'),
-	(30375,'despótico'),
+	(30375,'despótico');
+
+INSERT INTO `palabra` VALUES
 	(30376,'despotiquez'),
 	(30377,'despotismo'),
 	(30378,'despotizar'),
@@ -30658,7 +30870,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(30621,'destrueco'),
 	(30622,'destrueque'),
 	(30623,'destruible'),
-	(30624,'destruición'),
+	(30624,'destruición');
+
+INSERT INTO `palabra` VALUES
 	(30625,'destruidor'),
 	(30626,'destruimiento'),
 	(30627,'destruir'),
@@ -30907,7 +31121,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(30870,'devotería'),
 	(30871,'devoto'),
 	(30872,'devover'),
-	(30873,'devuelto'),
+	(30873,'devuelto');
+
+INSERT INTO `palabra` VALUES
 	(30874,'dexiocardia'),
 	(30875,'dextrina'),
 	(30876,'dextrismo'),
@@ -31156,7 +31372,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(31119,'dieciocheno'),
 	(31120,'dieciochesco'),
 	(31121,'dieciochismo'),
-	(31122,'dieciochista'),
+	(31122,'dieciochista');
+
+INSERT INTO `palabra` VALUES
 	(31123,'dieciocho'),
 	(31124,'dieciochoavo'),
 	(31125,'dieciséis'),
@@ -31405,7 +31623,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(31368,'dinastismo'),
 	(31369,'dinerada'),
 	(31370,'dineral'),
-	(31371,'dineralada'),
+	(31371,'dineralada');
+
+INSERT INTO `palabra` VALUES
 	(31372,'dinerario'),
 	(31373,'dinerillo'),
 	(31374,'dinero'),
@@ -31654,7 +31874,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(31617,'disgregante'),
 	(31618,'disgregar'),
 	(31619,'disgregativo'),
-	(31620,'disgustadamente'),
+	(31620,'disgustadamente');
+
+INSERT INTO `palabra` VALUES
 	(31621,'disgustado'),
 	(31622,'disgustar'),
 	(31623,'disgusto'),
@@ -31903,7 +32125,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(31866,'divinización'),
 	(31867,'divinizar'),
 	(31868,'divino'),
-	(31869,'divisa'),
+	(31869,'divisa');
+
+INSERT INTO `palabra` VALUES
 	(31870,'divisable'),
 	(31871,'divisadero'),
 	(31872,'divisar'),
@@ -32152,7 +32376,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(32115,'dondequiera'),
 	(32116,'dondiego'),
 	(32117,'doneador'),
-	(32118,'doñeador'),
+	(32118,'doñeador');
+
+INSERT INTO `palabra` VALUES
 	(32119,'donear'),
 	(32120,'doñear'),
 	(32121,'doñeguil'),
@@ -32401,7 +32627,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(32364,'dulcedumbre'),
 	(32365,'dulcémele'),
 	(32366,'dulcemente'),
-	(32367,'dulcera'),
+	(32367,'dulcera');
+
+INSERT INTO `palabra` VALUES
 	(32368,'dulcería'),
 	(32369,'dulcero'),
 	(32370,'dulceza'),
@@ -32650,7 +32878,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(32613,'ecuatoriano'),
 	(32614,'ecuestre'),
 	(32615,'ecúleo'),
-	(32616,'ecúmene'),
+	(32616,'ecúmene');
+
+INSERT INTO `palabra` VALUES
 	(32617,'ecuménico'),
 	(32618,'ecumenismo'),
 	(32619,'ecúmeno'),
@@ -32899,7 +33129,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(32862,'elección'),
 	(32863,'eleccionario'),
 	(32864,'electivo'),
-	(32865,'electo'),
+	(32865,'electo');
+
+INSERT INTO `palabra` VALUES
 	(32866,'elector'),
 	(32867,'electorado'),
 	(32868,'electoral'),
@@ -33148,7 +33380,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(33111,'emballestadura'),
 	(33112,'emballestarse'),
 	(33113,'embalo'),
-	(33114,'embalsadero'),
+	(33114,'embalsadero');
+
+INSERT INTO `palabra` VALUES
 	(33115,'embalsamador'),
 	(33116,'embalsamamiento'),
 	(33117,'embalsamar'),
@@ -33397,7 +33631,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(33360,'embriólogo'),
 	(33361,'embrión'),
 	(33362,'embrionario'),
-	(33363,'embrisar'),
+	(33363,'embrisar');
+
+INSERT INTO `palabra` VALUES
 	(33364,'émbroca'),
 	(33365,'embrocación'),
 	(33366,'embrocado'),
@@ -33646,7 +33882,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(33609,'empedecer'),
 	(33610,'empedernecer'),
 	(33611,'empedernido'),
-	(33612,'empedernir'),
+	(33612,'empedernir');
+
+INSERT INTO `palabra` VALUES
 	(33613,'empedrado'),
 	(33614,'empedrador'),
 	(33615,'empedramiento'),
@@ -33895,7 +34133,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(33858,'emulsionar'),
 	(33859,'emulsivo'),
 	(33860,'emulsor'),
-	(33861,'emunción'),
+	(33861,'emunción');
+
+INSERT INTO `palabra` VALUES
 	(33862,'emundación'),
 	(33863,'emuntorio'),
 	(33864,'en-'),
@@ -34144,7 +34384,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(34107,'encarcelación'),
 	(34108,'encarcelador'),
 	(34109,'encarcelamiento'),
-	(34110,'encarcelar'),
+	(34110,'encarcelar');
+
+INSERT INTO `palabra` VALUES
 	(34111,'encarcerar'),
 	(34112,'encarecedor'),
 	(34113,'encarecer'),
@@ -34393,7 +34635,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(34356,'encoclar'),
 	(34357,'encocorar'),
 	(34358,'encodillarse'),
-	(34359,'encofinar'),
+	(34359,'encofinar');
+
+INSERT INTO `palabra` VALUES
 	(34360,'encofrado'),
 	(34361,'encofrador'),
 	(34362,'encofrar'),
@@ -34642,7 +34886,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(34605,'endogamia'),
 	(34606,'endogámico'),
 	(34607,'endogénesis'),
-	(34608,'endógeno'),
+	(34608,'endógeno');
+
+INSERT INTO `palabra` VALUES
 	(34609,'endolencia'),
 	(34610,'endolinfa'),
 	(34611,'endometrio'),
@@ -34891,7 +35137,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(34854,'engalladura'),
 	(34855,'engallamiento'),
 	(34856,'engallar'),
-	(34857,'engalle'),
+	(34857,'engalle');
+
+INSERT INTO `palabra` VALUES
 	(34858,'engalletar'),
 	(34859,'engañabobos'),
 	(34860,'engañadizo'),
@@ -35140,7 +35388,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(35103,'enhuevar'),
 	(35104,'enhumedecer'),
 	(35105,'enigma'),
-	(35106,'enigmáticamente'),
+	(35106,'enigmáticamente');
+
+INSERT INTO `palabra` VALUES
 	(35107,'enigmático'),
 	(35108,'enigmatista'),
 	(35109,'enigmística'),
@@ -35389,7 +35639,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(35352,'enotécnico'),
 	(35353,'enoyar'),
 	(35354,'enquiciar'),
-	(35355,'enquillotrar'),
+	(35355,'enquillotrar');
+
+INSERT INTO `palabra` VALUES
 	(35356,'enquilombar'),
 	(35357,'enquiridión'),
 	(35358,'enquistado'),
@@ -35638,7 +35890,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(35601,'entablación'),
 	(35602,'entablada'),
 	(35603,'entablado'),
-	(35604,'entabladura'),
+	(35604,'entabladura');
+
+INSERT INTO `palabra` VALUES
 	(35605,'entablamento'),
 	(35606,'entablamiento'),
 	(35607,'entablar'),
@@ -35887,7 +36141,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(35850,'entreforro'),
 	(35851,'entrega'),
 	(35852,'entregadamente'),
-	(35853,'entregador'),
+	(35853,'entregador');
+
+INSERT INTO `palabra` VALUES
 	(35854,'entregamiento'),
 	(35855,'entregar'),
 	(35856,'entregerir'),
@@ -36136,7 +36392,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(36099,'envestidura'),
 	(36100,'envestir'),
 	(36101,'enviada'),
-	(36102,'enviadizo'),
+	(36102,'enviadizo');
+
+INSERT INTO `palabra` VALUES
 	(36103,'enviado'),
 	(36104,'enviajado'),
 	(36105,'enviar'),
@@ -36385,7 +36643,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(36348,'equilibrismo'),
 	(36349,'equilibrista'),
 	(36350,'equimosis'),
-	(36351,'equino'),
+	(36351,'equino');
+
+INSERT INTO `palabra` VALUES
 	(36352,'equinoccial'),
 	(36353,'equinoccio'),
 	(36354,'equinococo'),
@@ -36634,7 +36894,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(36597,'escalada'),
 	(36598,'escalado'),
 	(36599,'escalador'),
-	(36600,'escalafón'),
+	(36600,'escalafón');
+
+INSERT INTO `palabra` VALUES
 	(36601,'escalamiento'),
 	(36602,'escálamo'),
 	(36603,'escalar'),
@@ -36883,7 +37145,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(36846,'escaso'),
 	(36847,'escatima'),
 	(36848,'escatimar'),
-	(36849,'escatimosamente'),
+	(36849,'escatimosamente');
+
+INSERT INTO `palabra` VALUES
 	(36850,'escatimoso'),
 	(36851,'escatofagia'),
 	(36852,'escatófago'),
@@ -37132,7 +37396,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(37095,'escotera'),
 	(37096,'escotero'),
 	(37097,'escotilla'),
-	(37098,'escotillón'),
+	(37098,'escotillón');
+
+INSERT INTO `palabra` VALUES
 	(37099,'escotín'),
 	(37100,'escotismo'),
 	(37101,'escotista'),
@@ -37381,7 +37647,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(37344,'esguízaro'),
 	(37345,'-ésimo'),
 	(37346,'-esino'),
-	(37347,'-esis'),
+	(37347,'-esis');
+
+INSERT INTO `palabra` VALUES
 	(37348,'eslabón'),
 	(37349,'eslabonador'),
 	(37350,'eslabonamiento'),
@@ -37630,7 +37898,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(37593,'espectrógrafo'),
 	(37594,'espectrograma'),
 	(37595,'espectroheliógrafo'),
-	(37596,'espectrohelioscopio'),
+	(37596,'espectrohelioscopio');
+
+INSERT INTO `palabra` VALUES
 	(37597,'espectrometría'),
 	(37598,'espectrómetro'),
 	(37599,'espectroscopia'),
@@ -37879,7 +38149,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(37842,'esponjado'),
 	(37843,'esponjadura'),
 	(37844,'esponjamiento'),
-	(37845,'esponjar'),
+	(37845,'esponjar');
+
+INSERT INTO `palabra` VALUES
 	(37846,'esponjera'),
 	(37847,'esponjosidad'),
 	(37848,'esponjoso'),
@@ -38128,7 +38400,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(38091,'estampa'),
 	(38092,'estampación'),
 	(38093,'estampado'),
-	(38094,'estampador'),
+	(38094,'estampador');
+
+INSERT INTO `palabra` VALUES
 	(38095,'estampar'),
 	(38096,'estampería'),
 	(38097,'estampero'),
@@ -38377,7 +38651,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(38340,'estío'),
 	(38341,'estiomenar'),
 	(38342,'estiómeno'),
-	(38343,'estipendial'),
+	(38343,'estipendial');
+
+INSERT INTO `palabra` VALUES
 	(38344,'estipendiar'),
 	(38345,'estipendiario'),
 	(38346,'estipendio'),
@@ -38626,7 +38902,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(38589,'estridular'),
 	(38590,'estriga'),
 	(38591,'estrige'),
-	(38592,'estrigiforme'),
+	(38592,'estrigiforme');
+
+INSERT INTO `palabra` VALUES
 	(38593,'estrígil'),
 	(38594,'estriladera'),
 	(38595,'estrillar'),
@@ -38875,7 +39153,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(38838,'euroescéptico'),
 	(38839,'europeidad'),
 	(38840,'europeísmo'),
-	(38841,'europeísta'),
+	(38841,'europeísta');
+
+INSERT INTO `palabra` VALUES
 	(38842,'europeización'),
 	(38843,'europeizante'),
 	(38844,'europeizar'),
@@ -39124,7 +39404,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(39087,'excusa'),
 	(39088,'excusabaraja'),
 	(39089,'excusable'),
-	(39090,'excusación'),
+	(39090,'excusación');
+
+INSERT INTO `palabra` VALUES
 	(39091,'excusada'),
 	(39092,'excusadamente'),
 	(39093,'excusado'),
@@ -39373,7 +39655,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(39336,'exprés'),
 	(39337,'expresable'),
 	(39338,'expresamente'),
-	(39339,'expresar'),
+	(39339,'expresar');
+
+INSERT INTO `palabra` VALUES
 	(39340,'expresión'),
 	(39341,'expresionismo'),
 	(39342,'expresionista'),
@@ -39622,7 +39906,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(39585,'fabulista'),
 	(39586,'fabulística'),
 	(39587,'fabulístico'),
-	(39588,'fabulosamente'),
+	(39588,'fabulosamente');
+
+INSERT INTO `palabra` VALUES
 	(39589,'fabulosidad'),
 	(39590,'fabuloso'),
 	(39591,'faca'),
@@ -39871,7 +40157,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(39834,'falseamiento'),
 	(39835,'falsear'),
 	(39836,'falsedad'),
-	(39837,'falseo'),
+	(39837,'falseo');
+
+INSERT INTO `palabra` VALUES
 	(39838,'falseta'),
 	(39839,'falsete'),
 	(39840,'falsía'),
@@ -40120,7 +40408,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(40083,'fasta'),
 	(40084,'fastial'),
 	(40085,'fastidiada'),
-	(40086,'fastidiado'),
+	(40086,'fastidiado');
+
+INSERT INTO `palabra` VALUES
 	(40087,'fastidiar'),
 	(40088,'fastidieta'),
 	(40089,'fastidio'),
@@ -40369,7 +40659,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(40332,'fermento'),
 	(40333,'fermi'),
 	(40334,'fermio'),
-	(40335,'fermión'),
+	(40335,'fermión');
+
+INSERT INTO `palabra` VALUES
 	(40336,'fermoso'),
 	(40337,'fermosura'),
 	(40338,'fernandina'),
@@ -40618,7 +40910,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(40581,'fija'),
 	(40582,'fijación'),
 	(40583,'fijadalgo'),
-	(40584,'fijado'),
+	(40584,'fijado');
+
+INSERT INTO `palabra` VALUES
 	(40585,'fijador'),
 	(40586,'fijamente'),
 	(40587,'fijante'),
@@ -40867,7 +41161,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(40830,'fisgador'),
 	(40831,'fisgar'),
 	(40832,'fisgón'),
-	(40833,'fisgonear'),
+	(40833,'fisgonear');
+
+INSERT INTO `palabra` VALUES
 	(40834,'fisgoneo'),
 	(40835,'fisiatra'),
 	(40836,'fisiatría'),
@@ -41116,7 +41412,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(41079,'flora'),
 	(41080,'floración'),
 	(41081,'florada'),
-	(41082,'floraina'),
+	(41082,'floraina');
+
+INSERT INTO `palabra` VALUES
 	(41083,'floral'),
 	(41084,'florar'),
 	(41085,'flordelisado'),
@@ -41365,7 +41663,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(41328,'fonsado'),
 	(41329,'fonsario'),
 	(41330,'fontal'),
-	(41331,'fontana'),
+	(41331,'fontana');
+
+INSERT INTO `palabra` VALUES
 	(41332,'fontanal'),
 	(41333,'fontanar'),
 	(41334,'fontanela'),
@@ -41614,7 +41914,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(41577,'fotograbador'),
 	(41578,'fotograbadora'),
 	(41579,'fotograbar'),
-	(41580,'fotografía'),
+	(41580,'fotografía');
+
+INSERT INTO `palabra` VALUES
 	(41581,'fotografiar'),
 	(41582,'fotográficamente'),
 	(41583,'fotográfico'),
@@ -41863,7 +42165,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(41826,'fregotear'),
 	(41827,'fregoteo'),
 	(41828,'freidera'),
-	(41829,'freidor'),
+	(41829,'freidor');
+
+INSERT INTO `palabra` VALUES
 	(41830,'freidora'),
 	(41831,'freidura'),
 	(41832,'freiduría'),
@@ -42112,7 +42416,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(42075,'fu'),
 	(42076,'fua'),
 	(42077,'fuácata'),
-	(42078,'fuagrás'),
+	(42078,'fuagrás');
+
+INSERT INTO `palabra` VALUES
 	(42079,'fúcar'),
 	(42080,'fuchi'),
 	(42081,'fúchila'),
@@ -42361,7 +42667,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(42324,'fusión'),
 	(42325,'fusionar'),
 	(42326,'fusionista'),
-	(42327,'fusique'),
+	(42327,'fusique');
+
+INSERT INTO `palabra` VALUES
 	(42328,'fuslera'),
 	(42329,'fuslina'),
 	(42330,'fuso'),
@@ -42610,7 +42918,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(42573,'galima'),
 	(42574,'galimar'),
 	(42575,'galimatías'),
-	(42576,'galináceo'),
+	(42576,'galináceo');
+
+INSERT INTO `palabra` VALUES
 	(42577,'galindo'),
 	(42578,'galio'),
 	(42579,'galiparla'),
@@ -42859,7 +43169,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(42822,'gangrenoso'),
 	(42823,'ganguear'),
 	(42824,'gangueo'),
-	(42825,'ganguero'),
+	(42825,'ganguero');
+
+INSERT INTO `palabra` VALUES
 	(42826,'gánguil'),
 	(42827,'gañido'),
 	(42828,'gañil'),
@@ -43108,7 +43420,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(43071,'garrudo'),
 	(43072,'garrulador'),
 	(43073,'garrulería'),
-	(43074,'garrulidad'),
+	(43074,'garrulidad');
+
+INSERT INTO `palabra` VALUES
 	(43075,'garrulo'),
 	(43076,'gárrulo'),
 	(43077,'garúa'),
@@ -43357,7 +43671,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(43320,'genesíaco'),
 	(43321,'genésico'),
 	(43322,'-génesis'),
-	(43323,'génesis'),
+	(43323,'génesis');
+
+INSERT INTO `palabra` VALUES
 	(43324,'genesta'),
 	(43325,'genética'),
 	(43326,'genético'),
@@ -43606,7 +43922,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(43569,'gimotear'),
 	(43570,'gimoteo'),
 	(43571,'gin'),
-	(43572,'ginandra'),
+	(43572,'ginandra');
+
+INSERT INTO `palabra` VALUES
 	(43573,'gindama'),
 	(43574,'ginea'),
 	(43575,'ginebra'),
@@ -43855,7 +44173,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(43818,'golfante'),
 	(43819,'golfear'),
 	(43820,'golfería'),
-	(43821,'golfín'),
+	(43821,'golfín');
+
+INSERT INTO `palabra` VALUES
 	(43822,'golfista'),
 	(43823,'golfo'),
 	(43824,'goliardesco'),
@@ -44104,7 +44424,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(44067,'graduando'),
 	(44068,'graduar'),
 	(44069,'grafema'),
-	(44070,'-grafía'),
+	(44070,'-grafía');
+
+INSERT INTO `palabra` VALUES
 	(44071,'grafía'),
 	(44072,'gráfica'),
 	(44073,'gráficamente'),
@@ -44353,7 +44675,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(44316,'gregoriano'),
 	(44317,'gregorillo'),
 	(44318,'greguería'),
-	(44319,'greguescos'),
+	(44319,'greguescos');
+
+INSERT INTO `palabra` VALUES
 	(44320,'greguizar'),
 	(44321,'grelo'),
 	(44322,'gremial'),
@@ -44602,7 +44926,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(44565,'guaicurú'),
 	(44566,'guailón'),
 	(44567,'guaimí'),
-	(44568,'guaina'),
+	(44568,'guaina');
+
+INSERT INTO `palabra` VALUES
 	(44569,'guaiño'),
 	(44570,'guaiquerí'),
 	(44571,'guaira'),
@@ -44851,7 +45177,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(44814,'guarín'),
 	(44815,'guaripola'),
 	(44816,'guariqueño'),
-	(44817,'guarir'),
+	(44817,'guarir');
+
+INSERT INTO `palabra` VALUES
 	(44818,'guarisapo'),
 	(44819,'guarismo'),
 	(44820,'guarisnaque'),
@@ -45100,7 +45428,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(45063,'guipar'),
 	(45064,'güipazo'),
 	(45065,'güipe'),
-	(45066,'güipil'),
+	(45066,'güipil');
+
+INSERT INTO `palabra` VALUES
 	(45067,'güipipía'),
 	(45068,'guipur'),
 	(45069,'guipuzcoano'),
@@ -45349,7 +45679,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(45312,'hado'),
 	(45313,'hadrón'),
 	(45314,'hadruba'),
-	(45315,'hadrubado'),
+	(45315,'hadrubado');
+
+INSERT INTO `palabra` VALUES
 	(45316,'hafiz'),
 	(45317,'hafnio'),
 	(45318,'hagiografía'),
@@ -45598,7 +45930,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(45561,'hechicería'),
 	(45562,'hechicero'),
 	(45563,'hechizar'),
-	(45564,'hechizo'),
+	(45564,'hechizo');
+
+INSERT INTO `palabra` VALUES
 	(45565,'hecho'),
 	(45566,'hechor'),
 	(45567,'hechura'),
@@ -45847,7 +46181,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(45810,'heracleo'),
 	(45811,'heraclida'),
 	(45812,'heracliteísmo'),
-	(45813,'heráldica'),
+	(45813,'heráldica');
+
+INSERT INTO `palabra` VALUES
 	(45814,'heráldico'),
 	(45815,'heraldista'),
 	(45816,'heraldo'),
@@ -46096,7 +46432,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(46059,'hialino'),
 	(46060,'hialoideo'),
 	(46061,'hiato'),
-	(46062,'hibernación'),
+	(46062,'hibernación');
+
+INSERT INTO `palabra` VALUES
 	(46063,'hibernal'),
 	(46064,'hibernar'),
 	(46065,'hibernés'),
@@ -46345,7 +46683,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(46308,'himno'),
 	(46309,'himnodia'),
 	(46310,'himpar'),
-	(46311,'himplar'),
+	(46311,'himplar');
+
+INSERT INTO `palabra` VALUES
 	(46312,'hin'),
 	(46313,'hincadura'),
 	(46314,'hincapié'),
@@ -46594,7 +46934,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(46557,'hispir'),
 	(46558,'histamina'),
 	(46559,'histerectomía'),
-	(46560,'histéresis'),
+	(46560,'histéresis');
+
+INSERT INTO `palabra` VALUES
 	(46561,'histeria'),
 	(46562,'histérico'),
 	(46563,'histerismo'),
@@ -46843,7 +47185,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(46806,'honorar'),
 	(46807,'honorario'),
 	(46808,'honorificación'),
-	(46809,'honorificadamente'),
+	(46809,'honorificadamente');
+
+INSERT INTO `palabra` VALUES
 	(46810,'honoríficamente'),
 	(46811,'honorificar'),
 	(46812,'honorificencia'),
@@ -47092,7 +47436,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(47055,'huachar'),
 	(47056,'huachinango'),
 	(47057,'huacho'),
-	(47058,'huaco'),
+	(47058,'huaco');
+
+INSERT INTO `palabra` VALUES
 	(47059,'huaico'),
 	(47060,'huailino'),
 	(47061,'huaino'),
@@ -47341,7 +47687,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(47304,'huraco'),
 	(47305,'hurañamente'),
 	(47306,'hurañía'),
-	(47307,'huraño'),
+	(47307,'huraño');
+
+INSERT INTO `palabra` VALUES
 	(47308,'hurdano'),
 	(47309,'hurera'),
 	(47310,'hurgador'),
@@ -47590,7 +47938,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(47553,'iguanal'),
 	(47554,'iguanero'),
 	(47555,'iguánido'),
-	(47556,'iguanodonte'),
+	(47556,'iguanodonte');
+
+INSERT INTO `palabra` VALUES
 	(47557,'iguar'),
 	(47558,'iguaria'),
 	(47559,'igüedo'),
@@ -47839,7 +48189,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(47802,'impertinencia'),
 	(47803,'impertinente'),
 	(47804,'impertinentemente'),
-	(47805,'impertir'),
+	(47805,'impertir');
+
+INSERT INTO `palabra` VALUES
 	(47806,'imperturbabilidad'),
 	(47807,'imperturbable'),
 	(47808,'imperturbablemente'),
@@ -48088,7 +48440,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(48051,'inadaptable'),
 	(48052,'inadaptación'),
 	(48053,'inadaptado'),
-	(48054,'inadecuación'),
+	(48054,'inadecuación');
+
+INSERT INTO `palabra` VALUES
 	(48055,'inadecuado'),
 	(48056,'inadmisible'),
 	(48057,'inadmitir'),
@@ -48337,7 +48691,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(48300,'incomunicabilidad'),
 	(48301,'incomunicable'),
 	(48302,'incomunicación'),
-	(48303,'incomunicado'),
+	(48303,'incomunicado');
+
+INSERT INTO `palabra` VALUES
 	(48304,'incomunicar'),
 	(48305,'inconar'),
 	(48306,'inconcebible'),
@@ -48586,7 +48942,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(48549,'indexación'),
 	(48550,'indexar'),
 	(48551,'indezuelo'),
-	(48552,'India'),
+	(48552,'India');
+
+INSERT INTO `palabra` VALUES
 	(48553,'indiada'),
 	(48554,'indiana'),
 	(48555,'indianés'),
@@ -48835,7 +49193,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(48798,'inexorable'),
 	(48799,'inexorablemente'),
 	(48800,'inexperiencia'),
-	(48801,'inexperto'),
+	(48801,'inexperto');
+
+INSERT INTO `palabra` VALUES
 	(48802,'inexpiable'),
 	(48803,'inexplicable'),
 	(48804,'inexplicablemente'),
@@ -49084,7 +49444,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(49047,'ingeniería'),
 	(49048,'ingenieril'),
 	(49049,'ingeniero'),
-	(49050,'ingenio'),
+	(49050,'ingenio');
+
+INSERT INTO `palabra` VALUES
 	(49051,'ingeniosamente'),
 	(49052,'ingeniosidad'),
 	(49053,'ingenioso'),
@@ -49333,7 +49695,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(49296,'innatural'),
 	(49297,'innavegable'),
 	(49298,'innecesariamente'),
-	(49299,'innecesario'),
+	(49299,'innecesario');
+
+INSERT INTO `palabra` VALUES
 	(49300,'innegable'),
 	(49301,'innegablemente'),
 	(49302,'innegociable'),
@@ -49582,7 +49946,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(49545,'instímulo'),
 	(49546,'instintivamente'),
 	(49547,'instintivo'),
-	(49548,'instinto'),
+	(49548,'instinto');
+
+INSERT INTO `palabra` VALUES
 	(49549,'institor'),
 	(49550,'institución'),
 	(49551,'institucional'),
@@ -49831,7 +50197,9 @@ INSERT INTO `palabra` VALUES (1,'a-'),
 	(49794,'interinidad'),
 	(49795,'interino'),
 	(49796,'interinstitucional'),
-	(49797,'interinsular'),
+	(49797,'interinsular');
+
+INSERT INTO `palabra` VALUES
 	(49798,'interior'),
 	(49799,'interiorano'),
 	(49800,'interioridad'),
@@ -50080,7 +50448,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(50043,'inundado'),
 	(50044,'inundar'),
 	(50045,'inurbanamente'),
-	(50046,'inurbanidad'),
+	(50046,'inurbanidad');
+
+INSERT INTO `palabra` VALUES
 	(50047,'inurbano'),
 	(50048,'inusado'),
 	(50049,'inusitadamente'),
@@ -50329,7 +50699,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(50292,'irreformable'),
 	(50293,'irrefragable'),
 	(50294,'irrefragablemente'),
-	(50295,'irrefrenable'),
+	(50295,'irrefrenable');
+
+INSERT INTO `palabra` VALUES
 	(50296,'irrefutable'),
 	(50297,'irreglamentable'),
 	(50298,'irregular'),
@@ -50578,7 +50950,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(50541,'jabalonar'),
 	(50542,'jabaluna'),
 	(50543,'jabardear'),
-	(50544,'jabardillo'),
+	(50544,'jabardillo');
+
+INSERT INTO `palabra` VALUES
 	(50545,'jabardo'),
 	(50546,'jabato'),
 	(50547,'jabeba'),
@@ -50827,7 +51201,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(50790,'jarciar'),
 	(50791,'jarciería'),
 	(50792,'jarciero'),
-	(50793,'jarda'),
+	(50793,'jarda');
+
+INSERT INTO `palabra` VALUES
 	(50794,'jardazo'),
 	(50795,'jardín'),
 	(50796,'jardinear'),
@@ -51076,7 +51452,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(51039,'jínjol'),
 	(51040,'jinjolero'),
 	(51041,'jiñocuabo'),
-	(51042,'jinojo'),
+	(51042,'jinojo');
+
+INSERT INTO `palabra` VALUES
 	(51043,'jinotegano'),
 	(51044,'jiote'),
 	(51045,'jiotoso'),
@@ -51325,7 +51703,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(51288,'juicio'),
 	(51289,'juiciosamente'),
 	(51290,'juicioso'),
-	(51291,'juigalpino'),
+	(51291,'juigalpino');
+
+INSERT INTO `palabra` VALUES
 	(51292,'juilín'),
 	(51293,'jujear'),
 	(51294,'jujeño'),
@@ -51574,7 +51954,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(51537,'kitsch'),
 	(51538,'kivi'),
 	(51539,'kiwi'),
-	(51540,'klystron'),
+	(51540,'klystron');
+
+INSERT INTO `palabra` VALUES
 	(51541,'koala'),
 	(51542,'kodzito'),
 	(51543,'kohl'),
@@ -51823,7 +52205,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(51786,'laicización'),
 	(51787,'laicizar'),
 	(51788,'laico'),
-	(51789,'laidamente'),
+	(51789,'laidamente');
+
+INSERT INTO `palabra` VALUES
 	(51790,'laido'),
 	(51791,'lailán'),
 	(51792,'lairén'),
@@ -52072,7 +52456,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(52035,'lápiz'),
 	(52036,'lapizar'),
 	(52037,'lapo'),
-	(52038,'lapón'),
+	(52038,'lapón');
+
+INSERT INTO `palabra` VALUES
 	(52039,'lapso'),
 	(52040,'lapsus'),
 	(52041,'lapsus cálami'),
@@ -52321,7 +52707,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(52284,'laxativo'),
 	(52285,'laxidad'),
 	(52286,'laxismo'),
-	(52287,'laxista'),
+	(52287,'laxista');
+
+INSERT INTO `palabra` VALUES
 	(52288,'laxitud'),
 	(52289,'laxo'),
 	(52290,'lay'),
@@ -52570,7 +52958,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(52533,'lengudo'),
 	(52534,'lengüear'),
 	(52535,'lengüeta'),
-	(52536,'lengüetada'),
+	(52536,'lengüetada');
+
+INSERT INTO `palabra` VALUES
 	(52537,'lengüetazo'),
 	(52538,'lengüeteada'),
 	(52539,'lengüetear'),
@@ -52819,7 +53209,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(52782,'liberiano'),
 	(52783,'líbero'),
 	(52784,'libérrimo'),
-	(52785,'libertad'),
+	(52785,'libertad');
+
+INSERT INTO `palabra` VALUES
 	(52786,'libertadamente'),
 	(52787,'libertadense'),
 	(52788,'libertado'),
@@ -53068,7 +53460,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(53031,'limosna'),
 	(53032,'limosnadero'),
 	(53033,'limosnador'),
-	(53034,'limosnear'),
+	(53034,'limosnear');
+
+INSERT INTO `palabra` VALUES
 	(53035,'limosnera'),
 	(53036,'limosnero'),
 	(53037,'limoso'),
@@ -53317,7 +53711,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(53280,'litografía'),
 	(53281,'litografiar'),
 	(53282,'litográfico'),
-	(53283,'litógrafo'),
+	(53283,'litógrafo');
+
+INSERT INTO `palabra` VALUES
 	(53284,'litología'),
 	(53285,'litológico'),
 	(53286,'litólogo'),
@@ -53566,7 +53962,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(53529,'locura'),
 	(53530,'locutar'),
 	(53531,'locutor'),
-	(53532,'locutorio'),
+	(53532,'locutorio');
+
+INSERT INTO `palabra` VALUES
 	(53533,'lodacera'),
 	(53534,'lodachar'),
 	(53535,'lodazal'),
@@ -53815,7 +54213,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(53778,'luco'),
 	(53779,'lucrar'),
 	(53780,'lucrativo'),
-	(53781,'lucro'),
+	(53781,'lucro');
+
+INSERT INTO `palabra` VALUES
 	(53782,'lucroniense'),
 	(53783,'lucroso'),
 	(53784,'luctuosa'),
@@ -54064,7 +54464,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(54027,'machacón'),
 	(54028,'machaconería'),
 	(54029,'machada'),
-	(54030,'machadiano'),
+	(54030,'machadiano');
+
+INSERT INTO `palabra` VALUES
 	(54031,'machado'),
 	(54032,'machalero'),
 	(54033,'machanga'),
@@ -54313,7 +54715,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(54276,'magistrado'),
 	(54277,'magistral'),
 	(54278,'magistralía'),
-	(54279,'magistralmente'),
+	(54279,'magistralmente');
+
+INSERT INTO `palabra` VALUES
 	(54280,'magistratura'),
 	(54281,'magma'),
 	(54282,'magnánimamente'),
@@ -54562,7 +54966,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(54525,'malcarado'),
 	(54526,'malcasado'),
 	(54527,'malcasar'),
-	(54528,'malcaso'),
+	(54528,'malcaso');
+
+INSERT INTO `palabra` VALUES
 	(54529,'malcocinado'),
 	(54530,'malcomer'),
 	(54531,'malcomido'),
@@ -54811,7 +55217,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(54774,'mambí'),
 	(54775,'mambla'),
 	(54776,'mambo'),
-	(54777,'mamboretá'),
+	(54777,'mamboretá');
+
+INSERT INTO `palabra` VALUES
 	(54778,'mambrú'),
 	(54779,'mame'),
 	(54780,'mamella'),
@@ -55060,7 +55468,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(55023,'manguita'),
 	(55024,'manguitería'),
 	(55025,'manguitero'),
-	(55026,'manguito'),
+	(55026,'manguito');
+
+INSERT INTO `palabra` VALUES
 	(55027,'manguruyú'),
 	(55028,'manguzada'),
 	(55029,'maní'),
@@ -55309,7 +55719,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(55272,'maque'),
 	(55273,'maqueador'),
 	(55274,'maquear'),
-	(55275,'maquech'),
+	(55275,'maquech');
+
+INSERT INTO `palabra` VALUES
 	(55276,'maqueta'),
 	(55277,'maquetación'),
 	(55278,'maquetar'),
@@ -55558,7 +55970,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(55521,'mariposeo'),
 	(55522,'mariposón'),
 	(55523,'mariquera'),
-	(55524,'mariquita'),
+	(55524,'mariquita');
+
+INSERT INTO `palabra` VALUES
 	(55525,'marisabidilla'),
 	(55526,'mariscada'),
 	(55527,'mariscador'),
@@ -55807,7 +56221,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(55770,'masovero'),
 	(55771,'mass media'),
 	(55772,'mastaba'),
-	(55773,'mastate'),
+	(55773,'mastate');
+
+INSERT INTO `palabra` VALUES
 	(55774,'maste'),
 	(55775,'mastectomía'),
 	(55776,'mástel'),
@@ -56056,7 +56472,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(56019,'mayate'),
 	(56020,'mayear'),
 	(56021,'mayestático'),
-	(56022,'mayeto'),
+	(56022,'mayeto');
+
+INSERT INTO `palabra` VALUES
 	(56023,'mayéutica'),
 	(56024,'mayéutico'),
 	(56025,'mayido'),
@@ -56305,7 +56723,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(56268,'médula'),
 	(56269,'medular'),
 	(56270,'meduloso'),
-	(56271,'medusa'),
+	(56271,'medusa');
+
+INSERT INTO `palabra` VALUES
 	(56272,'meduseo'),
 	(56273,'mefistofélico'),
 	(56274,'mefítico'),
@@ -56554,7 +56974,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(56517,'mendoso'),
 	(56518,'mendrugo'),
 	(56519,'mene'),
-	(56520,'meneador'),
+	(56520,'meneador');
+
+INSERT INTO `palabra` VALUES
 	(56521,'menear'),
 	(56522,'menegilda'),
 	(56523,'meneo'),
@@ -56803,7 +57225,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(56766,'merleta'),
 	(56767,'merlín'),
 	(56768,'merlo'),
-	(56769,'merlón'),
+	(56769,'merlón');
+
+INSERT INTO `palabra` VALUES
 	(56770,'merluza'),
 	(56771,'merluzo'),
 	(56772,'merma'),
@@ -57052,7 +57476,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(57015,'metritis'),
 	(57016,'‒́metro'),
 	(57017,'metro'),
-	(57018,'metrología'),
+	(57018,'metrología');
+
+INSERT INTO `palabra` VALUES
 	(57019,'metrónomo'),
 	(57020,'metrópoli'),
 	(57021,'metrópolis'),
@@ -57301,7 +57727,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(57264,'milisegundo'),
 	(57265,'militancia'),
 	(57266,'militante'),
-	(57267,'militar'),
+	(57267,'militar');
+
+INSERT INTO `palabra` VALUES
 	(57268,'militara'),
 	(57269,'militarada'),
 	(57270,'militarismo'),
@@ -57550,7 +57978,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(57513,'mirrauste'),
 	(57514,'mirringa'),
 	(57515,'mirrino'),
-	(57516,'mirrusca'),
+	(57516,'mirrusca');
+
+INSERT INTO `palabra` VALUES
 	(57517,'mirsináceo'),
 	(57518,'mirtáceo'),
 	(57519,'mirtídano'),
@@ -57799,7 +58229,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(57762,'modicidad'),
 	(57763,'módico'),
 	(57764,'modificable'),
-	(57765,'modificación'),
+	(57765,'modificación');
+
+INSERT INTO `palabra` VALUES
 	(57766,'modificador'),
 	(57767,'modificante'),
 	(57768,'modificar'),
@@ -58048,7 +58480,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(58011,'moncheta'),
 	(58012,'monda'),
 	(58013,'mondaderas'),
-	(58014,'mondadientes'),
+	(58014,'mondadientes');
+
+INSERT INTO `palabra` VALUES
 	(58015,'mondador'),
 	(58016,'mondadura'),
 	(58017,'mondaoídos'),
@@ -58297,7 +58731,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(58260,'montesino'),
 	(58261,'montevideano'),
 	(58262,'montículo'),
-	(58263,'montilla'),
+	(58263,'montilla');
+
+INSERT INTO `palabra` VALUES
 	(58264,'montillano'),
 	(58265,'montiña'),
 	(58266,'monto'),
@@ -58546,7 +58982,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(58509,'morsana'),
 	(58510,'morse'),
 	(58511,'mortadela'),
-	(58512,'mortaja'),
+	(58512,'mortaja');
+
+INSERT INTO `palabra` VALUES
 	(58513,'mortajar'),
 	(58514,'mortal'),
 	(58515,'mortaldad'),
@@ -58795,7 +59233,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(58758,'mueblista'),
 	(58759,'mueca'),
 	(58760,'muecín'),
-	(58761,'muela'),
+	(58761,'muela');
+
+INSERT INTO `palabra` VALUES
 	(58762,'muelar'),
 	(58763,'muellaje'),
 	(58764,'muelle'),
@@ -59044,7 +59484,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(59007,'murgular'),
 	(59008,'muria'),
 	(59009,'muriacita'),
-	(59010,'muriato'),
+	(59010,'muriato');
+
+INSERT INTO `palabra` VALUES
 	(59011,'múrice'),
 	(59012,'múrido'),
 	(59013,'murmujear'),
@@ -59293,7 +59735,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(59256,'nalca'),
 	(59257,'nalga'),
 	(59258,'nalgada'),
-	(59259,'nalgamento'),
+	(59259,'nalgamento');
+
+INSERT INTO `palabra` VALUES
 	(59260,'nalgar'),
 	(59261,'nalgatorio'),
 	(59262,'nalgón'),
@@ -59542,7 +59986,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(59505,'nea'),
 	(59506,'neapolitano'),
 	(59507,'nébeda'),
-	(59508,'nebel'),
+	(59508,'nebel');
+
+INSERT INTO `palabra` VALUES
 	(59509,'nebí'),
 	(59510,'nebladura'),
 	(59511,'neblí'),
@@ -59791,7 +60237,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(59754,'nepotista'),
 	(59755,'neptúneo'),
 	(59756,'neptuniano'),
-	(59757,'neptúnico'),
+	(59757,'neptúnico');
+
+INSERT INTO `palabra` VALUES
 	(59758,'neptunio'),
 	(59759,'neptunismo'),
 	(59760,'neptunista'),
@@ -60040,7 +60488,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(60003,'nipis'),
 	(60004,'nipón'),
 	(60005,'nipos'),
-	(60006,'ñique'),
+	(60006,'ñique');
+
+INSERT INTO `palabra` VALUES
 	(60007,'níquel'),
 	(60008,'niquelado'),
 	(60009,'niquelador'),
@@ -60289,7 +60739,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(60252,'normativa'),
 	(60253,'normativización'),
 	(60254,'normativizado'),
-	(60255,'normativizar'),
+	(60255,'normativizar');
+
+INSERT INTO `palabra` VALUES
 	(60256,'normativo'),
 	(60257,'normotenso'),
 	(60258,'nornordeste'),
@@ -60538,7 +60990,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(60501,'nutrimental'),
 	(60502,'nutrimento'),
 	(60503,'nutrimiento'),
-	(60504,'nutrir'),
+	(60504,'nutrir');
+
+INSERT INTO `palabra` VALUES
 	(60505,'nutritivo'),
 	(60506,'nutriz'),
 	(60507,'nutual'),
@@ -60787,7 +61241,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(60750,'ocotal'),
 	(60751,'ocotaleño'),
 	(60752,'ocotaloso'),
-	(60753,'ocote'),
+	(60753,'ocote');
+
+INSERT INTO `palabra` VALUES
 	(60754,'ocotepecano'),
 	(60755,'ocotera'),
 	(60756,'ocotero'),
@@ -61036,7 +61492,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(60999,'oleaginoso'),
 	(61000,'oleaje'),
 	(61001,'olear'),
-	(61002,'oleario'),
+	(61002,'oleario');
+
+INSERT INTO `palabra` VALUES
 	(61003,'oleastro'),
 	(61004,'oleaza'),
 	(61005,'oledero'),
@@ -61285,7 +61743,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(61248,'operacional'),
 	(61249,'operador'),
 	(61250,'operante'),
-	(61251,'operar'),
+	(61251,'operar');
+
+INSERT INTO `palabra` VALUES
 	(61252,'operario'),
 	(61253,'operático'),
 	(61254,'operatividad'),
@@ -61534,7 +61994,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(61497,'orientar'),
 	(61498,'orientativo'),
 	(61499,'oriente'),
-	(61500,'orificación'),
+	(61500,'orificación');
+
+INSERT INTO `palabra` VALUES
 	(61501,'orificador'),
 	(61502,'orificar'),
 	(61503,'orífice'),
@@ -61783,7 +62245,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(61746,'ostrón'),
 	(61747,'ostugo'),
 	(61748,'osudo'),
-	(61749,'osuno'),
+	(61749,'osuno');
+
+INSERT INTO `palabra` VALUES
 	(61750,'otacusta'),
 	(61751,'otacústico'),
 	(61752,'otalgia'),
@@ -62032,7 +62496,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(61995,'pagador'),
 	(61996,'pagaduría'),
 	(61997,'págalo'),
-	(61998,'pagamento'),
+	(61998,'pagamento');
+
+INSERT INTO `palabra` VALUES
 	(61999,'pagamiento'),
 	(62000,'paganía'),
 	(62001,'paganini'),
@@ -62281,7 +62747,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(62244,'palier'),
 	(62245,'palilla'),
 	(62246,'palillero'),
-	(62247,'palillo'),
+	(62247,'palillo');
+
+INSERT INTO `palabra` VALUES
 	(62248,'palillona'),
 	(62249,'palimpsesto'),
 	(62250,'palíndromo'),
@@ -62530,7 +62998,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(62493,'pandillero'),
 	(62494,'pandillista'),
 	(62495,'pandino'),
-	(62496,'pando'),
+	(62496,'pando');
+
+INSERT INTO `palabra` VALUES
 	(62497,'pandorga'),
 	(62498,'pandura'),
 	(62499,'pandureco'),
@@ -62779,7 +63249,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(62742,'pápiro'),
 	(62743,'papiroflexia'),
 	(62744,'papirofléxico'),
-	(62745,'papirola'),
+	(62745,'papirola');
+
+INSERT INTO `palabra` VALUES
 	(62746,'papirolada'),
 	(62747,'papirología'),
 	(62748,'papirólogo'),
@@ -63028,7 +63500,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(62991,'pardela'),
 	(62992,'pardiez'),
 	(62993,'pardilla'),
-	(62994,'pardillo'),
+	(62994,'pardillo');
+
+INSERT INTO `palabra` VALUES
 	(62995,'pardina'),
 	(62996,'pardiobre'),
 	(62997,'pardisco'),
@@ -63277,7 +63751,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(63240,'parusía'),
 	(63241,'parva'),
 	(63242,'parvada'),
-	(63243,'parvedad'),
+	(63243,'parvedad');
+
+INSERT INTO `palabra` VALUES
 	(63244,'parvero'),
 	(63245,'parvidad'),
 	(63246,'parvificar'),
@@ -63526,7 +64002,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(63489,'paté'),
 	(63490,'pateada'),
 	(63491,'pateadura'),
-	(63492,'pateamiento'),
+	(63492,'pateamiento');
+
+INSERT INTO `palabra` VALUES
 	(63493,'patear'),
 	(63494,'patena'),
 	(63495,'patencia'),
@@ -63775,7 +64253,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(63738,'pecable'),
 	(63739,'pecado'),
 	(63740,'pecador'),
-	(63741,'pecadorizo'),
+	(63741,'pecadorizo');
+
+INSERT INTO `palabra` VALUES
 	(63742,'pecaminoso'),
 	(63743,'pecán'),
 	(63744,'pecante'),
@@ -64024,7 +64504,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(63987,'peladera'),
 	(63988,'peladero'),
 	(63989,'peladez'),
-	(63990,'peladilla'),
+	(63990,'peladilla');
+
+INSERT INTO `palabra` VALUES
 	(63991,'peladillo'),
 	(63992,'pelado'),
 	(63993,'pelador'),
@@ -64273,7 +64755,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(64236,'penetrante'),
 	(64237,'penetrar'),
 	(64238,'penetrativo'),
-	(64239,'penetro'),
+	(64239,'penetro');
+
+INSERT INTO `palabra` VALUES
 	(64240,'penetrómetro'),
 	(64241,'pénfigo'),
 	(64242,'peni'),
@@ -64522,7 +65006,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(64485,'perengano'),
 	(64486,'perennal'),
 	(64487,'perennalmente'),
-	(64488,'perenne'),
+	(64488,'perenne');
+
+INSERT INTO `palabra` VALUES
 	(64489,'perennemente'),
 	(64490,'perennidad'),
 	(64491,'perennifolio'),
@@ -64771,7 +65257,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(64734,'perojiménez'),
 	(64735,'perojo'),
 	(64736,'perol'),
-	(64737,'perola'),
+	(64737,'perola');
+
+INSERT INTO `palabra` VALUES
 	(64738,'peroné'),
 	(64739,'peronismo'),
 	(64740,'peronista'),
@@ -65020,7 +65508,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(64983,'pestañear'),
 	(64984,'pestañeo'),
 	(64985,'pestano'),
-	(64986,'pestañoso'),
+	(64986,'pestañoso');
+
+INSERT INTO `palabra` VALUES
 	(64987,'peste'),
 	(64988,'pesticida'),
 	(64989,'pestíferamente'),
@@ -65269,7 +65759,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(65232,'pichingo'),
 	(65233,'pichintún'),
 	(65234,'pichiriche'),
-	(65235,'pichirre'),
+	(65235,'pichirre');
+
+INSERT INTO `palabra` VALUES
 	(65236,'pichirrear'),
 	(65237,'pichirrería'),
 	(65238,'pichirruchi'),
@@ -65518,7 +66010,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(65481,'pincerna'),
 	(65482,'pincha'),
 	(65483,'pinchadiscos'),
-	(65484,'pinchadura'),
+	(65484,'pinchadura');
+
+INSERT INTO `palabra` VALUES
 	(65485,'pinchar'),
 	(65486,'pinchaúvas'),
 	(65487,'pinchazo'),
@@ -65767,7 +66261,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(65730,'pirograbado'),
 	(65731,'pirograbador'),
 	(65732,'pirolatría'),
-	(65733,'pirólisis'),
+	(65733,'pirólisis');
+
+INSERT INTO `palabra` VALUES
 	(65734,'pirología'),
 	(65735,'pirolusita'),
 	(65736,'piromancia'),
@@ -66016,7 +66512,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(65979,'placel'),
 	(65980,'pláceme'),
 	(65981,'placemiento'),
-	(65982,'placenta'),
+	(65982,'placenta');
+
+INSERT INTO `palabra` VALUES
 	(65983,'placentación'),
 	(65984,'placentario'),
 	(65985,'placenteramente'),
@@ -66265,7 +66763,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(66228,'plena'),
 	(66229,'plenamar'),
 	(66230,'plenamente'),
-	(66231,'plenariamente'),
+	(66231,'plenariamente');
+
+INSERT INTO `palabra` VALUES
 	(66232,'plenario'),
 	(66233,'plenilunio'),
 	(66234,'plenipotencia'),
@@ -66514,7 +67014,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(66477,'polaridad'),
 	(66478,'polarimetría'),
 	(66479,'polarimétrico'),
-	(66480,'polarímetro'),
+	(66480,'polarímetro');
+
+INSERT INTO `palabra` VALUES
 	(66481,'polariscopio'),
 	(66482,'polarización'),
 	(66483,'polarizar'),
@@ -66763,7 +67265,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(66726,'pomponearse'),
 	(66727,'pomponera'),
 	(66728,'pomposamente'),
-	(66729,'pomposidad'),
+	(66729,'pomposidad');
+
+INSERT INTO `palabra` VALUES
 	(66730,'pomposo'),
 	(66731,'pómulo'),
 	(66732,'pon'),
@@ -67012,7 +67516,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(66975,'portar'),
 	(66976,'portarretrato'),
 	(66977,'portarrollos'),
-	(66978,'portátil'),
+	(66978,'portátil');
+
+INSERT INTO `palabra` VALUES
 	(66979,'portaventanero'),
 	(66980,'portaviandas'),
 	(66981,'portavocía'),
@@ -67261,7 +67767,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(67224,'potente'),
 	(67225,'potentemente'),
 	(67226,'potenza'),
-	(67227,'potenzado'),
+	(67227,'potenzado');
+
+INSERT INTO `palabra` VALUES
 	(67228,'potera'),
 	(67229,'poterna'),
 	(67230,'potero'),
@@ -67510,7 +68018,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(67473,'preferencia'),
 	(67474,'preferencial'),
 	(67475,'preferente'),
-	(67476,'preferentemente'),
+	(67476,'preferentemente');
+
+INSERT INTO `palabra` VALUES
 	(67477,'preferible'),
 	(67478,'preferiblemente'),
 	(67479,'preferir'),
@@ -67759,7 +68269,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(67722,'preservativamente'),
 	(67723,'preservativo'),
 	(67724,'presidario'),
-	(67725,'presidencia'),
+	(67725,'presidencia');
+
+INSERT INTO `palabra` VALUES
 	(67726,'presidenciable'),
 	(67727,'presidencial'),
 	(67728,'presidencialismo'),
@@ -68008,7 +68520,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(67971,'priorazgo'),
 	(67972,'prioresa'),
 	(67973,'prioridad'),
-	(67974,'prioritario'),
+	(67974,'prioritario');
+
+INSERT INTO `palabra` VALUES
 	(67975,'priorizar'),
 	(67976,'prioste'),
 	(67977,'prisa'),
@@ -68257,7 +68771,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(68220,'progresividad'),
 	(68221,'progresivo'),
 	(68222,'progreso'),
-	(68223,'prohibición'),
+	(68223,'prohibición');
+
+INSERT INTO `palabra` VALUES
 	(68224,'prohibir'),
 	(68225,'prohibitivo'),
 	(68226,'prohibitorio'),
@@ -68506,7 +69022,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(68469,'protagónico'),
 	(68470,'protagonismo'),
 	(68471,'protagonista'),
-	(68472,'protagonizar'),
+	(68472,'protagonizar');
+
+INSERT INTO `palabra` VALUES
 	(68473,'prótasis'),
 	(68474,'proteáceo'),
 	(68475,'proteasa'),
@@ -68755,7 +69273,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(68718,'pubes'),
 	(68719,'pubescencia'),
 	(68720,'pubescente'),
-	(68721,'pubescer'),
+	(68721,'pubescer');
+
+INSERT INTO `palabra` VALUES
 	(68722,'pubiano'),
 	(68723,'púbico'),
 	(68724,'pubis'),
@@ -69004,7 +69524,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(68967,'punicáceo'),
 	(68968,'punición'),
 	(68969,'púnico'),
-	(68970,'punidor'),
+	(68970,'punidor');
+
+INSERT INTO `palabra` VALUES
 	(68971,'puñimiento'),
 	(68972,'punir'),
 	(68973,'puñir'),
@@ -69253,7 +69775,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(69216,'quejilloso'),
 	(69217,'quejo'),
 	(69218,'quejosamente'),
-	(69219,'quejoso'),
+	(69219,'quejoso');
+
+INSERT INTO `palabra` VALUES
 	(69220,'quejumbrar'),
 	(69221,'quejumbre'),
 	(69222,'quejumbroso'),
@@ -69502,7 +70026,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(69465,'quincuagena'),
 	(69466,'quincuagenario'),
 	(69467,'quincuagésima'),
-	(69468,'quincuagésimo'),
+	(69468,'quincuagésimo');
+
+INSERT INTO `palabra` VALUES
 	(69469,'quincunce'),
 	(69470,'quincuncial'),
 	(69471,'quinde'),
@@ -69751,7 +70277,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(69714,'racanería'),
 	(69715,'rácano'),
 	(69716,'racear'),
-	(69717,'racel'),
+	(69717,'racel');
+
+INSERT INTO `palabra` VALUES
 	(69718,'racero'),
 	(69719,'racha'),
 	(69720,'rachar'),
@@ -70000,7 +70528,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(69963,'ramificación'),
 	(69964,'ramificar'),
 	(69965,'rámila'),
-	(69966,'ramilla'),
+	(69966,'ramilla');
+
+INSERT INTO `palabra` VALUES
 	(69967,'ramillete'),
 	(69968,'ramilletero'),
 	(69969,'ramina'),
@@ -70249,7 +70779,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(70212,'rastel'),
 	(70213,'rastillador'),
 	(70214,'rastillar'),
-	(70215,'rastillo'),
+	(70215,'rastillo');
+
+INSERT INTO `palabra` VALUES
 	(70216,'rastra'),
 	(70217,'rastrallar'),
 	(70218,'rastrar'),
@@ -70498,7 +71030,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(70461,'reblandecer'),
 	(70462,'reblandecimiento'),
 	(70463,'reblar'),
-	(70464,'reble'),
+	(70464,'reble');
+
+INSERT INTO `palabra` VALUES
 	(70465,'rebobinado'),
 	(70466,'rebobinar'),
 	(70467,'rebocería'),
@@ -70747,7 +71281,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(70710,'reciprocación'),
 	(70711,'recíprocamente'),
 	(70712,'reciprocar'),
-	(70713,'reciprocidad'),
+	(70713,'reciprocidad');
+
+INSERT INTO `palabra` VALUES
 	(70714,'recíproco'),
 	(70715,'recitación'),
 	(70716,'recitado'),
@@ -70996,7 +71532,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(70959,'redar'),
 	(70960,'redargución'),
 	(70961,'redargüir'),
-	(70962,'redaya'),
+	(70962,'redaya');
+
+INSERT INTO `palabra` VALUES
 	(70963,'redecilla'),
 	(70964,'redecir'),
 	(70965,'rededor'),
@@ -71245,7 +71783,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(71208,'refracto'),
 	(71209,'refractómetro'),
 	(71210,'refractor'),
-	(71211,'refrán'),
+	(71211,'refrán');
+
+INSERT INTO `palabra` VALUES
 	(71212,'refranero'),
 	(71213,'refranesco'),
 	(71214,'refrangibilidad'),
@@ -71494,7 +72034,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(71457,'rehervir'),
 	(71458,'rehiladillo'),
 	(71459,'rehilado'),
-	(71460,'rehilamiento'),
+	(71460,'rehilamiento');
+
+INSERT INTO `palabra` VALUES
 	(71461,'rehilandera'),
 	(71462,'rehilante'),
 	(71463,'rehilar'),
@@ -71743,7 +72285,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(71706,'rematamiento'),
 	(71707,'rematante'),
 	(71708,'rematar'),
-	(71709,'remate'),
+	(71709,'remate');
+
+INSERT INTO `palabra` VALUES
 	(71710,'rembolsar'),
 	(71711,'rembolso'),
 	(71712,'remecedor'),
@@ -71992,7 +72536,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(71955,'reóforo'),
 	(71956,'reógrafo'),
 	(71957,'reología'),
-	(71958,'reómetro'),
+	(71958,'reómetro');
+
+INSERT INTO `palabra` VALUES
 	(71959,'reorganización'),
 	(71960,'reorganizador'),
 	(71961,'reorganizar'),
@@ -72241,7 +72787,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(72204,'repujar'),
 	(72205,'repulgado'),
 	(72206,'repulgar'),
-	(72207,'repulgo'),
+	(72207,'repulgo');
+
+INSERT INTO `palabra` VALUES
 	(72208,'repulir'),
 	(72209,'repullo'),
 	(72210,'repulsa'),
@@ -72490,7 +73038,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(72453,'respingar'),
 	(72454,'respingo'),
 	(72455,'respingón'),
-	(72456,'respirable'),
+	(72456,'respirable');
+
+INSERT INTO `palabra` VALUES
 	(72457,'respiración'),
 	(72458,'respiradero'),
 	(72459,'respirador'),
@@ -72739,7 +73289,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(72702,'retóricamente'),
 	(72703,'retoricar'),
 	(72704,'retórico'),
-	(72705,'retornable'),
+	(72705,'retornable');
+
+INSERT INTO `palabra` VALUES
 	(72706,'retornamiento'),
 	(72707,'retornar'),
 	(72708,'retornelo'),
@@ -72988,7 +73540,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(72951,'revolcado'),
 	(72952,'revolcar'),
 	(72953,'revolcón'),
-	(72954,'revolear'),
+	(72954,'revolear');
+
+INSERT INTO `palabra` VALUES
 	(72955,'revoleo'),
 	(72956,'revolera'),
 	(72957,'revolero'),
@@ -73237,7 +73791,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(73200,'ríspido'),
 	(73201,'rispión'),
 	(73202,'rispo'),
-	(73203,'risquilo'),
+	(73203,'risquilo');
+
+INSERT INTO `palabra` VALUES
 	(73204,'ristolero'),
 	(73205,'ristra'),
 	(73206,'ristre'),
@@ -73486,7 +74042,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(73449,'roldón'),
 	(73450,'roleo'),
 	(73451,'rolla'),
-	(73452,'rollar'),
+	(73452,'rollar');
+
+INSERT INTO `palabra` VALUES
 	(73453,'rolletal'),
 	(73454,'rollete'),
 	(73455,'rollista'),
@@ -73735,7 +74293,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(73698,'rotal'),
 	(73699,'rotamente'),
 	(73700,'rotámetro'),
-	(73701,'rotar'),
+	(73701,'rotar');
+
+INSERT INTO `palabra` VALUES
 	(73702,'rotario'),
 	(73703,'rotativa'),
 	(73704,'rotativo'),
@@ -73984,7 +74544,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(73947,'rusificar'),
 	(73948,'ruso'),
 	(73949,'rusticación'),
-	(73950,'rustical'),
+	(73950,'rustical');
+
+INSERT INTO `palabra` VALUES
 	(73951,'rústicamente'),
 	(73952,'rusticano'),
 	(73953,'rusticar'),
@@ -74233,7 +74795,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(74196,'sacristanía'),
 	(74197,'sacristía'),
 	(74198,'sacro'),
-	(74199,'sacrosantamente'),
+	(74199,'sacrosantamente');
+
+INSERT INTO `palabra` VALUES
 	(74200,'sacrosanto'),
 	(74201,'sacuanjoche'),
 	(74202,'sacuara'),
@@ -74482,7 +75046,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(74445,'salmer'),
 	(74446,'salmerón'),
 	(74447,'salmista'),
-	(74448,'salmo'),
+	(74448,'salmo');
+
+INSERT INTO `palabra` VALUES
 	(74449,'salmodia'),
 	(74450,'salmodiar'),
 	(74451,'salmón'),
@@ -74731,7 +75297,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(74694,'sanatorial'),
 	(74695,'sanatorio'),
 	(74696,'sanavirón'),
-	(74697,'sancarleño'),
+	(74697,'sancarleño');
+
+INSERT INTO `palabra` VALUES
 	(74698,'sancarlino'),
 	(74699,'sancha'),
 	(74700,'sanchecia'),
@@ -74980,7 +75548,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(74943,'saponificable'),
 	(74944,'saponificación'),
 	(74945,'saponificar'),
-	(74946,'saponita'),
+	(74946,'saponita');
+
+INSERT INTO `palabra` VALUES
 	(74947,'saporífero'),
 	(74948,'sapotáceo'),
 	(74949,'sapote'),
@@ -75229,7 +75799,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(75192,'sebillo'),
 	(75193,'sebiya'),
 	(75194,'sebo'),
-	(75195,'seboro'),
+	(75195,'seboro');
+
+INSERT INTO `palabra` VALUES
 	(75196,'seborrea'),
 	(75197,'seborreico'),
 	(75198,'seboruco'),
@@ -75478,7 +76050,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(75441,'selvajino'),
 	(75442,'selvático'),
 	(75443,'selvatiquez'),
-	(75444,'selvicultura'),
+	(75444,'selvicultura');
+
+INSERT INTO `palabra` VALUES
 	(75445,'selvoso'),
 	(75446,'sema'),
 	(75447,'semafórico'),
@@ -75727,7 +76301,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(75690,'sensitivo'),
 	(75691,'sensomotor'),
 	(75692,'sensontle'),
-	(75693,'sensor'),
+	(75693,'sensor');
+
+INSERT INTO `palabra` VALUES
 	(75694,'sensorial'),
 	(75695,'sensorio'),
 	(75696,'sensual'),
@@ -75976,7 +76552,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(75939,'servilleta'),
 	(75940,'servilletero'),
 	(75941,'servilmente'),
-	(75942,'servilón'),
+	(75942,'servilón');
+
+INSERT INTO `palabra` VALUES
 	(75943,'servio'),
 	(75944,'serviola'),
 	(75945,'servir'),
@@ -76225,7 +76803,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(76188,'sifilografía'),
 	(76189,'sifilográfico'),
 	(76190,'sifilógrafo'),
-	(76191,'sifiloma'),
+	(76191,'sifiloma');
+
+INSERT INTO `palabra` VALUES
 	(76192,'sifón'),
 	(76193,'sifonero'),
 	(76194,'sifué'),
@@ -76474,7 +77054,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(76437,'sincronizar'),
 	(76438,'sincrotrón'),
 	(76439,'sincuate'),
-	(76440,'sincuya'),
+	(76440,'sincuya');
+
+INSERT INTO `palabra` VALUES
 	(76441,'sindactilia'),
 	(76442,'sindáctilo'),
 	(76443,'sindéresis'),
@@ -76723,7 +77305,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(76686,'sobado'),
 	(76687,'sobador'),
 	(76688,'sobadura'),
-	(76689,'sobajadura'),
+	(76689,'sobajadura');
+
+INSERT INTO `palabra` VALUES
 	(76690,'sobajamiento'),
 	(76691,'sobajanero'),
 	(76692,'sobajar'),
@@ -76972,7 +77556,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(76935,'sobretercero'),
 	(76936,'sobretiro'),
 	(76937,'sobretítulo'),
-	(76938,'sobretodo'),
+	(76938,'sobretodo');
+
+INSERT INTO `palabra` VALUES
 	(76939,'sobrevalorar'),
 	(76940,'sobreveedor'),
 	(76941,'sobrevenida'),
@@ -77221,7 +77807,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(77184,'solferino'),
 	(77185,'solfista'),
 	(77186,'solicitación'),
-	(77187,'solicitada'),
+	(77187,'solicitada');
+
+INSERT INTO `palabra` VALUES
 	(77188,'solicitador'),
 	(77189,'solícitamente'),
 	(77190,'solicitante'),
@@ -77470,7 +78058,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(77433,'sopero'),
 	(77434,'sopesar'),
 	(77435,'sopete'),
-	(77436,'sopetear'),
+	(77436,'sopetear');
+
+INSERT INTO `palabra` VALUES
 	(77437,'sopeteo'),
 	(77438,'sopetón'),
 	(77439,'sopicaldo'),
@@ -77719,7 +78309,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(77682,'subafluente'),
 	(77683,'subalcaide'),
 	(77684,'subalternar'),
-	(77685,'subalterno'),
+	(77685,'subalterno');
+
+INSERT INTO `palabra` VALUES
 	(77686,'subálveo'),
 	(77687,'subarrendador'),
 	(77688,'subarrendamiento'),
@@ -77968,7 +78560,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(77931,'subyugar'),
 	(77932,'succino'),
 	(77933,'succión'),
-	(77934,'succionar'),
+	(77934,'succionar');
+
+INSERT INTO `palabra` VALUES
 	(77935,'sucedáneo'),
 	(77936,'suceder'),
 	(77937,'sucedido'),
@@ -78217,7 +78811,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(78180,'superación'),
 	(78181,'superádito'),
 	(78182,'superador'),
-	(78183,'superante'),
+	(78183,'superante');
+
+INSERT INTO `palabra` VALUES
 	(78184,'superar'),
 	(78185,'superávit'),
 	(78186,'superbamente'),
@@ -78466,7 +79062,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(78429,'sustancioso'),
 	(78430,'sustantivación'),
 	(78431,'sustantivamente'),
-	(78432,'sustantivar'),
+	(78432,'sustantivar');
+
+INSERT INTO `palabra` VALUES
 	(78433,'sustantividad'),
 	(78434,'sustantivo'),
 	(78435,'sustenido'),
@@ -78715,7 +79313,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(78678,'tahona'),
 	(78679,'tahonero'),
 	(78680,'tahúlla'),
-	(78681,'tahúr'),
+	(78681,'tahúr');
+
+INSERT INTO `palabra` VALUES
 	(78682,'tahurería'),
 	(78683,'tahuresco'),
 	(78684,'taichi'),
@@ -78964,7 +79564,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(78927,'tamujal'),
 	(78928,'tamujo'),
 	(78929,'tamul'),
-	(78930,'tan'),
+	(78930,'tan');
+
+INSERT INTO `palabra` VALUES
 	(78931,'-tana'),
 	(78932,'tanaceto'),
 	(78933,'tanador'),
@@ -79213,7 +79815,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(79176,'tarasca'),
 	(79177,'tarascada'),
 	(79178,'tarascar'),
-	(79179,'tarasco'),
+	(79179,'tarasco');
+
+INSERT INTO `palabra` VALUES
 	(79180,'tarascón'),
 	(79181,'tarasí'),
 	(79182,'taratántara'),
@@ -79462,7 +80066,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(79425,'teatina'),
 	(79426,'teatino'),
 	(79427,'teatral'),
-	(79428,'teatralidad'),
+	(79428,'teatralidad');
+
+INSERT INTO `palabra` VALUES
 	(79429,'teatralización'),
 	(79430,'teatralizar'),
 	(79431,'teatralmente'),
@@ -79711,7 +80317,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(79674,'tembladal'),
 	(79675,'tembladera'),
 	(79676,'tembladeral'),
-	(79677,'tembladerilla'),
+	(79677,'tembladerilla');
+
+INSERT INTO `palabra` VALUES
 	(79678,'tembladero'),
 	(79679,'temblador'),
 	(79680,'temblante'),
@@ -79960,7 +80568,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(79923,'teorizante'),
 	(79924,'teorizar'),
 	(79925,'teosinte'),
-	(79926,'teoso'),
+	(79926,'teoso');
+
+INSERT INTO `palabra` VALUES
 	(79927,'teosofía'),
 	(79928,'teosófico'),
 	(79929,'teósofo'),
@@ -80209,7 +80819,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(80172,'terrible'),
 	(80173,'terriblemente'),
 	(80174,'terriblez'),
-	(80175,'terribleza'),
+	(80175,'terribleza');
+
+INSERT INTO `palabra` VALUES
 	(80176,'terrícola'),
 	(80177,'terrífico'),
 	(80178,'terrígeno'),
@@ -80458,7 +81070,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(80421,'tierno'),
 	(80422,'tierra'),
 	(80423,'tierracalentano'),
-	(80424,'tierracalenteño'),
+	(80424,'tierracalenteño');
+
+INSERT INTO `palabra` VALUES
 	(80425,'tierral'),
 	(80426,'tierrero'),
 	(80427,'tierroso'),
@@ -80707,7 +81321,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(80670,'tirada'),
 	(80671,'tiradera'),
 	(80672,'tiradero'),
-	(80673,'tiradillas'),
+	(80673,'tiradillas');
+
+INSERT INTO `palabra` VALUES
 	(80674,'tirado'),
 	(80675,'tirador'),
 	(80676,'tiraflechas'),
@@ -80956,7 +81572,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(80919,'tofu'),
 	(80920,'toga'),
 	(80921,'togado'),
-	(80922,'toga picta'),
+	(80922,'toga picta');
+
+INSERT INTO `palabra` VALUES
 	(80923,'togarse'),
 	(80924,'togolés'),
 	(80925,'toisón'),
@@ -81205,7 +81823,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(81168,'torcedura'),
 	(81169,'torcer'),
 	(81170,'torcho'),
-	(81171,'torcida'),
+	(81171,'torcida');
+
+INSERT INTO `palabra` VALUES
 	(81172,'torcidamente'),
 	(81173,'torcido'),
 	(81174,'torcijón'),
@@ -81454,7 +82074,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(81417,'totolate'),
 	(81418,'totoloque'),
 	(81419,'totomochtle'),
-	(81420,'totonaco'),
+	(81420,'totonaco');
+
+INSERT INTO `palabra` VALUES
 	(81421,'totonicapense'),
 	(81422,'totopo'),
 	(81423,'totoposte'),
@@ -81703,7 +82325,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(81666,'trancadera'),
 	(81667,'trancahílo'),
 	(81668,'trancanil'),
-	(81669,'trancar'),
+	(81669,'trancar');
+
+INSERT INTO `palabra` VALUES
 	(81670,'trancazo'),
 	(81671,'trance'),
 	(81672,'trancelín'),
@@ -81952,7 +82576,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(81915,'traqueteo'),
 	(81916,'traquido'),
 	(81917,'traquita'),
-	(81918,'trarigüe'),
+	(81918,'trarigüe');
+
+INSERT INTO `palabra` VALUES
 	(81919,'traro'),
 	(81920,'tras-'),
 	(81921,'tras'),
@@ -82201,7 +82827,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(82164,'trastería'),
 	(82165,'trastero'),
 	(82166,'trastesado'),
-	(82167,'trastesar'),
+	(82167,'trastesar');
+
+INSERT INTO `palabra` VALUES
 	(82168,'trastesón'),
 	(82169,'trastiberino'),
 	(82170,'trastienda'),
@@ -82450,7 +83078,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(82413,'triatleta'),
 	(82414,'triatlón'),
 	(82415,'tribada'),
-	(82416,'tribadismo'),
+	(82416,'tribadismo');
+
+INSERT INTO `palabra` VALUES
 	(82417,'tribal'),
 	(82418,'tribalismo'),
 	(82419,'tribo-'),
@@ -82699,7 +83329,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(82662,'tritóxido'),
 	(82663,'triturable'),
 	(82664,'trituración'),
-	(82665,'triturador'),
+	(82665,'triturador');
+
+INSERT INTO `palabra` VALUES
 	(82666,'trituradora'),
 	(82667,'triturar'),
 	(82668,'triunfador'),
@@ -82948,7 +83580,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(82911,'trupial'),
 	(82912,'truque'),
 	(82913,'truquero'),
-	(82914,'truquiflor'),
+	(82914,'truquiflor');
+
+INSERT INTO `palabra` VALUES
 	(82915,'trusa'),
 	(82916,'trust'),
 	(82917,'trutro'),
@@ -83197,7 +83831,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(83160,'turiferario'),
 	(83161,'turífero'),
 	(83162,'turificación'),
-	(83163,'turificar'),
+	(83163,'turificar');
+
+INSERT INTO `palabra` VALUES
 	(83164,'turinés'),
 	(83165,'turión'),
 	(83166,'turismo'),
@@ -83446,7 +84082,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(83409,'undécimo'),
 	(83410,'undécuplo'),
 	(83411,'undísono'),
-	(83412,'undívago'),
+	(83412,'undívago');
+
+INSERT INTO `palabra` VALUES
 	(83413,'undoso'),
 	(83414,'undulación'),
 	(83415,'undular'),
@@ -83695,7 +84333,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(83658,'usurero'),
 	(83659,'usurpación'),
 	(83660,'usurpador'),
-	(83661,'usurpar'),
+	(83661,'usurpar');
+
+INSERT INTO `palabra` VALUES
 	(83662,'uta'),
 	(83663,'utensilio'),
 	(83664,'uterino'),
@@ -83944,7 +84584,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(83907,'valquiria'),
 	(83908,'vals'),
 	(83909,'valsar'),
-	(83910,'valse'),
+	(83910,'valse');
+
+INSERT INTO `palabra` VALUES
 	(83911,'valuación'),
 	(83912,'valuador'),
 	(83913,'valuar'),
@@ -84193,7 +84835,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(84156,'veguero'),
 	(84157,'vehemencia'),
 	(84158,'vehemente'),
-	(84159,'vehementemente'),
+	(84159,'vehementemente');
+
+INSERT INTO `palabra` VALUES
 	(84160,'vehicular'),
 	(84161,'vehículo'),
 	(84162,'veimarés'),
@@ -84442,7 +85086,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(84405,'ventar'),
 	(84406,'ventarrón'),
 	(84407,'venteadura'),
-	(84408,'ventear'),
+	(84408,'ventear');
+
+INSERT INTO `palabra` VALUES
 	(84409,'venteril'),
 	(84410,'venternero'),
 	(84411,'venternía'),
@@ -84691,7 +85337,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(84654,'versar'),
 	(84655,'versátil'),
 	(84656,'versatilidad'),
-	(84657,'versear'),
+	(84657,'versear');
+
+INSERT INTO `palabra` VALUES
 	(84658,'versería'),
 	(84659,'versícula'),
 	(84660,'versiculario'),
@@ -84940,7 +85588,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(84903,'vidriera'),
 	(84904,'vidriería'),
 	(84905,'vidrierista'),
-	(84906,'vidriero'),
+	(84906,'vidriero');
+
+INSERT INTO `palabra` VALUES
 	(84907,'vidrio'),
 	(84908,'vidriosidad'),
 	(84909,'vidrioso'),
@@ -85189,7 +85839,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(85152,'virósico'),
 	(85153,'virosis'),
 	(85154,'virotazo'),
-	(85155,'virote'),
+	(85155,'virote');
+
+INSERT INTO `palabra` VALUES
 	(85156,'virotillo'),
 	(85157,'virotismo'),
 	(85158,'virreina'),
@@ -85438,7 +86090,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(85401,'voladero'),
 	(85402,'voladito'),
 	(85403,'voladizo'),
-	(85404,'volado'),
+	(85404,'volado');
+
+INSERT INTO `palabra` VALUES
 	(85405,'volador'),
 	(85406,'voladora'),
 	(85407,'voladura'),
@@ -85687,7 +86341,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(85650,'xilo-'),
 	(85651,'xilófago'),
 	(85652,'xilofón'),
-	(85653,'xilofonista'),
+	(85653,'xilofonista');
+
+INSERT INTO `palabra` VALUES
 	(85654,'xilófono'),
 	(85655,'xilografía'),
 	(85656,'xilográfico'),
@@ -85936,7 +86592,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(85899,'yuxtapuesto'),
 	(85900,'yuyal'),
 	(85901,'yuyería'),
-	(85902,'yuyero'),
+	(85902,'yuyero');
+
+INSERT INTO `palabra` VALUES
 	(85903,'yuyo'),
 	(85904,'yuyuba'),
 	(85905,'z'),
@@ -86185,7 +86843,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(86148,'zángano'),
 	(86149,'zangarilleja'),
 	(86150,'zangarrear'),
-	(86151,'zangarriana'),
+	(86151,'zangarriana');
+
+INSERT INTO `palabra` VALUES
 	(86152,'zangarro'),
 	(86153,'zangarrón'),
 	(86154,'zangarullón'),
@@ -86434,7 +87094,9 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(86397,'zodiacal'),
 	(86398,'zodiaco'),
 	(86399,'zofra'),
-	(86400,'zoilo'),
+	(86400,'zoilo');
+
+INSERT INTO `palabra` VALUES
 	(86401,'zoizo'),
 	(86402,'zolle'),
 	(86403,'zollipar'),
@@ -86679,16 +87341,5 @@ INSERT INTO `palabra` VALUES (49964,'intramuros'),
 	(86642,'zuzar'),
 	(86643,'zuzo'),
 	(86644,'zuzón');
-/*!40000 ALTER TABLE `palabra` ENABLE KEYS */;
+
 UNLOCK TABLES;
-/*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
-
-/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
-/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
-/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
-/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
-/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
-/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
-/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
-
--- Dump completed on 2017-07-11  2:30:40
