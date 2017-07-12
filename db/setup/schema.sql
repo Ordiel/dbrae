@@ -2,7 +2,7 @@ DROP SCHEMA IF EXISTS drae;
 
 CREATE SCHEMA IF NOT EXISTS drae
 	DEFAULT CHARACTER SET utf8
-	DEFAULT COLLATE utf8_general_ci;
+	DEFAULT COLLATE utf8_bin;
 
 USE drae;
 
@@ -34,9 +34,9 @@ CREATE TABLE masculina (
 
 CREATE TABLE palabra (
 	id int(11) NOT NULL AUTO_INCREMENT,
-	palabra text,
+	palabra TEXT  NOT NULL COLLATE utf8_bin,
 	PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=86645 DEFAULT CHARSET=utf8;
+) DEFAULT CHARSET=utf8;
 
     
 CREATE TABLE palabra_multigenero (
@@ -54,9 +54,9 @@ CREATE TABLE variante (
 	palabra TEXT NOT NULL COLLATE utf8_bin,
 	variante TEXT NOT NULL COLLATE utf8_bin
 ) DEFAULT CHARSET=utf8;
-    
+
 CREATE TABLE significado (
-	palabra TEXT NOT NULL COLLATE utf8_bin,
-	indice TEXT NOT NULL COLLATE utf8_bin,
-	significado TEXT NOT NULL COLLATE utf8_bin
-) DEFAULT CHARSET=utf8;
+	id int(11),
+	indice text COLLATE utf8_bin NOT NULL,
+	significado text COLLATE utf8_bin NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_bin;
