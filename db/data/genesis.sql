@@ -2,6 +2,8 @@ USE drae;
 
 SET NAMES 'utf8';
 
+LOCK TABLES genesis WRITE;
+
 INSERT INTO genesis VALUES('ababol','Der. regres. de'),
 	('abacá','De or. tagalo'),
 	('abacero','Cf.'),
@@ -38912,3 +38914,5 @@ INSERT INTO genesis VALUES('φωνητικός','gr.'),
 	('-ωνυμία','el gr.'),
 	('-ωνυμία','gr.'),
 	('-ωνυμος','gr.');
+
+UNLOCK TABLES;
