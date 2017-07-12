@@ -1,5 +1,7 @@
 USE drae;
 
+SET NAMES 'utf8';
+
 LOCK TABLES `palabra` WRITE;
 
 INSERT INTO `palabra` VALUES
